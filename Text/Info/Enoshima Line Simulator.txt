@@ -1,0 +1,4 @@
+This is a preliminary version on which "Passenger Mode" and "Ranking" functions seem to work. The game detects a Windows version of Flash and automatically starts in fullscreen. To exit the game, press ALT+TAB and close the Flash Projector from the taskbar.
+Sometimes, at the "Congratulations" screen, the returning arrow ceases to work. In such a case, close the game and start it again.
+The database included for storing the ranking table and any successful journeys is initially empty.
+Train driving simulation game. Only 2 stations; for beginners.

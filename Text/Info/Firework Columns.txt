@@ -1,0 +1,2 @@
+Arrange the fireworks bombs so that 3 or more bombs of the same color form a straight line horizontally, vertically or diagonally.
+Use the arrow keys to move the falling bombs, press the up arrow key to rotate the falling bombs.

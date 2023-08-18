@@ -1,0 +1,2 @@
+Arrow keys to move for one player. In 2 player mode the first player moves with the a key to go up and the s key to go down. The second player moves with the up and down arrow keys.
+An impressive and unique Pong game with 7 different modes (One you have to unlock) and cheats.

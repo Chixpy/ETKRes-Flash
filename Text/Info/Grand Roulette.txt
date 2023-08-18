@@ -1,0 +1,1 @@
+Clicking on "Music On" will make a new window appear in your current Browser.

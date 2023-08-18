@@ -1,0 +1,1 @@
+Rotate and drop your quad to form a new quad of the same color.

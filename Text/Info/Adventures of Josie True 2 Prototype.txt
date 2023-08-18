@@ -1,0 +1,5 @@
+This is a prototype of the sequal to the The Adventures of Josie True educational adventure game, which appears to have never been finished. As a result, many things are missing and/or don't work correctly.
+Josie, Phil Sax, Crash, and the iCat travel to Ancient Egypt to
+find Ms. Trombone and investigate Papyrus. They encounter
+the famous Female Pharaoh Hatshepsut,
+and solve math and science puzzles!

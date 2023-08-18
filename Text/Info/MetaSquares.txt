@@ -1,0 +1,1 @@
+Online mode doesn't work. Stats, Rules and Settings buttons don't do anything either.

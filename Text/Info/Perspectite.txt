@@ -1,0 +1,1 @@
+By using the arrow keys, you must guide your perspectite through a series of perspective based puzzles. Depth does not exist, and as such, moving the camera around the screen positions objects of different depths close to one another, allowing them to interact. Use this techinique to get your perspective to reach the hidden exits to the level.

@@ -1,0 +1,1 @@
+The objective of the game is to fill all the empty squares with the correct numbers. Every row of 9 numbers must include all digits 1 through 9 in any order. Every column of 9 numbers must include all digits 1 through 9 in any order. Every 3 by 3 subsection of the 9 by 9 square must include all digits 1 through 9. To start the game again, click Reset.

@@ -1,0 +1,1 @@
+Game must be manually reset after game over.

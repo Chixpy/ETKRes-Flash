@@ -1,0 +1,1 @@
+Icon game. Size can be changed in the options menu.

@@ -1,0 +1,1 @@
+Change the end of the launch command to get a different day (and a different puzzle).

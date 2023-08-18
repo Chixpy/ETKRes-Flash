@@ -1,0 +1,1 @@
+Opens a browser window at end of gameplay. Branded version of Amazon Survival.

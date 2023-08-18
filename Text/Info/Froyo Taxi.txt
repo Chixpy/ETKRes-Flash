@@ -1,0 +1,2 @@
+Drive your taxi to pickup a passenger and drop them to their destination.
+Controls: Arrow keys move, Space refuels car, Enter goes to garage, P pauses.

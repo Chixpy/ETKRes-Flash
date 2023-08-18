@@ -1,0 +1,1 @@
+Help the starving rabbit to get its favorite carrots. Move the pointer in the maze to find out the path. Good luck!

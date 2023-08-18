@@ -1,0 +1,3 @@
+Remove all colored shapes from the board by joining up the same shapes.
+Click on a shape and move mouse right or left, then release mouse.
+Hit space to reset current stage anytime.

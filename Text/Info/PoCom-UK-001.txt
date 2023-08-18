@@ -1,0 +1,1 @@
+A massive collaborative hypercomic that was originally created for the wall of the ICA as part of the Comica festival. This web adaptation marked the debut of my flash-based zooming infinite canvas delivery system, the Tarquin Engine.

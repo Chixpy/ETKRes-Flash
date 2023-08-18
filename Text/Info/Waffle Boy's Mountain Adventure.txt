@@ -1,0 +1,5 @@
+If you want levels 2,3,4, you must relaunch the game with the respective keyboard numbers pressed held down (i.e. 3 held down before you relaunch the game for level 3). 
+
+If you die you MUST restart the game. Sorry. 
+
+Score is not tracked,and intro/transition stage is not working.

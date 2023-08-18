@@ -1,0 +1,1 @@
+The game is divided into ten individual swf files - One per "episode".

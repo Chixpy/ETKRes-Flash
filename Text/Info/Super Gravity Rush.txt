@@ -1,0 +1,1 @@
+A fun, casual, simulated multi-player one button game that everyone can enjoy. Press SPACE to switch gravity, the first player to win 3 races wins.

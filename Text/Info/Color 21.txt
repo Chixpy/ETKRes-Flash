@@ -1,0 +1,1 @@
+Your goal is to stack orbs in the columns so that they add up to 21. Click on the bubble above the column that you want to drop the next orb in. How long can you last?

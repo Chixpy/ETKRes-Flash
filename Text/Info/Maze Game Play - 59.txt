@@ -1,0 +1,1 @@
+Guide the Tiger to catch its Prey. Use arrow keys to move the pointer in the maze. Good Luck.

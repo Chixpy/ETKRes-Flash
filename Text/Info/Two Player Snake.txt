@@ -1,0 +1,7 @@
+Let's try snake game as 2 players which we remember from Nokia mobile phones. We try to hunt forage until the the latest one with our snake. You know, we have played this game for hours without any boredom in green-black screens in time. May be, game can be boring when it's played with only one player, but two player version is really interesting and exciting more than you can imagine.
+
+In the game, blue snake is controlled with "W,A,S,D" keys and purple snake is controlled with "Arrow Keys". To restart the game, it's enough to press "Space" button.
+
+Keep yourself away from the borders and try not to hit your friend's snake.
+
+We hope you have fun.

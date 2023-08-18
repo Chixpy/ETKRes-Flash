@@ -1,0 +1,1 @@
+Much like hangman, guess letters to discover a hidden phrase.

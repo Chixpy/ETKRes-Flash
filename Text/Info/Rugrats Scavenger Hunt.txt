@@ -1,0 +1,1 @@
+Clicking on the thumbnails for screenshots and movies does nothing.

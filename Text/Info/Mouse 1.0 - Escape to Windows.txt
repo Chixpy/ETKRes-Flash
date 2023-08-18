@@ -1,0 +1,1 @@
+Guide your mouse through the maze. Be careful you don't hit the edges or click the mouse other wise you must start again.

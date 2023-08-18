@@ -1,0 +1,7 @@
+This is a hacked version of the game from ArcadePreHacks.com that includes some cheats.
+
+The cheats are:
+  '1' key: Toggle infinite health
+  '2' key: Toggle infinite ammo
+  '3' key: Unlock all game modes
+  '4' key: +500 scrap

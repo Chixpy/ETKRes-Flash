@@ -1,0 +1,2 @@
+Try to beat the computer using only knight moves from chess.
+A square can only be visited once. If you can't move, you lose.

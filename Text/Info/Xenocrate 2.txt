@@ -1,0 +1,1 @@
+Arkanoid style game featuring 20 levels and multiple pickups for enhancement of paddle and ball effects.

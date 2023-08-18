@@ -1,0 +1,5 @@
+Little cyberpunk game with experimental mechanic.
+
+Use the UP Key or [W] to jump and double-jump. DOWN or [S] to slide.
+Shoot or avoid bullets.
+Time slows down when you get hit. Press the Spacebar to enable normal time speed.

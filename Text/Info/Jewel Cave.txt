@@ -1,0 +1,6 @@
+Your Jewels have been stolen! Explore a dangerous cave in this retro platformer while hunting down the thief. Many challenges await you on your journey, such as tough enemies, giant bosses, and many secrets!
+
+Jewels:
+Fire Jewel - Damages single enemies and lights torches.
+Wind Jewel - Jump right before it hits you, to wind-jump.
+Earth Jewel - Damages multiple enemies and destroys various blocks.

@@ -1,0 +1,1 @@
+(Translation) Make hamburgers that are identical to the ones shown at the upper-left corner. Use the cursor keys to move up/down, and Space to change ingredients.

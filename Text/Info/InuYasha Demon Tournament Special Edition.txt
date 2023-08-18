@@ -1,0 +1,1 @@
+Opens a blank browser window on beating the game.

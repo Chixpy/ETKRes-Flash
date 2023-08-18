@@ -1,0 +1,1 @@
+Fix the bulbs in each of the holder to make all the bulbs to flash. Fix different color bulbs in each of the holder so that no two consecutive bulbs of the same are connected directly. To score more,make all bulbs to flash in a short duration.

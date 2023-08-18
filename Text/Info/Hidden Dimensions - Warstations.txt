@@ -1,0 +1,15 @@
+The multiplayer section of this game uses API calls to player.io. Multiplayer infrastructure is not included.
+A sci-fi card game where the player controls a large warstation and faces various alien opponents. Includes multiplayer.
+
+Campaign mode instructions:
+Select an opponent from the available targets. Additional targets become available once you defeat some opponents. Click fight to enter the combat screen, where all one has to do it click the card one wants to play. Each player gets to play one card per turn. The goal is to either get 100 armor HP, or your opponent to zero armor, or collect a total of 300 resources.
+
+Quick fight instructions:
+Here all opponents are available to you and the deck and station are different from the ones used in any campaign game you might have played. The deck is also saved on your computer. Simply browse the opponents and choose which one you'd like to fight. If you pick 'random' the game will generate an opponent out of 100s of possibilities. Combat itself is similar to campaign mode.
+
+Multiplayer instructions:
+Once connected to the multiplayer server, you'll be presented with the lobby. Here you'll find all games that have been started by other players and which are still waiting for an opponent. Clicking any of these games will let you fight any of these players. You can also create your own games and wait for someone else to join you. The deck and ship you'll use here are the same as the one in quickfight mode.
+Combat is again similar the other modes, but with one difference : each turn is timed and players have to make a decision within 30 seconds.
+
+Deckbuilding instructions:
+Since there are 3 ways to defeat an opponent, it's best to focus on only one tactic. If you want to reduce your opponent's armor, it's best to use plenty of ships and ways to increase your pilots. If you want to play defensive and try to get your station's armor up to 100, focus on armor increasing cards and metals. If you want to score 300 total resources, you'll want some defense to counter what your opponent will be doing, but primarily you'll want to increase your station's resource generation.

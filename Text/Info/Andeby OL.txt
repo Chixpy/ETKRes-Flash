@@ -1,0 +1,6 @@
+You will automatically be "logged in" to a mock user account with an inexhaustible supply of Duckburg coins, allowing you to freely purchase any of the available items.
+---
+The original settings XML for the Norwegian version, containing all the localised strings, is unfortunately lost. A reconstructed file is included in its place.
+Nu er OL i fuld gang - også i Andeby! Stadion er propfuld af Andebyborgere, der kun venter på, at DU skal indtage arenaen!
+Før Anders Ands atletiske andekrop til tops - med eller uden guldsko.
+På pladserne, færdige, løb, hop, kast!!

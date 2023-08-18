@@ -1,0 +1,1 @@
+You get point by hitting the moles quicky, if you hit two moles in half second you get a x2 multiplier, if you follow hitting in half second will get up to x6 multiplier. At the end of the game you can save your scores locally and try to beat your Top 8 scores later.

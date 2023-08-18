@@ -1,0 +1,2 @@
+This game touches on implied suicide in later episodes
+"Register" and "Login" functions do not work due to their use of internet connectivity.

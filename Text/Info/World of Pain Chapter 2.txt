@@ -1,0 +1,9 @@
+Read in Game Help!
+
+- First thing you have to do is upgrade your stats and skills. (recomend at start, vitality and strength.)
+
+- You can use the items by selecting it pressing Use/Equip, or by double clicking the item.
+
+- The encounter frequency is 10 by default. That means you can have a battle each 10 steps, if you want more battles you will click on 5. You can change that any time.
+
+- You can try to flee battle's, but if you fail you can't attack until next turn.

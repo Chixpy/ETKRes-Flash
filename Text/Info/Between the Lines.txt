@@ -1,0 +1,1 @@
+Draw a line for the ‘s’ star to the ‘f’ star. Making sure you stay ‘between the lines’

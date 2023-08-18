@@ -1,0 +1,2 @@
+Manipulate the power of colors and achieve color awesomeness in this fun retro puzzler based on additive color theory!
+Collect a primary color to make blocks of that color disappear. Collect a secondary color to make the blocks of the primary colors that make up that secondary color disappear. See: http://en.wikipedia.org/w iki/Additive_color_theory for help with primary and secondary colors in Additive Color Theory.

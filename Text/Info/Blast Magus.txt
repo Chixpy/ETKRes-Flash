@@ -1,0 +1,2 @@
+System of ad watches for health points was already broken in source, so "technically" working as intended here. After a 	few seconds, the grey window can be skipped.
+Blast gems and make combos to clear all the obstacles, 	earn stars, and win!

@@ -1,0 +1,1 @@
+Puzzle platformer, based on the ability to shift different parts of the level.

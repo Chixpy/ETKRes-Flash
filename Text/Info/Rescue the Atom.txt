@@ -1,0 +1,1 @@
+Move the Pointer inside the maze without touching the Enemy's. Collect the objects to gain more points. If you hit the enemy's, a life get Reduced.

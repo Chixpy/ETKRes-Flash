@@ -1,0 +1,1 @@
+Determine where all the mines are without uncovering any of them.

@@ -1,0 +1,7 @@
+The protective shield is attacked by evil alien spaceships. The new colony of the universal Sino-Russian empire is threatened of destruction.
+During the attack, you can protect the shield and fix it !
+You are the pilot of a little repair spaceship and you have to put the blocks back in the wall ! But to do this, blocks must be the right colour ! Only blocks of the same colour can stick together.
+
+But be carefull, you must reach a certain score to go to the next level ! And if an alien shoot touches the top of the screen it’s Game Over !
+
+Tip : to get more points, send several bricks at the same time back in the walll !

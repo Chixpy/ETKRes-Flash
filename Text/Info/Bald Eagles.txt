@@ -1,0 +1,1 @@
+Extras contain a screencap of the page the quiz draws its info from.

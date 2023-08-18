@@ -1,0 +1,1 @@
+Each puzzle consists of a square grid with numbers appearing in all squares. The object is to shade squares so that the numbers don’t appear in a row or column more than once. In addition, shaded squares must not touch each other vertically or horizontally while all un-shaded squares must create a single continuous area. There is only one unique solution for each puzzle.

@@ -1,0 +1,1 @@
+This version is compiled with all the development cheats. You can open the level editor by pressing "O" or right click and select "Show Editor". F1 to F7 keys will load a specific level at any point and all the levels are unlocked.

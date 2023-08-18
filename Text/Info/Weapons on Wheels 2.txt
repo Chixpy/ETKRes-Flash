@@ -1,0 +1,24 @@
+The sequel to "Weapons on Wheels" (my first Flash game from three years ago!)
+  
+  - - - - - - - - - -
+  
+  Hey guys, here's my latest Flash creation. An action-racing game filled with weapons and explosions. It may be a tad difficult at first for some of you, but I believe once you get the hang of the game, you'll have a great time playing it!
+  
+  - - - - - - - - - -
+  
+  Weapons on Wheels 2 is a fast-paced, action-filled racing game - with a twist. If you can't outmaneuver your opponents, you can just blast them off the road instead!
+  
+  Features include:
+  > 12 unique racing levels, utilizing the theme of the 4 seasons.
+  > Eight cars to choose from
+  > Six weapons to purchase and upgrade through four different versions (each more powerful than the last)
+  > Four different categories of car upgrades, again through four different versions each
+  > Leaderboards for each track
+  > Progress saving/loading
+  > Custom bindable controls
+  
+  Built with Flash's Stage3D technology using the Starling framework!
+  
+  - - - - - - - - - -
+  
+  Enjoy! Let me know of any potential bugs, of course.

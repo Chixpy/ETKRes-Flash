@@ -1,0 +1,1 @@
+Retro Fruit Crush is a drop down matching 3 puzzle game. Game is level enabled and each level is time limited. If you do not crush as many fruits as needed you will lose the game. The time bar is at the right side of the game. Make at least 3 of the same fruits in group to remove them of the stage. The more in group the more points.

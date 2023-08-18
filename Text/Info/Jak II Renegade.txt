@@ -1,0 +1,1 @@
+Select United Kingdom or Australia in the drop down list to play. Only English works for now, other languages are missing.

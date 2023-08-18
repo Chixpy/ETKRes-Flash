@@ -1,0 +1,1 @@
+Unicorrida is a 2D arcade game where you are the "Matador" which has to strike down 6 different type of unicorns! Each unicorn has an unique behaviour which makes the player adapt to its combat style every time! Fight unicorns with Cape and Banderillas and collect Rainbows they drop to unlock and improve the "Matador" abilities (Speed, Life, Attack).

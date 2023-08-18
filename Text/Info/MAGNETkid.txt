@@ -1,0 +1,25 @@
+Hey,
+Well instead of making another shooter I decided to make a puzzle/action/platformer type thing titled MagnetKid. The game is challenging but I've managed to beat it :P.
+
+The title was a little to ambitious for me I believe, but still I tried and I don't think I did too badly :3 I'll prolly work on something smaller next, like a SmashTV type game, I dunno :P
+
+CONTROLS:
+Arrows = Move
+A = Jump
+S = Switch Polarity
+Enter = (Accept Menu)
+B (while in game) = Return to menu
+M (while in game) = Mute sound
+N (while in game) = Unmute sound.
+
+-Guide-
+If the MagnetKid's polarity matches the object's polarity, they will repel.
+If the MagnetKid's polarity are different to the object's polarity, they will be attracted.
+Spikes/Bombs/General hazards will kill you...but you have unlimited lives so...!
+Find the four gameboy's to warp to bonus levels and unlock NG medals!
+
+Anyway yeah, I just wanted to give designing a platformer game a stab, I just hope ye likeths :3
+
+-Sinclairian
+
+(This is my first stab at a platform game, so yanno :P)

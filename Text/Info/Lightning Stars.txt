@@ -1,0 +1,1 @@
+Develop and extend your Lightning in such a way that it collects all the glittering stars in the scene at once.. Do not get collide with the Black clouds, for you cannot proceed further. . You do have an option to make the black clouds disappear when you collect the White cloud.. Getting in contact with the Umbrella will stop your growth. Use this option wisely.

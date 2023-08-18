@@ -1,0 +1,8 @@
+There is a glitch in this game, where if you move your mouse fast enough, you can make the orb pass through blocks and get out of bounds.
+Instructions
+
+The object of Orb is simple.  You must guide the orb through the level to the goal.  You do this by simply clicking on the orb and dragging it to the green goal zone.  But, the orb must not hit a wall or you'll have to start again.  You don't always have to carry the orb.  You can drop it and pick it back up again.
+
+The orb is not the only thing you can carry.  There are crates that you can pick up that can be dropped on switches.
+
+Colors:  The orb can change color.  Depending on the color, you can do different things.  The orb will change when it hits color changers.

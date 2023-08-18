@@ -1,0 +1,1 @@
+This game has a puzzle for each day of the year. To change the current date modify the Launch Command and change dt parameter.

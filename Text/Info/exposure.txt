@@ -1,0 +1,34 @@
+OBJECTIVE
+=========
+
+explore the desert. discover the secrets of the orbs and the ruins.
+find all four endings!
+
+carried items will be altered after 10s exposure to sunlight.
+
+CONTROLS
+=========
+
+LEFT / RIGHT / UP / DOWN - move and climb
+SPACE - jump
+Z - drop item
+-/+ adjust volume
+
+WALKTHROUGH
+=============
+
+hints:
+zillix.net/docs/exposure/hints.txt
+
+walkthrough:
+zillix.net/docs/exposure/walkthrough.txt
+
+INFO
+====
+
+originally made in 48hrs for Ludum Dare 27 (theme: 10 seconds).
+minor tweaks made after the competition.
+
+FIXES
+=====
+-fixed an issue with the 'wasteland guardian' not always unlocking correctly

@@ -1,0 +1,1 @@
+Captain Coppergravel is a simple but fun game that allows you to speed through an asteroid field while catching stars for points. Catch stars without missing any for a point multiplier.

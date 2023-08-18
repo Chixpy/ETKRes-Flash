@@ -1,0 +1,1 @@
+This is a demo game made with the MOTAS editor.

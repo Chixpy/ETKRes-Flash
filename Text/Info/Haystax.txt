@@ -1,0 +1,5 @@
+A physics game where you must kick a sheep across the field and knock the black sheep off the haystax.
+
+You ever get your sheep stuck on haystax? Well farmer Joe does, and the only way to get them down is kick another sheep into them.... yes...
+
+Can you pass all 20 levels?

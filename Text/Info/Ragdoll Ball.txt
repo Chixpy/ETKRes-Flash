@@ -1,0 +1,1 @@
+2 Player Mode doesn't work, sends to Bored.com instead. It's not present on other version of the game

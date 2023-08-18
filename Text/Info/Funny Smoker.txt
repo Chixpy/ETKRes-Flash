@@ -1,0 +1,1 @@
+Make the Character smoke without being noticed by others. Earn score for smoking. Finish the target before the time runs out and move to the next level.

@@ -1,0 +1,1 @@
+Guide the Jasmin to reach her friend Mark. Use Arrow keys to move the pointer inside the Maze. Good Luck!

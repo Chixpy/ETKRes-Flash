@@ -1,0 +1,1 @@
+Javascript call removed by eientei so the game doesn't open a browser tab. Original .swf is left in its original location.

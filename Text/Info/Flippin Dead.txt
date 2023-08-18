@@ -1,0 +1,1 @@
+Flippin� Dead is a crazy arcade game featuring zombies, rainbows, power ups and blood baths! Survive hordes of undead using unique power ups and unleash the power of the rainbow to slaughter everything in your path! Fixed an issue where the Evil Eye of the Dead would spawn over and over again.

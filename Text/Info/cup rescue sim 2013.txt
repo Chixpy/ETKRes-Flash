@@ -1,0 +1,7 @@
+luigi has to rescue mario's favourite cup
+
+controls:
+
+left / right = move
+up = jump
+space = start

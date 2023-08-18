@@ -1,0 +1,1 @@
+Assemble all the pieces of pipeline to connect the girl and the boy. You are provided with a 'Rotate' option in the palette, so that you can rotate the pieces of pipeline. Connect them correctly within the time limit and click the 'Throw' button, once you're done. Play all the 5 levels to complete the game.

@@ -1,0 +1,1 @@
+Guess the word before all 10 parts of the hangman have been drawn.

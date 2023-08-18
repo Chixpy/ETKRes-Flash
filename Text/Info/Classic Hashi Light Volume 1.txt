@@ -1,0 +1,3 @@
+The object is to connect all islands according to the number of bridges so that there are no more than two bridges in the same direction and there is a continuous path connecting all islands together. Bridges can only be vertical or horizontal and are not allowed to cross islands or other bridges.
+
+There is only one unique solution for each puzzle.

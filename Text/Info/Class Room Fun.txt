@@ -1,0 +1,1 @@
+Make the students to hit the lecturer, with the objects, and without getting caught by the lecturer. To select the object, use space bar.  To make the particular student to hit, press the number found above the student. To hit the lecturer, press the appropriate number on your number pad.

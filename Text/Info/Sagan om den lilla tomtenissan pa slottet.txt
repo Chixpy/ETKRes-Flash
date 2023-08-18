@@ -1,0 +1,1 @@
+Hacked to replace hardcoded https requests with http and to replace navigateToUrl to parent page when game ends with fscommand("quit").

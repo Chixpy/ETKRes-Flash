@@ -1,0 +1,3 @@
+Move the blocks to their matching squares.
+Click on the blocks and drag them in the direction you want them to go.
+Click 'Cubilus' anytime to reset stage, select game level using the arrows.

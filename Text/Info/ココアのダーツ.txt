@@ -1,0 +1,4 @@
+Game Instructions: 
+Press the button to shoot the dart, the crosshair and the power gauge determines where you are aiming(horizontally and vertically). 
+Reach the target score in 3 shots to pass the stage (In hard mode, getting a score in a specific range is required)
+ココアと一緒にダーツにチャレンジ！ 場所と強さをよーくねらってめざせハイスコア！

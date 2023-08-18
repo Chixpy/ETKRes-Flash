@@ -1,0 +1,1 @@
+Tactical game with the need to make decisions quickly. You play as multicolored paint. Your world is captured by the black paint. You need to bring ink droplets to the elevator in the end of the level.

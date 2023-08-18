@@ -1,0 +1,11 @@
+The controls are
+
+Z - shoot
+X - change gun
+C - turret
+V - grenade launcher
+
+keypad 1 - shoot
+keypad 2 - change gun
+keypad 3 - turret
+keypad 0 - grenade launcher

@@ -1,0 +1,3 @@
+Right Arrow - Move the gun to the right.
+Left Arrow - Move the gun to the left.
+Space - Shoot.

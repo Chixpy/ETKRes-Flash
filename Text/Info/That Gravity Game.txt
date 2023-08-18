@@ -1,0 +1,6 @@
+Edit2: Fixed small bug where the game may not load properly for some people
+Edit: Thanks for front page guys!! :D
+
+Play as a living marshmallow and escape a machine using altering-gravity based puzzles.
+
+(There's a walkthrough button in game if you get stuck)

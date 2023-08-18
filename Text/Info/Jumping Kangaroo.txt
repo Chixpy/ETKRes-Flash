@@ -1,0 +1,1 @@
+Help the kangaroo to cross the waterfalls. Use mouse to fix the angle and speed.  Fix the angle to select the direction for jumping.  Select the speed level based on the distance. Avoid obstacles and achieve the target in each level.

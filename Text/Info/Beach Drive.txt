@@ -1,0 +1,1 @@
+Drive your Boat to reach the Target Distance. The distance increases with each level. Avoid colliding with other boats. Keep an eye on your boat health.

@@ -1,0 +1,4 @@
+Walking, some text.
+
+Arrows: move
+Z: Advance text

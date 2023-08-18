@@ -1,0 +1,4 @@
+Game Insturctions:
+Click the mouse key repeatedly in the corresponding direction to guide Cocoa towards the taiyaki, watch out for the slippery surface and slide back to the starting point before time runs out. There's a total of 15 stages.
+大好きなたい焼きのためなら氷の海もなんのその！ つるつる滑る氷上コースを駆け抜けるスリップアクションゲーム☆　
+動作が重いときには、画面上で右クリックして「画質」を「中」か「低」にしてみてください。

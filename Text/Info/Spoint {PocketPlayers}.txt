@@ -1,0 +1,1 @@
+An unbroken line of 5 in any direction wins the game.

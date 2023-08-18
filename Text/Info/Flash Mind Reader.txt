@@ -1,0 +1,7 @@
+Choose any two digit number, add both digits and then subtract the total from your original number.
+
+Example if you chose 23: 2+3 = 5 minus 5 will give you your answer.
+
+Once you have your answer click the blue button, your so predictable I knew you'd pick that.
+
+Once you have your answer click the blue button, your so predictable I knew youd pick that.

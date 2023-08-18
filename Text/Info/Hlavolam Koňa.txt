@@ -1,0 +1,1 @@
+Známa šachová úloha preskákať jazdcom šachovnicu tak, aby sa na každé políčko skočilo práve raz. Príjemná grafika. Možnosť vracania ťahov.

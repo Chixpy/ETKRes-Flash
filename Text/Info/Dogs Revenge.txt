@@ -1,0 +1,1 @@
+In the first level,make the dogs to kiss each other when its owners doesn't notice them. In the next level,make the owners to kiss each other when their dogs doesn't notice them. If noticed, the dogs will take revenge of them.

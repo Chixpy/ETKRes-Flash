@@ -1,0 +1,21 @@
+Unlocked all 150 levels, however, levels 47, 49, 64, and 94 are unbeatable. Cheats are enabled, and are needed to get to all the levels.
+Cheats in Gameplay:
+L to go to the next level (USE THIS TO SKIP UNBEATABLE LEVELS!!!)
+] to show debug info
+V to show more debug info
+W to complete the level with the objectives met
+R to remove all "free" tiles on the game board
+T to run out of time
+C to win a cup
+Cheats in Aquarium:
+3 to exit/reload Title Screen
+4 to reload the HUD
+w to show the end of game screen
+E to spawn a Playrix Spam message
+T to spawn a free coins thing (crashes game if clicked)
+U to show a nag screen
+P to pause the game
+D to spawn some dirt you need to clean
+L to level up
+N to show a nag screen
+M to spawn 1000 coins

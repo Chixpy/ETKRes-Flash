@@ -1,0 +1,1 @@
+Nurikabe je známy japonský hlavolam. Na pláne treba nakresliť ostrovy v mori, pričom poznáme iba veľkosti ostrovov, ktoré sú umiestnené na rôznych miestach plánu a pár doplňujúcich pravidiel. Môj program obsahuje prevzaté úlohy.

@@ -1,0 +1,1 @@
+Just a shoot'em-up. Defend the planets. Do not allow the ufo's to hit them with their plasma-balls and don't let them collide.

@@ -1,0 +1,1 @@
+Create the required number of combinations before the orc reaches the castle.

@@ -1,0 +1,1 @@
+Game opens blank pages on level start

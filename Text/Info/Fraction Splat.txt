@@ -1,0 +1,5 @@
+Click on the target type of fraction while avoiding the others. How fast can you do it?
+There are three rounds...
+Round 1: Target = Mixed Numbers
+Round 2: Target = Fractions that are greater than or equal to 1
+Round 3: Target = Fractions that are less than 1/2

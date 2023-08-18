@@ -1,0 +1,1 @@
+Game will crash on load after playing for the second time. Apparently there's a bug on the load game state that some very specific flash version should fix. More research is needed.

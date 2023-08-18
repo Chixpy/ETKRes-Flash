@@ -1,0 +1,1 @@
+You have your own Chicken fry shop on the beachside road! Fry & serve required numbers of chicken legs to the customers before their waiting time exceeds. Remember! To serve the fried chicken, you will have to place only one fried chicken leg on packing machine at a time. When customer places the money, grab it to make next customer will come in.

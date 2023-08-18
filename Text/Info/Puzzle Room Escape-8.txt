@@ -1,0 +1,1 @@
+The new mazes are generated and accumulated in the Puzzle room. Start the act of finding a route through the mazes to escape from the puzzle room smartly. God luck and have fun!

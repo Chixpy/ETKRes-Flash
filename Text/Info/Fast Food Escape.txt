@@ -1,0 +1,2 @@
+AddictingGamesStinger.swf is missing, but the game works fine without it.
+Trapped in Chunky Burger, you must search the restaurant to find items and make your escape. Otherwise you're stuck eating fast food for the rest of your life!

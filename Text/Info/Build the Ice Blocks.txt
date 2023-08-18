@@ -1,0 +1,1 @@
+The falling ice blocks should be made to fall and rest on the wooden vehicle, without leaving any gap between the ice blocks. Use right and left arrow key to move the wooden vehicle. Complete each stage to play further stages. Building one row of ice blocks without any gap will extend the time duration by 20 seconds.

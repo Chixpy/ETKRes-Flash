@@ -1,0 +1,1 @@
+This is a small old DOS game that I ported to Flash. Make rows of at least 3 blocks with the same color (horizontal, vertical, diagonal) to make the blocks disappear. The longer you play, the more colors appear. The colors are random, if you don't like them, pause the game (P) to get new colors. Use the Left and Right arrow keys to move the blocks, Down or Space to drop.

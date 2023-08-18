@@ -1,0 +1,1 @@
+Match up two corresponding tiles to remove it from the top.

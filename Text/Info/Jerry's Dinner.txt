@@ -1,0 +1,2 @@
+The game file tries to load two additional assets from www.mochiads.com and mochibot.com, neither of them being required for the game to work. (The first one provides highscores) Such assets are not included.
+Play as Jerry and manage your own diner! Sit customers, take their orders and bring them their food, don't take too long or they'll get impatient. Purchase upgrades to make your diner better and give customers a better service.

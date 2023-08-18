@@ -1,0 +1,1 @@
+Use your mouse to drag pieces onto the maze to help the cat get his cookie. Click on the pieces to rotate them. When you have the path ready, click on the "play" arrow at the bottom to drop the cookie.

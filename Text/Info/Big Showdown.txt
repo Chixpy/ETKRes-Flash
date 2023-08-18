@@ -1,0 +1,1 @@
+Thirty seconds, a target number, and a pair of dice. The more you roll your target number, the more money you made - but if you roll SHOW DOWN - you win the jackpot!

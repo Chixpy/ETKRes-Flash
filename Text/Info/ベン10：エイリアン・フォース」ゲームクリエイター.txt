@@ -1,0 +1,1 @@
+Game uses html pages for browsing full levels. This level database needs to be implemented.

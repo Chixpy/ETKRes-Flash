@@ -1,0 +1,1 @@
+Náročný hlavolam francúzskeho matematika Lucasa. V mojom spracovaní sa jedná o vzájomnú výmenu dvoch skupín vtákov. Pohyb vtáka spočíva v prelete na vedľajšie políčko alebo prelete cez vedľajšieho vtáka. Každá skupina vtákov má však svoj smer pohybu, jedna vľavo druhá vpravo, čo spôsobí problémy. Program je zábavný aj v prípade, že sa úlohu ako celok nepodarí vyriešiť.

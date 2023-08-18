@@ -1,0 +1,1 @@
+There are lots of assets requested that don't exist. Game seems to work ok.

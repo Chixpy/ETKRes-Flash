@@ -1,0 +1,1 @@
+Winamp is exit-able, the exit button on the top right is just invisible.

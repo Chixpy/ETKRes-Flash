@@ -1,0 +1,1 @@
+Divide the objects by drawing straight lines to produce five sections in first four levels and four section in rest of the levels, each containing equivalent different objects. While drawing the lines, avoid touching the object.

@@ -1,0 +1,1 @@
+Mice Food Journey is a simple adventure game, where mice are facing some obstacles in search of his food. Your aim in this game is to help mice to collect his food safely in each level. Collect food items for points, jump over or avoid obstacles and livings and go to the next level.

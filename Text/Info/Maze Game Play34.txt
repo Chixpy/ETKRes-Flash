@@ -1,0 +1,1 @@
+Help the cat to reach the milk bottles. Move the pointer in maze to find out the path. Good Luck!

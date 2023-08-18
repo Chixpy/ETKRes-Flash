@@ -1,0 +1,1 @@
+Combination puzzle and shooting game where the aim is to collect all the orbs in all 55 levels. Some will require brainpower, some will require a steady hand. Rotate your cursor with left and right, click to shoot and collect all the green orbs. Can you get to the top of the leaderboard?

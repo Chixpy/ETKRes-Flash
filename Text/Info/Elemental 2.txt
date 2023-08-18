@@ -1,0 +1,2 @@
+This is Elemental 2, last edited on July 22, 2016. It's an updated version of Version 1 which itself is based off of the game Doodle God.
+This game autosaves every time you get a new element, by the way.

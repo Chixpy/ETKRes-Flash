@@ -1,0 +1,3 @@
+A short 'n sweet avoider style game I decided to finish up. Use the arrow keys to guide a lil' bat through hellish mazes. Test your reflexes and all that jazz.
+
+PS the coins are pointless, bats have no use for coins silly!

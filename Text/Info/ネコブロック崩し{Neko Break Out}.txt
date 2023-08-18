@@ -1,0 +1,7 @@
+とりあえず簡単に操作説明
+・しっぽでハンマーを掴む。(マウスのボタンを押しつづける)
+・グルグル振り回して勢いをつける。（マウスを上手く回す）
+・ブロックめがけて放り投げる。（マウスのボタンを離す）
+
+Original blog post for prototype:
+https://web.archive.org/web/20151023003147/http://ishi.blog2.fc2.com/blog-entry-169.html

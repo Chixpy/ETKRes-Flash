@@ -1,0 +1,1 @@
+This game explores the place where platformer meets bullet hell. It's a distillation of some Mario experiences, taken to their logical extreme. Your challenge is to jump carefully through swarms of enemies. A variety of gameplay types, powerups, tilesets, and music keep things fresh and unexpected.

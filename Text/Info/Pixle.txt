@@ -1,0 +1,1 @@
+This is a puzzle game where you control Pixle: your goal is to gather all the letters and escape from each of the 50 levels while avoiding all the deadly traps. Use your tools wisely in order to stay alive and reach the final exit!

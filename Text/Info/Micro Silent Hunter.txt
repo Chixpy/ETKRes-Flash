@@ -1,0 +1,1 @@
+LD 17 entry! W/UP: accelerate S/DOWN: desacelerate D/RIGHT: rotate clockwise A/LEFT: rotate counter-clockwise SPACE/CLICK: shoot torpedo Q/E: changes submarine mode (submarine, periscope vision, surface

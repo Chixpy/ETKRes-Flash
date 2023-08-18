@@ -1,0 +1,1 @@
+Move the Lady inside the maze without touching the Enemy's. Collect the Lemon as many as to gain more points. If you hit the enemy's, a life will get reduce.

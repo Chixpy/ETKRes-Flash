@@ -1,0 +1,2 @@
+Controls: Z to Jump, X to Attack. Arrow Keys to move.
+Double-tap left or right to run.

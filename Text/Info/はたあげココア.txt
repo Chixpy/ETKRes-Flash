@@ -1,0 +1,5 @@
+Game Instructions:
+Flag raising game. Wave your flags up or down(mouseclick on the corresponding sides) based on the commands
+"赤" = Red, "白" = White, "あげ" = Up, "さげ" = Down.
+Notice it's a reverse when there's a "ない" in the command.
+赤と白の旗を水兵ココアがあげたりさげたり。ステージが進むとスピードもアップ！ 反射神経と集中力でチャレンジしてみてね☆

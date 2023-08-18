@@ -1,0 +1,1 @@
+Game server still not implemented, just put any info in the login to start game.

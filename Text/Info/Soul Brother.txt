@@ -1,0 +1,1 @@
+Launches in the wrong window size. Just click and drag the window to make it bigger.

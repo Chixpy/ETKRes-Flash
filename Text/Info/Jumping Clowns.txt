@@ -1,0 +1,1 @@
+A multilevel musical game of memory. An illustrated hammer will appear on the screen. The player must use the mouse to click on clowns’ heads according to the order in which they pop up. With every stage more clowns will appear and the amount of time available to the player will become shorter

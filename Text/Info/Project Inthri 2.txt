@@ -1,0 +1,7 @@
+Another shoot em up
+
+Controls: Mouse to move, left click to shoot
+P - Pause
+Q - Toggle Quality
+
+The preloader is designed to allow you to play each stage as it loads, so you can get going when its only about 22% done

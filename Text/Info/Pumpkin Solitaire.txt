@@ -1,0 +1,1 @@
+Destroy the pumpkins by putting them next to each other. When 3 pumpkins get together, they will be destroyed.

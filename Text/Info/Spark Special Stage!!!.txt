@@ -1,0 +1,1 @@
+Uses mouse to control. Alt uses arrow keys.

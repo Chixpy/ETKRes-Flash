@@ -1,0 +1,1 @@
+Z and X = movement, Down = shoot, A = pause, S = resume

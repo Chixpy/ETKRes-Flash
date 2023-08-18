@@ -1,0 +1,12 @@
+Being sent for milk is not a simple task, when you live in a world filled with evil, magical frogs and fireball-throwing ants.
+
+Frog Fable is a bullet-hellish action-RPG set in fantasy world, in which your only weapon is inflating things until they blow up.
+
+** Update 06 Dec 2016 **
+Fixed a dozen more typos and removed the lag when hitting an enemy.
+
+** Update 29 Nov 2016 **
+It’s not possible to accidentally run away from boss fighs anymore. Also fixed a typo.
+
+** Update 25 Nov 2016 **
+There is now an Autofire skill obtainable in the game. It's in the same location you get the milk from.

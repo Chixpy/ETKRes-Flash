@@ -1,0 +1,1 @@
+It is a Bleach arcade style fighting game. It has 9 characters from the anime and 6 stages you can battle it out on.

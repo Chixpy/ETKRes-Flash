@@ -1,0 +1,18 @@
+Melee Man is a collaboration between myself and David vs Goliath. We built this game in under a week! The game is rendered at 160x144 (Gameboy Color resolution) and features addictively brutal gameplay elements and 2 beastly boss rooms.
+
+Melee Man features the retro stylings of Daniel Davis. Daniel is making waves in the USA chiptune scene with his blend of timeless melodies and mathematical rhythms... using only an original GameBoy as his instrument!
+
+Controls:
+A/D or Arrow Keys to Move
+W, Up Arrow, C or J to Jump
+S, Down Arrow, Z or K to Shoot
+R to Retry
+M to Mute
+
+UPDATES
+
+10/31/2011 - I moved some levels around and fixed a few major complaints that people had. Really great feedback, guys! Keep it coming. :)
+
+10/31/2011 (2) - Fixed a bug wherein the boss on level 15 had more health than intended. He should now die after the 8th hit. Thanks as always for your continued support and feedback. :)
+
+11/13/2011 - Fixed a bug where levels would not load for certain users. Thanks for bringing this to my attention, everyone! Let me know if any of you still have problems.

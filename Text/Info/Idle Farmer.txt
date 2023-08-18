@@ -1,0 +1,12 @@
+http://junjosite.appspot.com/time.txt changes with the actual time on the live web, and is thus impossible to recreate in Flashpoint. Therefore, the time value has been set to 0. This does not appear to affect the game, however.
+Hybrid between active and idle-type game where you earn money by harvesting and selling your crops. Rise your skill, buy better tools and compost (power-ups), and be loved by the girls of the village!
+
+Will you be able to earn enough money to build a good house and start a family?
+
+Instructions
+Mouse Only.
+
+Click on fields to set orders:
+- Irrigate to make the crops grow faster for a time.
+- Harvesting is automatic, but it will be faster if you click (repeatedly) on the field while doing it.
+- Buy fields and seeds first, then (when have four of each) begin with tools and compost.

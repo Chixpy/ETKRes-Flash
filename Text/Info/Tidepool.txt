@@ -1,0 +1,2 @@
+Leaderboard doesn't work in the old version.
+Inspired by Spore, this game has you control a tiny creature in a vast tidepool. Eat to grow, and grow to survive.

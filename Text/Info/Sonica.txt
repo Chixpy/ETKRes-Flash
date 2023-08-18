@@ -1,0 +1,1 @@
+This version has 3 lives. A version with infinite lives is included as an alternate application.

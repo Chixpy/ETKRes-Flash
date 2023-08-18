@@ -1,0 +1,1 @@
+Guide the Mario to reach its friend. Use arrow keys to move the pointer in the maze. Good Luck!

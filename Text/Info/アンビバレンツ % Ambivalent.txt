@@ -1,0 +1,1 @@
+The first story option on the title has a scene with an empty classroom in the beginning of the second part. The sound effect seems to crash it. You could skip this by holding "shift" from the begining of the scene so the previous sound effect plays over it. There's an edited version of 02busitu.txt in the script folder which fixes this part.

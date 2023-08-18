@@ -1,0 +1,1 @@
+Find the four-letter word exactly by using least number of chances out of 10 chances. Sooner you complete, more you score. Same place section indicates number of alphabets which are in correct position. Different place section indicates number of alphabets which are in disorderly positioned.

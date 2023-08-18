@@ -1,0 +1,3 @@
+The English version doesn't increment the winning counter, whereas the Japanese one does.
+Only a mouse is required to play. Just click objects on the screen to search them, or click orange triangles to change your direction. There may be something important hidden in the place where it seems unreachable, or looks empty.
+Click 'about item' button, and you can examine the items you've got more closely. You can choose one item from the list to take effect over objects on main screen or other items.

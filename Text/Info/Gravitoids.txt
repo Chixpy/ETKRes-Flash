@@ -1,0 +1,14 @@
+V1.121
+Adds-
+Vector arrow heads so you know the direction your gravitoids will travel!
+
+Fixes-
+Vector scaling fixed.
+
+This is my first game. It is one part retro Pong-like, and one part particle physics. See if you can get all ranks and trophies!
+
+When placing the gravitoids, you can hold the mouse button down and drag around the screen to give the gravitoid an initial speed and direction.
+
+After you launch the gravitoids, you can click the screen to use a gravbomb to repel them and keep them from colliding.
+
+The audio was created using a TIA (ATARI 2600 chip) VST called Chipsounds.

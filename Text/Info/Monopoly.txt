@@ -1,0 +1,1 @@
+Game delays a couple of seconds to boot.

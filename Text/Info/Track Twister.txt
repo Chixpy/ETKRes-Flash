@@ -1,0 +1,1 @@
+Allocate the path direction for the car to enable it to reach the parking area.

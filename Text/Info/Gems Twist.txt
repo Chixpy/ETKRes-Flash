@@ -1,0 +1,2 @@
+Destroy gems by creating lines of 3 or more gems of the same kind.
+You can move the gems by using the mouse to click and rotate square blocks of gems.

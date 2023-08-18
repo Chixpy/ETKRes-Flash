@@ -1,0 +1,1 @@
+Placing objects and destroying obstacles to create paths for the robots to reach their destinations. Avoid dangerous robots and lasers or you'll end up in pieces.

@@ -1,0 +1,1 @@
+This racing game uses the mouse rather than the arrow keys to steer. Great idea. Still not easy. A steering wheel is still the best way to steer.

@@ -1,0 +1,1 @@
+Use your mouse to pick up the colored tetris blocks and drag them to the grey area. Your goal is to fill the entire grey shape with colored blocks as quickly as possible.

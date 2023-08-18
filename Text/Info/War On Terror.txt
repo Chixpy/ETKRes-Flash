@@ -1,0 +1,1 @@
+Guide the middle to its target. Hold down the mouse to make it rise, and release the mouse to make it go down.

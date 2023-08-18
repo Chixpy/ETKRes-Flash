@@ -1,0 +1,1 @@
+Move the football into the soccer net without hitting any object. Drag and click on the pointer to move the football in the maze. Reach the soccer net before time runs out.

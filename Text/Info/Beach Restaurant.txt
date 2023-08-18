@@ -1,0 +1,1 @@
+Identify a customer�s preferred foodstuff and serve it to the customer by assisting the robot in serving the foodstuff correctly. To serve the foodstuff, click on the foodstuff found on the moving tray and then click on the customer�s table. Now click on the customer to collect the money.Attain the target score in each level within the given time duration to play higher levels.

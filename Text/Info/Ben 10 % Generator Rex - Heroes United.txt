@@ -1,0 +1,3 @@
+Game codes:
+
+invincibility, fragile, colossus, enemies, double_energy, more_lives, reset_energy, all_powerups

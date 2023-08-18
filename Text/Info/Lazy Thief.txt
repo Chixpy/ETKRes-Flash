@@ -1,0 +1,1 @@
+**UPDATE** Lava FX have been removed due to some people experiencing performance issues. An FX button has also been added to allow you to toggle remaining in-game effects for those still experiencing lag. Thanks for playing!

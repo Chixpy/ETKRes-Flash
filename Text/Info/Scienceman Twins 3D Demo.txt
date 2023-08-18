@@ -1,0 +1,10 @@
+Another tech demo I made where you can move in faux-3d space and shoot at or jump on a bunch of raccoons! Play as the Sciencemen, Trigona, the Snuhbee, or me!
+
+CONTROLS
+Press WASD to move
+Press UP, LEFT, RIGHT, or DOWN to shoot
+Press SPACE to jump
+Press 1 to change characters
+Press R to restart
+
+Demo made using HaxeFlixel.

@@ -1,0 +1,1 @@
+Game opens in fullscreen with a yellow backdrop.

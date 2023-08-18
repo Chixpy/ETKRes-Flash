@@ -1,0 +1,2 @@
+Click on the yellow button at the bottom of the window to start the game. It should say "Begin" on the webpage, but it doesn't show up here for some reason. The rest of the game plays like normal, however.
+Classic, simple and fun tower defense game. Place towers to defend your base from funny creatures. There are 4 maps with diffrent styles to beat.

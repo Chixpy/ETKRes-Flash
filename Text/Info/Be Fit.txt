@@ -1,0 +1,1 @@
+Assist the body builder to release his special power to collect the healthy foodstuffs and to evade fatty foodstuffs. If the body builder collects a fatty foodstuff, you will lose a life. If the time duration related to the exhibition of foodstuffs gets over, the entire row of foodstuffs will fall down, and avoid grabbing it as otherwise you will lose a life.

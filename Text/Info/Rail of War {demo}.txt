@@ -1,0 +1,1 @@
+Game opens in full screen, just press esc to return to window mode.

@@ -1,0 +1,2 @@
+Contains extremely unpleasant sounds and flashing visuals that are meant to simulate corruption.
+Recipe for ROM CHECK FAIL - Carefully place a dozen arcade classics in a large mixing bowl. Add a dash of awesomesauce, cover the bowl, and allow the ingredients to ferment over three weeks. Uncover in a well ventilated area, then mash until loud and glitchy. Serve over the internet. This game was made over three weeks for the TIGSource VGNG competition.

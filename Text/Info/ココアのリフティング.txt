@@ -1,0 +1,6 @@
+Game Instructions:
+Mouseclick to lift the ball upwards, do consecutive kicks and don't let the ball fall on the ground.
+
+In Special(スペシャル) and Challenge(チャレンジ) mode, Flags will appear in the background, which gives different effects for a short time when touched.
+めざすは世界のサッカー選手☆ ココアのリフティングゲームがパワーアップして登場！ ランキングも熱い！
+「チャレンジ」でランキング開催中！

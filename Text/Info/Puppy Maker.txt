@@ -1,0 +1,1 @@
+Upon loading, will open a new window in your browser.  Clicking the "show" button does the same thing.

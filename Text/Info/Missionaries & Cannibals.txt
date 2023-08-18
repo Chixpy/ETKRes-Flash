@@ -1,0 +1,1 @@
+Help the 3 cannibals and 3 missionaries to move to the other side of the lake. Note that when there are more cannibals on one side of the lake than missionaries, the cannibals eat them.

@@ -1,0 +1,1 @@
+Find out the objects displayed on the sides of the image, which are hidden in the image. Find them in short time duration to score more.

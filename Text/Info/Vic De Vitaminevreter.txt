@@ -1,0 +1,2 @@
+The game must be reloaded after winning. This is a flaw inherent to the original game.
+Help Vic the dragon collect all the foods in each level that contains vitamins while avoiding obstacles like frogs and others. Have fun!

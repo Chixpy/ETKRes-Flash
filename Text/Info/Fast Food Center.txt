@@ -1,0 +1,1 @@
+You are managing a fast food center. When a customer demands food, you will have to prepare and serve the food within a short duration. Identify the customer-preferred food and serve it. Use arrow keys to select the food item. Press space bar to serve the food. Try to serve the food within the given time duration to get the maximum score.

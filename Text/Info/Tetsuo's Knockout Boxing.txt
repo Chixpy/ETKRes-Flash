@@ -1,0 +1,1 @@
+The fight may not start correctly. The game stats can be edited with the xml files.

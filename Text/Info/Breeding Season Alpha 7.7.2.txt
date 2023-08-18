@@ -1,0 +1,1 @@
+Debug codes are listed in a text file inside the game folder.

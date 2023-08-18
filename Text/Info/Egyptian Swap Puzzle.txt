@@ -1,0 +1,1 @@
+Swap the objects to bring a line of 3 or more identical objects. In every level reach the target before time ends to swap objects in tougher levels. If you feel it hard to swap use hint option to know the swappable objects but using the hint option once will reduce 50 points from your score.

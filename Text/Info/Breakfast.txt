@@ -1,0 +1,3 @@
+I made this game for the Mochi one button game contest.
+
+Use the space bar to make breakfast for your friend. There are three different ending.

@@ -1,0 +1,1 @@
+In this puzzle game, the goal is to line up groups of the same hieroglyphs. Don't let them get to the bottom of the screen or the game will end.

@@ -1,0 +1,1 @@
+Simple but challenging logic game. The one that picks the last box wins.

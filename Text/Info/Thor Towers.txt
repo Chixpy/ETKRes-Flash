@@ -1,0 +1,2 @@
+Submitting your score will softlock the game.
+Build a tower by pressing space-bar to drop blocks. Score extra points for accuracy. How high can you build?

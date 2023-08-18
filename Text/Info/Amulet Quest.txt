@@ -1,0 +1,8 @@
+Goal of the game:
+The goal of the game is to help Woby find the keys and open the treasure chests and collect all the pieces of the Amulet.
+When Woby is exploring the Woods, Woby must avoid the enemies!
+
+Controls:
+Move Woby with the arrow-keys.
+
+Have fun!

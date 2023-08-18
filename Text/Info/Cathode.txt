@@ -1,0 +1,1 @@
+Light up pixels to form characters while avoiding flicker.

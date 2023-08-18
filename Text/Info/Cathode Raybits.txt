@@ -1,0 +1,15 @@
+I can't believe I finally finished it. I didn't think I'd have it on time but here it is! Now, it's still a little buggy and I've not had time to polish some stuff off or try to improve performance. Saying that, I've testing it on my uber rubbish laptop from 2007 and it seems to run ok on that. I'll be uploading a stand alone version sometime in the next few days.
+
+So here's my tribute for Pico Day, a de-make of Cathode Raybots! Hopefully you'll enjoy it *fingers crossed* Blood, sweat and tears went into this!
+
+CONTROLS:
+Arrows: Move
+A: Shoot
+S: Jump
+Enter: Menu
++/- Buttons: Change Volume
+
+Like I said, given more time, I would of polished it up more, added some more levels/mini bosses and generally tried to improve performance, but hopefully it'll be fine for what it is!
+
+Enjoy and HAPPY PICO 2014!
+-Joel

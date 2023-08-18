@@ -1,0 +1,1 @@
+Lumination is a fast paced action arcade game where the player must please a crowd at a fireworks display! The player must click the fireworks that corospond with the color of the cursor in order to gain points. The more of each color they click before the cursor changes, the more points they get.

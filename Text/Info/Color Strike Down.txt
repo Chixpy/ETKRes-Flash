@@ -1,0 +1,1 @@
+Ingame title seems to have a typo. Dodge, change color and destroy. A very intuitive arcade game with high graphical FX. You have a comet witch you drive with your mouse. In order to kill an enemy, your comet must be in the same color of this enemy and touch him. You will have Color Shield which prevent your comet do be killed by an enemy with a diferent color.

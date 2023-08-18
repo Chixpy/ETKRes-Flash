@@ -1,0 +1,1 @@
+Destroy blocks by forming complete rows with the blocks.

@@ -1,0 +1,1 @@
+Level 1 Form two squares by removing any of the two match sticks. Press Reset button to restart the level. To erase the previously done step, click the undo button.  Press done button to proceed with your answer.  Level 2 Form four triangles by removing any of the four match sticks. Level 3 Rearrange the match stick(s) by which ten squares are formed.

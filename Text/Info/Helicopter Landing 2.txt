@@ -1,0 +1,1 @@
+Land the helicopter safely within the given time limit. Avoid hitting the other obstacles on the way otherwise you will lose a life. Complete all the levels to win the game.

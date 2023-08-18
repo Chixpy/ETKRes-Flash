@@ -1,0 +1,11 @@
+The Star Syndicate is invading the portal with flash movies! It's up to Wade Fulp to try and stop them!
+
+-Controls-
+Spacebar: Jump
+Mouse: Aim, hold left click to fire
+Q - Quality Toggle
+P - Pause
+
+Please note: The high score table has been removed
+
+Btw, this was made with flash 4, WHERE IS YOUR GOD NOW!

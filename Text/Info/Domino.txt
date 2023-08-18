@@ -1,0 +1,1 @@
+Známy hlavolam s dominom. Obdľžnik 7x8 je náhodne vyplnený dominovými kockami, pričom obrysy sú zmazané. Treba ich nájsť za pomoci logiky. Program obsahuje 300 úloh a je dobrým pomocníkom pri ich riešení.

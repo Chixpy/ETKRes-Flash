@@ -1,0 +1,1 @@
+Game soft-locks if you hit the walls.

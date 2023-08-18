@@ -1,0 +1,1 @@
+Try to pass through all of the white squares one time only.

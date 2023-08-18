@@ -1,0 +1,1 @@
+See the number highlighted by the monkey and shoot them to earn points. Achieve the target to go to the next level. Complete all the levels to win the game.

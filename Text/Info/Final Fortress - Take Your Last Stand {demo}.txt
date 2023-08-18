@@ -1,0 +1,1 @@
+Game opens in fullscreen, press Escape to go to windowed.

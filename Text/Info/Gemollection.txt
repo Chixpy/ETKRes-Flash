@@ -1,0 +1,1 @@
+Collect jewels into chests. Cut chains and use interactive objects to solve the puzzles. If you get stuck, just restart a level several times and skip level button will appear.

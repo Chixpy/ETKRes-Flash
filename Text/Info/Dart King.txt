@@ -1,0 +1,1 @@
+The competition game in a dart board. In each level of the game you have to shoot 10 darts and get a target score within time duration. Play the bonus level to get more score. Prove yourself the king of dart game. Good luck and have fun!

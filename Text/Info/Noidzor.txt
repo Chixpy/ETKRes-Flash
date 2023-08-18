@@ -1,0 +1,4 @@
+UPDATE: Noidzor 2 is out!! Play it only at http://www.mofunzone.com/
+online_games/noidzor_2.sh tml
+
+A mystical and dark twist on the 'Breakout' concept. We've taken the concept and made it relatively unique, with features and game-play never done before. The game features skill advancement, health and mana, strategy, power attacks (that you can upgrade), and much more. You also play as a monster, and instead of trying to keep the ball (orb) from falling off, your main objective is to break the seals and avoid the attacks. It was a fun game to develop and I'm sure you'll love it and maybe even become addicted :P

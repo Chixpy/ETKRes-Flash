@@ -1,0 +1,1 @@
+Remove all the stones by clicking on it and place it in other free space.. You can only move it (Jump) over one Stone. . The stone you jumped will disappear.. To complete the level, leave the last stone on the ring.

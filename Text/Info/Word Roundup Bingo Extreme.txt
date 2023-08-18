@@ -1,0 +1,1 @@
+Puzzle generation can be changed by manipulating the Launch Command and changing the dt parameter. Included all puzzles from 13/04/2010 to 14/12/2018

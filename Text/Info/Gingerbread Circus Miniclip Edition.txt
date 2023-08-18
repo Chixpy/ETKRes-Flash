@@ -1,0 +1,2 @@
+This game behaves unusually due to the it's use of the Miniclip preloader
+To start the game, wait until the flash projector turns black, hold down ctrl, press enter repeatedly until the "how to play" screen appears, and then release the ctrl key

@@ -1,0 +1,1 @@
+After intermixing of the jar, you have to locate which jar holds the ball. If you locate the jar correctly,then you get the points. if not you get to lose points

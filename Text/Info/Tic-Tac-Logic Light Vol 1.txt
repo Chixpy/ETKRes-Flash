@@ -1,0 +1,1 @@
+Each puzzle consists of a grid containing X’s and O’s in various places. The object is to place X or O in remaining squares so there are no more than two consecutive X’s or O’s in a row or a column, the number of X’s is the same as the number of O’s in each row and column, and all rows and columns are unique. There is only one unique solution for each puzzle.

@@ -1,0 +1,1 @@
+Manage a flight station. The flight will appear with the amount of fuel required, drag the flight into the fuel area, and check out how full the tank is. And drag the flight to move to the passengers area. Do not leave the flight with less amount of fuel or you lose a life.

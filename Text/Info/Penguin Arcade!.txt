@@ -1,0 +1,1 @@
+Quit button in game is bugged and redirects to now noexistent site

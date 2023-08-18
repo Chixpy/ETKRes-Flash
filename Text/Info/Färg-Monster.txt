@@ -1,0 +1,26 @@
+Press Esc to exit fullscreen.
+Det första spelet jag gjorde i flash. Inte mycket till handling men bestäm kläder på gubben och döda monstret! Det är inte svårare än det låter.
+
+---
+
+This was my first flash game so it is very simple, but just so that people can understand I give the translation below.
+
+After you have chosen colour of the man's clothes
+The man changed clothes because the ones you picked was too ugly.
+(The real reason was because I didn't know how to implement it)
+Press the button to continue ▶
+
+After being scared by the monster
+Do you want to fight the monster?
+[Yes] [No]
+
+After being eaten by the monster
+You have been eaten by the monster.
+You have lost.
+
+After having defeated the monster
+You defeated the monster.
+Click the blue box to continue.
+
+After clicking the blue box
+He became a hero and lived happily ever after.

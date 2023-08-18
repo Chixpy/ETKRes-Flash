@@ -1,0 +1,1 @@
+Crashes after first character appears, even in official site. May be related to japanese characters in assets.

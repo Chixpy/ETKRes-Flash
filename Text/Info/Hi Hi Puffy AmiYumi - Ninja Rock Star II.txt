@@ -1,0 +1,14 @@
+The game text is in Spanish, this is a rough translation:
+
+Instructions: In this new adventure you must travel the path of the Biodegradable Masters and defeat them. Show your skills and become 
+the greatest Ninja Rockstar!
+Tip: Combine the keys to perform other moves. 
+"Z" to kick and "X" to punch
+
+Every bonus stage in between levels: Before continuing practice the strokes with the keyboard. For every two objects destroyed you 
+gain 1 energy cell. Break them all and you get an extra life!
+Bonus Results: Items obtained, Energy gained, Lives earned
+
+Ending: Congratulations! With your help Yumi has managed to defeat the great Masters by consecrating herself as the greatest Ninja Rockstar
+of all time! And instead of confronting her best friend, she has decided to stop being a Ninja and return with Ami to play together for 
+her fans...

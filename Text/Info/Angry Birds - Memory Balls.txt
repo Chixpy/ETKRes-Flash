@@ -1,0 +1,1 @@
+This is a very simple memory game. It�s new type of angry bird�s game for you! All you have to do is just match the pattern shown, on the main board which is in the center, before the pattern vanishes away. Click on any of the transparent ball to change into angry bird icon and do not let the enemy angry bird to appear on the main board, it will kill your life.

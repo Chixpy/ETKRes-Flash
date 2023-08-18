@@ -1,0 +1,1 @@
+Ball disappears after first level. Probably a game bug.

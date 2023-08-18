@@ -1,0 +1,3 @@
+The object is to reveal a hidden picture by linking the pairs and painting the paths so that the number of squares in the path, including the squares at the ends, equals the value of the clues being linked together. Squares containing 1 represent paths that are 1-square long. Paths may follow horizontal or vertical directions and are not allowed to cross other paths.
+
+There is only one unique solution for each puzzle.

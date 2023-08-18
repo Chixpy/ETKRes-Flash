@@ -1,0 +1,1 @@
+Removed scores.swf call to make game boot.

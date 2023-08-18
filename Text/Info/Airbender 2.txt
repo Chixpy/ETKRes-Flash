@@ -1,0 +1,2 @@
+Game will throw a communication error on level complete, it can be skipped to continue playing.
+You're in charge of natural disasters, and your mission is to destroy all monsters in each level!

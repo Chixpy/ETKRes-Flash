@@ -1,0 +1,1 @@
+Guide the mouse to eat the cheese and earn score. Finish the game within the given time limit. Play all levels and win the game.

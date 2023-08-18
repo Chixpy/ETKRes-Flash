@@ -1,0 +1,1 @@
+Help the dog to reach its ball.Move the pointer in the maze to find out the path. Good Luck!

@@ -1,0 +1,1 @@
+The hacked version fixes the 'try again' button to restart the level and not the whole game.

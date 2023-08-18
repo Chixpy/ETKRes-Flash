@@ -1,0 +1,3 @@
+Each puzzle consists of a blank grid with clues on the left of every row and on the top of every column. The object is to reveal a hidden picture by painting blocks in each row and column so their length and sequence corresponds to the clues, and there is at least one empty square between adjacent blocks.
+
+There is only one unique solution for each puzzle.

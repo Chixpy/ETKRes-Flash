@@ -1,0 +1,5 @@
+The SWF defaults to Day 2's version of the game; the other days are alternate versions.
+
+With the parameter "?spyday=9" the code is different.
+
+The game temporarily freezes when the box zooms out upon code completion; this is automatically fixed when the box opens.

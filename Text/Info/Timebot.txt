@@ -1,0 +1,3 @@
+Timebot is a time travelling action puzzle game. Jump back in time and use past versions of yourself to help you collect all the gears on each level and reach the exit.
+
+Use the arrow keys to move around and the space bar to time-jump.

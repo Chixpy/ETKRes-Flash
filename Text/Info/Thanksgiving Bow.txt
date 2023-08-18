@@ -1,0 +1,1 @@
+Shoot the arrows to hit thanksgiving items with using limited number of arrows.Get the high score by reaching target in every level using limited number of arrows within given time duration.

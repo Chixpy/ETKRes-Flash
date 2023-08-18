@@ -1,0 +1,11 @@
+No audio is present in the game. 
+
+The controls are as follows:
+
+- Arrow keys to move
+- Q, E, Z and C keys to move diagonally (up-left, up-right, down-left, down-right specifically)
+- F to fire bullets
+- V to make yourself prone (once you acquire the intel)
+
+Additional information about this game can be found on Nitrome Pixel Love Wiki: https://nitromepixellove.fandom.com/wiki/G0
+This really is the finest barebones approach to a tactical roguelike stealth game.

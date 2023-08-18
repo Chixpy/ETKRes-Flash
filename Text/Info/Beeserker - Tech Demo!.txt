@@ -1,0 +1,7 @@
+A tech demo made between the development of Beeserker: The Videogame! and Scienceman Twins, in which I experimented with powerups and Bootsie behavior.
+
+CONTROLS
+Press Arrows or WASD to move
+Press Z or J to jump (hold button to hover as Trigona)
+Press K or X to fire (if you have a powerup)
+Press B to dance

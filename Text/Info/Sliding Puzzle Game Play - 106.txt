@@ -1,0 +1,1 @@
+Assemble the shambled image pieces in its exact position to form the correct image. Select the number of row and column to split the image into pieces. To move the image piece, click on it. Use mouse to assemble the image piece. If you find it difficult to solve, click SHOW HINT.

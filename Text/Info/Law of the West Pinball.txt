@@ -1,0 +1,1 @@
+A casual Wild West themed pinball game. Control the flippers with the arrow keys, launch the ball with the down arrow, and if you're in trouble give the table a gentle nudge with the space bar ( Although be careful not to tilt it ! ).

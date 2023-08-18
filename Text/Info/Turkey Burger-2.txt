@@ -1,0 +1,1 @@
+For this year Thanksgiving Day celebration, you have introduced new turkey burgers in your shop. Now, your task is to prepare & serve the new burgers to the customers according to their wish by which your collection box gets filled. Keep in mind! If the customer waiting time exceeds, the customer will move away from shop.

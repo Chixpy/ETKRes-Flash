@@ -1,0 +1,1 @@
+Connect 3 similar candies to clear them. The candy will drop automatically if your time runs out.

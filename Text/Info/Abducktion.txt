@@ -1,0 +1,6 @@
+INSTRUCTIONS
+
+Save the ducks! This game used GRAVITY which is the thing that makes you stick to the
+Earth. Since all the planets in our Solar System (and our Moon) are different sizes, they
+have different gravities. You would be really, really light on the Moon and really, really
+heavy on Jupiter.

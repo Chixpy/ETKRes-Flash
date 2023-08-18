@@ -1,0 +1,1 @@
+Goal of this game is to pair the Fish's with their appropriate pair. You'll get an arrow mark when you go near the fish, which will help you to set angle. Pair all the Fish's successfully and complete all the levels.

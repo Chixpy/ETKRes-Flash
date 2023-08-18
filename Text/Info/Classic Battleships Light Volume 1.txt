@@ -1,0 +1,5 @@
+Each Battleship puzzle represents an ocean with a hidden fleet of ships, which may be oriented horizontally or vertically within the grid such that no ship touches another, not even diagonally.
+
+The numbers on the right and on the bottom of the grid show how many squares in the corresponding row and column are occupied by ship segments. The object is to discover where all ships are located.
+
+There is only one unique solution for each puzzle.

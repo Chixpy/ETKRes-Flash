@@ -1,0 +1,2 @@
+Here is an in your face way of programming a slot machine from someone who isn't a programmer. I used variables, if statements and tell targets.
+All of my games were created in Flash 4. Check them out at www.nickelarcade.com

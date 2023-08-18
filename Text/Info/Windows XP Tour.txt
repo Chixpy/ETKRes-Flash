@@ -1,0 +1,1 @@
+File launches in fullscreen, click "Exit Tour" or use ALT+F4 to close it

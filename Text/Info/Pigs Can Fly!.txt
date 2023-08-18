@@ -1,0 +1,8 @@
+Pigs Can Fly is a unique puzzle game! Get the pig to the potion in 25 neat levels. But there is a fun twist - you need to use multiple cursors in order to beat each level. Give it a try!
+
+Pigs Can Fly!
+
+Instructions
+Gameplay: Mouse
+
+Each colored potion resets the level and allows you to control a cursor. The pig can only be dragged with the pink cursor, and blue and green boxes can only be dragged with the blue and green cursors respectively. The objective is to get the pig to the potion so he can grow wings and fly away. In some levels, you are not even given a pink potion! The levels get more challenging so try to think it through first! See the walkthrough video if you get stuck.

@@ -1,0 +1,1 @@
+The object is to reveal a hidden picture by connecting the dots in ascending order starting with 1 and ending with the highest number. There is only one unique solution for each puzzle.

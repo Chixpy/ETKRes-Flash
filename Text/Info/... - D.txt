@@ -1,0 +1,3 @@
+Use your hand(s) and brain(s) to beat all 24 levels. Good luck and have fun!
+
+This is a re-mastered version (new graphics, new levels) of my entry for Ludum Dare #26.

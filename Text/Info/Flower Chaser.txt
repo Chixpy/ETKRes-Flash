@@ -1,0 +1,1 @@
+A Bee carries its hive and searching for honey. Help the bee to store honey in its hive by catching flowers. Move the mouse to catch flowers. Catch the flowers to increase your time and score. Each flower you catch will generate a new fire ball. If you hit a fire ball, life time of the game will get reduced.

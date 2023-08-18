@@ -1,0 +1,1 @@
+Sudoku je momentálne mimoriadne obľúbený japonský hlavolam. Program obsahuje mnoho úloh rôznej obtiažnosti. Umožňuje riešenie s používaním histórie, tiež možnosť priamo zadávať úlohy. Hrozienkom programu je riešič.

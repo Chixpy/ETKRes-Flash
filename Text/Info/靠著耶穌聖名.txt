@@ -1,0 +1,1 @@
+Text may not display properly if system language is not Traditional Chinese.

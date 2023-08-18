@@ -1,0 +1,1 @@
+Electric connecxion is an addictive puzzle game! Drag and Drop to make a current-line to connect current flows from a source to the matching output. There is no time limit (Only Time Bonus) but you have limited moves for each round. Mouse (Drag and Drop)

@@ -1,0 +1,1 @@
+This is classic game for kids and adults. Guide the Snake and feed the eggs, frog and lizard as much as possible and make it grow. Complete the given target to move successive levels. Avoid obstacle and be careful do not hit direct to the snake into its own tail else you lose the game. Achieve the highest score possible. Have fun!

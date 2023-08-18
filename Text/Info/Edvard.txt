@@ -1,0 +1,11 @@
+Controls:
+Left Right: Move
+Up: Jump
+Down: Drop through platform
+Z: Shoot
+-----------------------------------------------------------------
+This was my third submission to Albino Blacksheep's Tournament of Flash Artists.
+http://www.albinoblacksheep.com/games/edvard
+The theme was "Parts that make a whole" and the challenge was to pay homage to a famous work of art (I chose "The Scream" by Edvard Munch).
+I ran out of time ended up submitting a preview version consisting of only the first level and its corresponding cutscenes. Unfortunately the "parts making a whole" theme was reserved for the end (which wasn't in the preview version) and one of the judges didn't seem to catch the homage. As a result, It lost to an animatic.
+I was warned going into TOFA that I would be at a disadvantage if I sent in games since the evaluation criteria was geared towards cartoons. That disadvantage would seem to be quite profound considering that a playable game lost to something that could have been made in PowerPoint.

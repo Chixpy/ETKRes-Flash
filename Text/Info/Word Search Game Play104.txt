@@ -1,0 +1,1 @@
+Find out the numbers. Click on the starting letter of the number and drag the cursor over the number and release it on number's last digit. Correct answer will be locked in the list.

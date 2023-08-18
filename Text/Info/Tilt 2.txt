@@ -1,0 +1,1 @@
+Balance the tray by moving the mouse around. If the tray falls, flip it back over by swinging the mouse around.

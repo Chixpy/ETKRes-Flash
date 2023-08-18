@@ -1,0 +1,5 @@
+Game Instructions:
+This is a fishing simulator game. In the first phase, wait until a fish catches bait, press the button to reel it in and enter the second phase.
+In the second phase, maintain in the highlighted area by rapidily cilcking the button until the the fish's power gauge if fully depleted.
+ココアとマロンが、おじゃが池で魚つり！ ぽけでび定番人気の魚つりゲームです☆ 君のつり検定は何級かな？
+「チャレンジ」でランキング開催中！

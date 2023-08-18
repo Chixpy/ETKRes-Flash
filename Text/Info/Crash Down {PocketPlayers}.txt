@@ -1,0 +1,1 @@
+Remove all 144 squares from the board.

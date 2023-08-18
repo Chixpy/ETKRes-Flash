@@ -1,0 +1,1 @@
+Hacked to be randomized and to use the debug mode; the latter skips King's API and uses XML data from the swf. Because of this, the instruction text has been made useless.

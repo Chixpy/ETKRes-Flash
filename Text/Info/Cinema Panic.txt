@@ -1,0 +1,1 @@
+Cinema Rush is a time management game which gives the player the ability to take the administrationh of a cinema business. During each level, the player must aim the minimum day gain by attending spectators and guard the show room.

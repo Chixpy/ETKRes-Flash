@@ -1,0 +1,1 @@
+The error message in Redirector can be ignored as it doesn't affect the gameplay, probably only some scoreboard issue: (404 Not Found) GET http://media.mariogames.be/mariogames/mariogames-692/HSScripts2.swf

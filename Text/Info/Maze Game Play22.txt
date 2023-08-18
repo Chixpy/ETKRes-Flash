@@ -1,0 +1,1 @@
+Guide the ambulance to reach the hospital.Move the dot in the maze to find out the path.GoodLuck!

@@ -1,0 +1,1 @@
+Controls: Z: Jump, X: Shoot, Arrowkeys: Movement

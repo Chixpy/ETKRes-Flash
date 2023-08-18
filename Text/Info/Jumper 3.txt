@@ -1,0 +1,9 @@
+Bounce from platform to platform while avoiding CRAZY JAY.
+
+- Going over Crazy Jays head will make your score increase per jump - hitting the head will decrease your score per jump.
+
+- Avoid black clouds
+
+- Hit white clouds
+
+How long can you last?

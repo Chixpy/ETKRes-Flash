@@ -1,0 +1,25 @@
+Play with your friends or alone in this retro Splatoon demake! :D
+
+How To Play
+
+There are three game modes:
+
+1v1, where you fight against a friend and try to make the more splats
+
+Turf War, where your try to cover a bigger surface than your opponent with your ink
+
+Octo Mode, where you fight the Octarians in solo and try to survive
+
+There are also three weapons, the sames as in the original game:
+
+The Splattershot, a simple gun which just shoots ink
+
+The Roller, which covers the surface that you move on
+
+The Charger, a sniper which is convenient for long lines of ink
+
+Directionnal arrows to move, P to shoot ink, O to squid, L to lock direction and M to throw a bomb for Player 1 (Blue).
+
+Z, Q, S and D to move, H to shoot ink, G to squid, V to lock direction and B to throw a bomb for Player 2 (Orange).
+
+Oh and of course, Space to Start.

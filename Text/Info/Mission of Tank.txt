@@ -1,0 +1,1 @@
+In this game, the player has to shoot and destroy the enemies with the given tank.This game has four levels with time duration, and in each level, the player has to shoot the enemies to collect the first aid kit to regain health and to get equipped with defense shield for protection.

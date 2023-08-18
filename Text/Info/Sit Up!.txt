@@ -1,0 +1,3 @@
+This game contains an obfuscated piece of code that calls a gatekeeper at kizash.com. Without it, the game seems to run fine, regardless of Internet connectivity. In addition, the game requires a numeric keypad to work properly.
+(Translation) It’s so funny that Meiji went to see a comedy with a group of friends. Everyone laughed and laughed. Many people fell from the chair to the ground, so they couldn’t do it!
+How to play: Use the mouse (left button). The gameplay is detailed in the game.

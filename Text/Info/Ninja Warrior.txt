@@ -1,0 +1,1 @@
+You need to run in a straight line without jumping to get enough momentum to clear the first gap, the game doesn't make this clear. Also, the in-game sound does not work. Some of the current sound files are dummy versions.

@@ -1,0 +1,1 @@
+Pick out the odd word from the given set of words. Try to pick the odd word before time runs out.

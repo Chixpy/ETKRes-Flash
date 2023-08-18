@@ -1,0 +1,7 @@
+Mouse: Move
+QMIC keys:self evident
+
+An experimental game about our surroundings
+
+Inspired by Jon Copper Clarks Poem "Evidently Chicken Town"
+and Agosto Boal's book "Games for actors and non-actors"

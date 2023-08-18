@@ -1,0 +1,18 @@
+Original Developer's Contact Email - Fatmouses@163.com
+
+Translation Of Original Description:
+A timeless classic roguelike dungeon RPG! (note: This game is based on Tower of the Sorcerer JRPG.) Venture into this mysterious tower.
+The story is not overly complicated, simply save the princess that is trapped in the tower.
+There are 20 floors, with monsters guarding (almost) all of them.
+To win is not an easy task, and here is what a veteran (me) has got to say about this game.
+There are numerous items in the game that help progress further into the game (kind of like metroidvania, but not quite).
+The battle system is deterministic and no randomness factor is involved. There is no critical hit or evasion mechanics. The system determines the result of the battle beforehand by subtracting attack by defense and if the player will die after the queued fight, the fight will be rejected. If nothing can be battled and no more items / shop purchases are available, then it's a good sign that you messed up somewhere and should restart. Press <R> to restart.
+There is a lack of a save system (and literally has you restart any time you make any mistakes), making this game qualify as nintendohard.
+Once you obtain the monster encyclopedia, you may view the monster statistics of your current floor by pressing <L>.
+You can level up (note: it is completely unnecessary to do so, I have win without purchasing any level ups and stayed at level 5; there are level up items so whatever) and purchase attack, defense, and HP (note: it is completely unnecessary to buy HP).
+Please refrain from saving up cash or XP unless you know what you are doing as most of the time battles reduce less HP the higher your stats are.
+Diring mid-game, please ensure you always have 100$ to spare for red keys. There are certain unskippable sequences that require red keys to proceed.
+There are two main points of difficulty here. The first is that the player can kill everything just fine until they reach the red bat. The red bat that blocks the way on the 8th floor must be defeated for the game to progress. The second is the boss on 20th floor. There are two guards that you cannot skip, and they each take away one third of your HP, ignores defense (pro tip: the true final boss has 2275 attack and 1800 defense).
+As long as you keep these two points in mind, the game should pose as little difficulty as possible other than the slow battle animations.
+Have fun!
+超經典的迷宮RPG!闖入神奇的《魔塔》 游戲的劇情並不復雜，讓玩家去營救被魔王關在塔內的公主。游戲中的魔塔共有20層，每層都有怪物守衛。要想過關絕非易事，以下就是筆者通關后的一些心得體會。 游戲類似RPG的模式，在游戲中可以拿到很多道具幫助通關。游戲的戰鬥是全自動的，傷害值也是固定的，不會出現miss現象。在玩家與怪物作戰前，系統會分析雙方的實力強弱，如果玩家弱于怪物，就不會發生戰鬥，所以玩家就必須考慮殺怪的先后次序，否則一旦所有怪物都強于玩家的話，那麼游戲就宣告結束了（即玩家不能與任何怪物作戰）。而且游戲無法存盤，這也使游戲的難度上了一個台階。當玩家在游戲中拿到“聖光徽”道具后就可以查看怪物的攻防、體力以及對自己的總傷害值。 游戲中玩家扮演的角色可以升級，還可以用金錢來購買攻擊力、防御力和體力。一定要把錢和經驗花在點子上，而且有了錢就立刻購買攻擊力或防御力，不要去累積，這樣才能順利通關。游戲中期要留一些錢（100元以上）用來買紅鑰匙，有些必經之路上的紅門必須要紅鑰匙才能打開。 個人感覺游戲中有兩個難點。第一個難點就是在最初玩家應能順利消滅紅蝙蝠以下的怪物，但一般都是在與紅蝙蝠作戰時由于實力弱于對手，金錢和經驗值又已耗盡，無法購買攻擊力、防御力等。由于紅蝙蝠守在第8層的必經之路上，因此玩家就只能放棄游戲了。 因此，筆者的玩法是開始時將金錢全部花在購買攻擊力上，而經驗則用來升級。盡量消滅一些守在要道口或道具前的怪物，一些零散的怪物（很弱的怪物除外）先不要去動。盡量早地拿到+10攻擊力的劍和+10攻擊力的盾牌。隨后，在實力高于紅蝙蝠后（攻擊力在140左右，防在50左右，體力在3000左右即可）就去消滅守在四層監牢口的那只紅蝙蝠，在紅蝙蝠前還有一個實力很強的石頭人，玩家也要注意。消滅紅蝙蝠后就可以救出監牢中的人，此時回到第二層，發現門已經打開了，在里面搜刮所有的道具。隨后再去對付守在八層口的那只紅蝙蝠就可以打通道路，后面應是一帆風順了。 另一個難點就是在最后對付20層的魔王（最終的魔王）前，魔王前有兩個護衛（必須對付），殺敗他們后玩家的體力會急劇下降（筆者一開始有80000的體力，結果對付魔王時只剩下30000，無法對付魔王了）。另外19層的一些武士最好不要去殺，否則也會下降體力。 筆者失敗一次后發現了一個訣竅，就是魔王的防御力時是1800，攻擊力是2275，那麼只要防御力達到2275以上，你的攻擊力只要達到1800以上，魔王就無法傷害你了。所以，玩家在過了第一個難點后要適當購買防御力，使防御力超過魔王的攻擊力，那麼體力再 少也能通關了。 玩家只要在玩游戲時注意這兩個難點，那麼過關就不難了，筆者失敗了几次后才找到這個訣竅。希望各位玩家能早日通關！

@@ -1,0 +1,1 @@
+Drive your Bike to reach the target distance. The distance increase with each level. Avoid colliding with other bikes. Keep an eye on your bike's health. The game gets over if you lose the health. Complete all levels to win the game.

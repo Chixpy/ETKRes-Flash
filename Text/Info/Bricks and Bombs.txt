@@ -1,0 +1,1 @@
+Use the bombs to demolish the bricks cleverly. To demolish the brick(s), take the bomb from the grid, and fix it on the position where you want to place it. In each level, demolish all the bricks within the given time duration and play tougher levels.

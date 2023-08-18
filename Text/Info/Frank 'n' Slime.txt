@@ -1,0 +1,1 @@
+Figure out how to reach the vault door in each level. Use WASD or the arrow keys to move and jump. In these rooms, if you walk off the left side of the screen, you'll appear on the right side. If you fall through the floor, you'll end up on the ceiling! In later levels, press ther arrow buttons in each level to change gravity. Try not to lose your head!

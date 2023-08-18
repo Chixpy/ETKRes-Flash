@@ -1,0 +1,12 @@
+Some people have been hacking the scorelist, just for you all to know:
+Everything above 150.000 is imposible to get
+
+We heard some complaints that the original was too hard.
+
+So here is a n00b edition, its easier, a bit shorter, and has its own highscore list. People should now be able to finish the game easier.
+
+Once you played this, you can play the full game. Which is much harder and longer.
+
+Controls:
+Toggle quality: Q, Toggle sound: S, Toggle background: B
+move: Arrow keys, Jump: Space

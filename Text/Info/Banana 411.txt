@@ -1,0 +1,10 @@
+The following FLV videos were not scraped by the Wayback Machine, and have been replaced with dummy FLVs: 
+
+http://www-tc.pbskids.org/curiousgeorge/games/banana_411/flv/george_and_clothes_pile.flv
+http://www-tc.pbskids.org/curiousgeorge/games/banana_411/flv/george_and_pisghetti.flv
+http://www-tc.pbskids.org/curiousgeorge/games/banana_411/flv/george_roller_skates.flv
+http://www-tc.pbskids.org/curiousgeorge/games/banana_411/flv/myh_with_chair.flv
+http://www-tc.pbskids.org/curiousgeorge/games/banana_411/flv/old_man_customer.flv
+
+After dialing a number, if the video you watch seems to be nothing but a frame of a black screen, it was replaced with a dummy FLV. 
+If the game softlocks, the FLV was not replaced; report the game and the missing FLV's URL in the Redirector to the <#432709773213827083> channel in our Discord.

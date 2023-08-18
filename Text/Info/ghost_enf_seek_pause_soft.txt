@@ -1,0 +1,1 @@
+Control the video with the mouse and keyboard. See top left corner.

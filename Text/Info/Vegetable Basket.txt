@@ -1,0 +1,1 @@
+Catch the fruit in appropriate basket when it comes from moving tray.Complete each level within given time  duration to play next level.

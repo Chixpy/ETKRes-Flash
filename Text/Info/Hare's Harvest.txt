@@ -1,0 +1,1 @@
+This game is made within 48 hours for the Ludum Dare 29. Everybody knows that any Ludum Dare game is either unpolished or unfinished, but in this case, Hare's Harvest is perfectly playable. You must help Hare harvest the farmer's carrots. However, do not get caught by him or the dog or the fox who are also into the carrots. Controls: [Arrow keys] Burrow: [Space] Restart: [R]

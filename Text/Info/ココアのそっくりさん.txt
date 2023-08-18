@@ -1,0 +1,4 @@
+Game Instructions:
+Pick the character that matches the one on the bottom left corner.
+見本のココアと同じ服を着ているココアを探そう！ まぎらわしい服装のココアもいますよ～。　
+【更新情報】お手本ココアの表示不具合を修正しました。2017年2月28日 Ver.1.01

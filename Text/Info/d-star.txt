@@ -1,0 +1,2 @@
+Move using arrows to collect yellow diamonds, 1024 moves to complete ten levels.
+Use spacebar to switch positions with blue diamond. Press "ctrl" to reset.

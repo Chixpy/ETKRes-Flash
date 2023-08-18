@@ -1,0 +1,1 @@
+Divide the figure into the required quantity of pieces with the limited number of cuts.

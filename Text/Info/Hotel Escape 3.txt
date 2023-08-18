@@ -1,0 +1,1 @@
+The original game is buggy and cannot be completed because there is a bug involving obtaining the third card. This version has been hacked to fix this bug and remove Mochibot tracking.

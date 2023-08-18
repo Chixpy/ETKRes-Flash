@@ -1,0 +1,1 @@
+Tento hlavolam ma zaujal na nete svojou pozoruhodnou variabilitou pri vytváraní. Program vykoná na hracom pláne sekvenciu inverzných operácii. Inverzie sa vykonávajú vždy na ľubovoľne zvolene úsečke a takisto počet inverzii je variabilný. Úlohou riešiteľa je vrátiť plán do pôvodného stavu, teda vykonať inverzie v obrátenom poradí. Solídna grafika, spracovanie priemerné.

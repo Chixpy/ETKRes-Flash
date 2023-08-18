@@ -1,0 +1,1 @@
+Clicking on either of the bottom left buttons will open browser windows, so will "Change Logs". Multiplayer does the same.

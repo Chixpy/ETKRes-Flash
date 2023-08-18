@@ -1,0 +1,1 @@
+Help the alien bring candy to his girlfriend. Move the alien around with WASD or the arrow keys, and press Z, X, or C to flip the world around! Press Down or S when you reach the alien's girlfriend.

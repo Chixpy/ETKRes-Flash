@@ -1,0 +1,1 @@
+Try to put all of the 8 queens on the board so that they cannot attack each other. A queen can attack another queen if it is on the same row horizontally, vertically, or diagonally. Use your mouse to drag the queen pieces onto the board.

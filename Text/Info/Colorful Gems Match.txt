@@ -1,0 +1,1 @@
+You have to find the gems which is displayed on the background. Find all gems within the given time limit. Earn points by clicking correct gems. If you select the gems wrongly, your life will get reduced.Complete the current level to move to next level to win. Congratulations!

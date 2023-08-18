@@ -1,0 +1,1 @@
+Climb on beakers and test tubes to reach the maximum height. Your score depends on the height you reach. Don�t allow the beaker or test tube to fall on you, it will make you lose the game.  If the acid smoke touches you, the game will be terminated.

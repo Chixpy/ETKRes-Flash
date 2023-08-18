@@ -1,0 +1,7 @@
+A two-player arcade style endless climb to the top of the Sciencemen's lab. It features about a dozen playable characters from other webcomics, too!
+
+CONTROLS
+Player 1: WASD to move, F to wrench, G to jump.
+(In one-player mode, Player 1 can alternatively use K and L to wrench and jump)
+Player 2: Arrows to move, M to wrench, Comma to jump.
+Press W or UP to ride robots (when gauge is at least 70% full)

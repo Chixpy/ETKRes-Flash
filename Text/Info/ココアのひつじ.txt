@@ -1,0 +1,3 @@
+Game Instructions:
+Drag and drop the sheep to its corresponding pen before time runs out.
+３色のひつじをそれぞれのかこいの中にすばやくあつめよう！ 失敗すると猛ダッシュするから気をつけて！

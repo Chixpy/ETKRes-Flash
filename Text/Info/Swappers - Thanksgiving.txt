@@ -1,0 +1,1 @@
+Swap the pieces to form the given Thanksgiving pictures. To score more set the picture as quick as possible. Use hint button to know correct number arrangement of pieces. The hint button's life span is 10 seconds only. Click on the piece and then, click on the place where you want to swap that piece.

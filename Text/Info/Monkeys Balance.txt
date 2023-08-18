@@ -1,0 +1,1 @@
+Try to balance as many monkeys on top pf each other within the given time limit. On the way you can collect the bananas to get more score. Click on the bird to get bonus time. Have fun!

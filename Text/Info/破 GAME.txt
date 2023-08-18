@@ -1,0 +1,3 @@
+Right click and click "Forward" twice to access the cheat menu: continue(press Z key after the first level to do so) and gold(Enables flying by pressing down arrow key)
+(Continue option is broken as it sends you a specific level only. The gold cube is also given by completing the game, allowing access to some unreachable locations in certain levels)
+右鍵點選快轉兩次來開啟修改器：分別為接關與飛行功能(接關功能壞了，只能從中間一個關卡開始。飛行功能也可以藉由完成遊戲後取得，部分關卡有只能藉由飛行達到的區域

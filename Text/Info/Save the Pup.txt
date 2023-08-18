@@ -1,0 +1,1 @@
+This is a single stage game. Where in you have to save the Pup which is trying to crss the road at a busy junction. You have to ensure that it is not hit by the high speed traffic. The length of time you manage to keep the pup alive depends on your alertness. You may try to better your own record in subsequent attempts.

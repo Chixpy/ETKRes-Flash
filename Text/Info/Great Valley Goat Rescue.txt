@@ -1,0 +1,1 @@
+In this escape game, unfortunately, a goat is fallen inside a great valley lake. You have to rescue the goat from the lake by finding useful objects, hints and solving puzzle. variables,loops,and functions.

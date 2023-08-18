@@ -1,0 +1,1 @@
+Control the creature collecting stars along the way and reach the red flag to complete the level. Place the available tools on the playing field that will affect the movement and properties of the creature.

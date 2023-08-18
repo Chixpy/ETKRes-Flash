@@ -1,0 +1,1 @@
+Identify the given color and throw the dart exactly into the needed color found in the grid. Based on the power range, click on the dart to throw it.  Attain the target in each level within the given time duration and proceed to play higher levels.

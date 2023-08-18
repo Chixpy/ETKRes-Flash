@@ -1,0 +1,1 @@
+SN4KE er et vanedannende spil for op til 4 spillere (på samme computer). Det bygger på det gamle "Nibbles", men i dette spil bliver din slange hele tiden længere; og du skal tænke taktisk for at lukke dine modspillere inde. SPIL NU DET!

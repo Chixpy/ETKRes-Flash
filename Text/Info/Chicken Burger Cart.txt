@@ -1,0 +1,1 @@
+You have introduced new chicken burgers in your shop. Now, your task is to prepare and serve the new burgers to the customers according to their wish by which your collection box gets filled. Keep in mind! If the customer waiting time exceeds, the customer will move away from shop. Good Luck Have Fun!

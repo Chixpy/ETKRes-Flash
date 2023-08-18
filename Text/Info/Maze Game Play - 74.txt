@@ -1,0 +1,1 @@
+Guide the Squirrel to reach its friend Bunny. Use arrow keys to move the pointer in the maze. Good Luck!

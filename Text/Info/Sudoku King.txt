@@ -1,0 +1,1 @@
+Hacked to turn the debug mode on; as a result, some text has been replaced with humorous placeholders.

@@ -1,0 +1,1 @@
+This is simply a trivia game that tests your knowledge of our world. The questions are randomized, so if you play it more than once you'll get different questions. The faster you get through all the questions, the higher your score. Good luck!

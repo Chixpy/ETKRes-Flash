@@ -1,0 +1,1 @@
+This was designed for Japanese mobile phones, so the numbers are the controls. 5 = action, 4 = left, 6 = right, 2 = up, 8 = down.

@@ -1,0 +1,1 @@
+Launches in full screen. Opens Browser Window when animation finishes

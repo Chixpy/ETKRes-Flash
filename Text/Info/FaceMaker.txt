@@ -1,0 +1,31 @@
+Just testing my skills again. I made this program that creates some faces using many face parts ^^
+
+The initial idea was to create a better facemaker to use on my games, because the original one is so limited. Then i created the backup code so i can change the face expressions of the characters without remaking the entire face. And the pre-made colors help me a lot!
+
+People are confusing the things a little bit. I won't make an entire-body facemaker because that will have no utility to me. I just want the face-sets to use on my rpg games >_<.
+if you want a entire-body facemaker, search for "dressup games" there are a lot of these arround here.
+
+:bulletgreen::bulletgreen::bulletgreen:the parts were not made by me, i found them in several programs similar to mine. There are a lot of RPGmaker facemakers, so i don't know who made the original one x_x. So here is a flash version of it, with some different features.
+So, this is what we got... XD
+STOP MAILING ME ABOUT ART STEALERS, THEY'RE NOT ART STEALERS!!!!! actually, they might be, but they're not stealing anything that's owned by me XD
+I will be worried if they steal the facemaker script to create another program and don't say this to me. :x I worked a lot on that code.
+
+BTW, This means that you don't need to ask me for permission to use images created in this flash :)
+feel free to use them as you wish :D
+:bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred:
+And please, don't put copyright to me... just link back to the facemaker, or you can confuse more people about it. ^^
+:bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred: :bulletred:
+
+Try to make yourself and press "output" to get the face code XD
+Don't forget to press "OUTPUT code" BEFORE copying it, or the code you will copy will be the default face code (without colors and faceparts)
+:bulletblue::bulletblue::bulletblue:The code is used to backup the faces you create. This way you can load them later to continue edditing.
+FOR MORE INFO READ THE "HELP!" on the flash.
+
+*EDIT2*
+hm... i just recieved an e-mail with the following message:
+"The original creator of the Facemaker program, plums, can be found at [http://umeumewoman.fc2web.com/] So please give credit to the original artist!"
+
+so, if he's the original artist that created the original facemaker, here is the credit for him ^^
+
+*EDIT AGAIN*
+:bulletred:Please, don't comment only the code... say something that could help me to improve the facemaker or just say what you think about the program ^^

@@ -1,0 +1,1 @@
+The game only contains 6 levels, after which it will seemingly "softlock". To my knowledge, this is the extent of the game, as it appears to have never been finished.

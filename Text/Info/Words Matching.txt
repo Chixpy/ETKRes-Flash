@@ -1,0 +1,1 @@
+Find the words hidden in the grid of letters. Click on the starting letter of the word and drag the cursors over the word and make a box around. Finish the game within the given time limit.

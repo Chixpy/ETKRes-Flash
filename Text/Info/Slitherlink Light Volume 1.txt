@@ -1,0 +1,1 @@
+The object is to connect the dots surrounding each clue so that the number of lines equals the value of the clue and the lines around all clues form one continuous loop with no crossings or branches. Empty squares may be surrounded by any number of lines. There is only one unique solution for each puzzle.

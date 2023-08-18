@@ -1,0 +1,2 @@
+Written for the Ludum Dare 21. The theme was escape.
+It's about a child who struggles with bullying.

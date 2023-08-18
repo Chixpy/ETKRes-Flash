@@ -1,0 +1,1 @@
+In this game, you has to drive the alien ship to rescue the other aliens without colliding with Obstacles. The game has five levels with time duration. Each level should be completed within the given time duration.

@@ -1,0 +1,12 @@
+There are 9 levels in this game.
+As the game text is in Spanish, a rough translation is stated here as follows.
+
+Instructions:
+Play with the puppy and look for Eduardo's stuffed animal.
+Watch out for Mr. Herriman (Rabbit) and the traps he set for you.
+Don't let your time run out! / Keep an eye on the timer!
+Use the left and right arrow keys to move and spacebar to jump.
+
+Level failed screen: Try again. Your Score:
+
+Game Win screen: Congratulations! You proved to be a perfect pet. You can stay with Eduardo in the Foster mansion for Imaginary Friends.

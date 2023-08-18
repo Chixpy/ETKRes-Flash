@@ -1,0 +1,1 @@
+Game is multiplayer. All maps are saved and can be played alone by choosing Quick Play.

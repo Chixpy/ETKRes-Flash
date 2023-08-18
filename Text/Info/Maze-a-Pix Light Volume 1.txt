@@ -1,0 +1,1 @@
+Each puzzle consists of a maze-grid with one entrance and one exit. The object is to reveal a hidden picture by finding and painting the path from the entrance to the exit. There is only one unique solution for each puzzle.

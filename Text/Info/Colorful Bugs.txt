@@ -1,0 +1,1 @@
+Move the cursor over bugs of the same colour to pick them up (no need to click), but avoid the other colour bugs. By clicking the mouse button, the collected bugs gets in to a glass container.

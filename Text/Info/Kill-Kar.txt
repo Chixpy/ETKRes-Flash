@@ -1,0 +1,7 @@
+Super special thanx to Digijin (Xeroe) for his coding!
+
+controls:
+arrows - move
+spacebar - handbrake
+
+enjoy my first ever game submission!

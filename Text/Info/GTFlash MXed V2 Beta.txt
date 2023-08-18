@@ -1,0 +1,8 @@
+The Beta version of GTA Flash MXed 2. Only 2 Missions, 10 vehicles to try out and 3 weapons. Let me know what you think and any improvements to make.
+
+Controls:
+
+Arrow Keys – Move
+Space – Get in to car
+Shift – Get out
+Control - hits

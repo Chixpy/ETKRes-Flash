@@ -1,0 +1,1 @@
+Hacked to prevent the game from opening empty browser windows.

@@ -1,0 +1,2 @@
+This is the Flash demo game, using the Flash Ray engine,
+Ray Tracing technology, and Flash 8 we are able to acheive stunning, texture mapped 3D results.

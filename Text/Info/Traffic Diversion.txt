@@ -1,0 +1,1 @@
+Identify the Vehicle and guide it to appropriate destination. Use mouse to change the Direction of path. If vehicle reaches wrong destination,one life will get reduced.

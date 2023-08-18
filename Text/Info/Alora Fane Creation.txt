@@ -1,0 +1,1 @@
+This is an RPG engine by the creator of the Mardek games. As an extra is a database of all of the quests he created for the game. While some may have the same filename they are different quests.

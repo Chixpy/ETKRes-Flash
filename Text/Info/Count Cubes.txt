@@ -1,0 +1,2 @@
+Count the number of cubes you think there are and input the number by clicking the number buttons.
+Be careful... There could be cubes that you can't see!

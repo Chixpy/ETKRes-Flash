@@ -1,0 +1,1 @@
+The level editor for StarShine 2, not to be confused as an alternate version.

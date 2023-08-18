@@ -1,0 +1,1 @@
+Fun fact: On the original site, users may upload and even execute any arbitrary file. Because it is such a security risk, the uploading function has been disabled in Flashpoint.

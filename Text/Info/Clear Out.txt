@@ -1,0 +1,1 @@
+Clear out all the balls from the platform, except one ball, by hitting one ball on another of the balls. You can hit one ball on another either in the vertical or horizontal way.

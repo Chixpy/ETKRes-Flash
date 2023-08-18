@@ -1,0 +1,1 @@
+Shoot the balloons within the given time limit. Complete the target to move successive levels. You have 3 chance for every level. If you shoot the danger balloon, you lose a life. Finish all the levels to win game. Have Fun!

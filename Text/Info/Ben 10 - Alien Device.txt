@@ -1,0 +1,1 @@
+For some reason, the screen shrinks whenever Ben walks downwards. This was fixed by changing the BottomOffset value from "0,69" to "0,144" in the data\world.xml file (line 11).

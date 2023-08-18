@@ -1,0 +1,1 @@
+Ripped directly from the EXE provided on MetanetSoftware.com. Hacked to remove certain attempts to call the original website (original file is included as n14.swf).

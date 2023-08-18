@@ -1,0 +1,1 @@
+A Swimming Race game! Use the left and right arrow keys alternatively to make your swimmer move faster. Play this fun and exciting swimming game.

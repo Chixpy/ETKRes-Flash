@@ -1,0 +1,1 @@
+Create a rectangle by clicking 4 tiles of the same color.

@@ -1,0 +1,1 @@
+This is a nearly impossible pong game. I’ve never beaten the computer, but I believe it’s possible! If you happen to win then send me a screenshot. You use the UP and DOWN arrow keys to move. Keep in mind that you need 10 points to win, so the first one is possible, but it gets much, much harder after that!

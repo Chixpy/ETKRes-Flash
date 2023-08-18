@@ -1,0 +1,3 @@
+High-score isn't working.
+Klik cirklerne i den rigtige rækkefølge, hurtigst muligt og få en top 8 placering.
+Et lille spil jeg lavede for at afprøve highscore funktion.

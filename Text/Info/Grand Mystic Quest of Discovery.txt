@@ -1,0 +1,15 @@
+The game has no audio, so don't be surprised if you don't hear anything. 
+
+This game's controls are kind of confusing and there's no in-game tutorial, so here they are:
+
+- Left/right arrow keys to move
+- Up/down arrow keys to move vertically on ladders, also to read scrolls and enter doors
+- Z key to jump, also to close scrolls (when opened)
+- Ctrl + F2 to restart
+
+Spell controls only work when you have them:
+- Q key for the first spell
+- W key for the second spell
+- A key (hold) for the third spell
+- S key for the fourth spell
+This game very accurately emulates the C64 graphic style and colour palette. It has very solid gameplay, the elements/spells all work great together to create a set of clever puzzles for you to solve.

@@ -1,0 +1,4 @@
+Math + colors + shooter = this game!?
+
+In MCS, your goal is to protect yourself and your base as long as you can by defeating enemies.
+To defeat an enemy, you have to change your color to the enemy’s color, then use missiles. If the enemy’s health reaches EXACTLY 0, the enemy will be destroyed. If the enemy’s health reaches BELOW 0, it will make a big explosion that deals lots of damage, so be careful. Enemy’s health will decrease depending on the type of the missile you use.

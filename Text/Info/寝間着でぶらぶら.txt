@@ -1,0 +1,1 @@
+Use arrow keys to move and Space to interact.

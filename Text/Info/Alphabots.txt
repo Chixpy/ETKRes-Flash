@@ -1,0 +1,4 @@
+Pressing skip after completing a world will cause the menu to not reappear. Press submit instead for this to not happen.
+
+Falling while getting a time-up will cause the level complete screen to not display. Clear the level of all possible words to fix this.
+Chase after the Alphbots in this 3D action puzzle word game. Collect the longest words you can as quickly as possible in each level, across 3 different worlds.

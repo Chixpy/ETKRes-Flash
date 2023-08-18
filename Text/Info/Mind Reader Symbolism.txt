@@ -1,0 +1,1 @@
+Guess a number between 0 to 99, Which will be 'a'. Multiply 'a' by 2, which will be 'b'. Add 'b' with 100 which will be 'c'. Divide 'c' by 2, which will be 'd'. Subtract 'd' with 'a', which will be 'e'. Now look at the symbol for the number 'e' in the table.

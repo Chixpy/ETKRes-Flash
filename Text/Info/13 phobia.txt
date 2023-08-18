@@ -1,0 +1,1 @@
+choose the turn and play game with computer. Take turns with computerto select smiley from the group. The one who selects the 13th smiley will lose the game. Each time,you can select one or two smiley from the group.

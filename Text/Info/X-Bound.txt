@@ -1,0 +1,1 @@
+Play breakout with a full 360 degree rotation of your paddle. The blocks are in a circle around you.

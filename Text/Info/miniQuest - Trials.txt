@@ -1,0 +1,9 @@
+miniQuest: Trials is a 2D room based Platformer with beautiful Pixel-art graphics where it takes speed, skill, and fast reactions to beat each level in as little time as possible.
+
+Can you beat all the levels and SECRET levels?
+
+Arrow keys or WASD for commands
+Z and Spacebar to jump
+R = Reset level
+Escape key = Return to Main Menu
+M = Mute

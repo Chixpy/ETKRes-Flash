@@ -1,0 +1,3 @@
+This was originally done as a commission where I was asked to do the art only. But I haven't been able to get in touch with the commissioner in months about sending payment so I went ahead and finished all the coding myself.
+
+It took a bit to figure out how to do it since i've never made a coloring game before but after reading some tutorials I managed pretty well. If anything it was a good learning experience and another example of games I can do.

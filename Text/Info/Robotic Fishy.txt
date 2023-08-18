@@ -1,0 +1,1 @@
+INSTRUCTIONS: Use arrow keys. Eat the smaller fish to get bigger, if you attack a fish that is your same size, you will lose.

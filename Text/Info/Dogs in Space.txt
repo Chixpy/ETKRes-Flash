@@ -1,0 +1,2 @@
+Get both dogs to the next bay (hint: in the first level, it's at the bottom right of the screen).
+Controls: Move left and right with A and D or the arrow keys. Jump by pressing W or UP.  Press S or Tab to switch between dogs and use Spacebar in front of a microphone to make the little dog bark.

@@ -1,0 +1,1 @@
+GravPull is a simple gravity based game. You start a level rotating around a planet and must add thrust to your ship once you think your angle of rotation is good for the direction that you intend to travel in. Each level has a goal planet that you must reach to pass to the next level.

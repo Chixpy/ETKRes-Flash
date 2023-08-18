@@ -1,0 +1,4 @@
+Fast-paced, tower defense style arcade action zombie game. Build walls and towers to defend against hordes of zombies while protecting your safehouse and civilians.
+
+Campaign
+28 levels across 4 unique campaigns.

@@ -1,0 +1,4 @@
+Game Instructions: 
+Football penalty kick game. Select a panel to kick/guard the ball.
+Challenge mode is based on how may goals scored in a row.
+ココアとマロンがペナルティーキックで対戦！ どこを狙うかどこを守るか、読みあいで勝負！

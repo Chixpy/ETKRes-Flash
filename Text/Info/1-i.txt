@@ -1,0 +1,1 @@
+Control 1i's jumps with the right and left arrow keys. Only grab green globs, not blue ones.

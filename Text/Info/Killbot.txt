@@ -1,0 +1,1 @@
+You can change your character appearance while the game loaded. Since loading times are near instantaneous, this cannot be done anymore.

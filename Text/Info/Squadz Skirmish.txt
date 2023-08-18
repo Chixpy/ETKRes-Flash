@@ -1,0 +1,1 @@
+Tactical turn based action. Three different gameplay modes, two player mode. Randomly generated maps, never play the same level twice.

@@ -1,0 +1,1 @@
+Game Boy Jam game that uses game boy restrictions. It’s a western platform game, where you play as a sheriff of the town. Your mission is to capture all the bad bandits in the land and bring them to justice.

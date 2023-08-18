@@ -1,0 +1,3 @@
+Polly finds herself trapped in a tech demo!
+
+Controls: Arrow keys to move, Z to do things.

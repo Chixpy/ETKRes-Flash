@@ -1,0 +1,1 @@
+Contains every level up to 24/3/2019. Contains replays for all levels. You can change your system time to change how the searching works. Also contains levels removed from the database since the last backup (from 18/11/2018) but with no replays.

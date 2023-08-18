@@ -1,0 +1,1 @@
+You can change which characters are eliminated or not by modifying the strikersData.xml file.

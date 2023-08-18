@@ -1,0 +1,1 @@
+Swap the smilies to bring a line of 3 or more identical smilies. In every level, reach the target before time ends to swap the smilies in tougher levels. If you feel it hard to swap, use hint option to know the swappable smilies .But, using the hint option once will reduce 50 points from your score.

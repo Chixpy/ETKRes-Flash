@@ -1,0 +1,1 @@
+Move the spaceship to destroy the space invaders.Use the arrow keys to move the spaceship.Maintain the health level to play advanced levels.Upgrade the spaceship to devastate more aliens.

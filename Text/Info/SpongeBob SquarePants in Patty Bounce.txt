@@ -1,0 +1,1 @@
+"Quiz.txt" and "eyeland_hs_scores.php?action=check&id=5&score=100" were unobtainable from their source. The game is still very much playable without them, though you can't use the high score table when you get a game over.

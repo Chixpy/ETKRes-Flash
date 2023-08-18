@@ -1,0 +1,3 @@
+Just like the old tradition here in ClassicGames.Me, most of the games that appeared in the Ludum Dare events will find their way here. In Abyssal Dream, the wait is over. You must explore a strange world and you should be mastering the shape-shifting capabilities! Can you handle them?
+
+controls: Move [Arrow keys] Jump [X] Attack [C] Grow [V + Up] Shrink [V + Down]

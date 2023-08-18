@@ -1,0 +1,1 @@
+Assemble all the pieces of the pipeline in such a way that it is connected to the water tank, which is in the opposite side.Once you have assembled correctly, the water from the tank will reach the destination and gets stored over there.Complete the task within the time limit to go through all the 5 levels.After arranging the pipes, click GO button.

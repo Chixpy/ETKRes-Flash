@@ -1,0 +1,3 @@
+Some files have been replaced with older ones recovered by the user NightPearl so there will be minor inconsistencies with the graphics.
+
+Currently access to 3 of the 4 octo kingdom areas are disabled for unknown reasons until a fix can be made. However the files for all areas exist and can be manually opened.

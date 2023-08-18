@@ -1,0 +1,1 @@
+Help the Santa to gather the gifts for Christmas. Move the pointer in the maze to gather the gifts. Good Luck!

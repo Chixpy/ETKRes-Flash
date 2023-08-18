@@ -1,0 +1,1 @@
+Hacked to use the debug data. Intro screen warns you about this. All the text lines have been replaced to add unnecessary umlauts.

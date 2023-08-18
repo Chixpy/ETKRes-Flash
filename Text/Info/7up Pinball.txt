@@ -1,0 +1,1 @@
+Expand the window horizontally to access some cheat/debug buttons.

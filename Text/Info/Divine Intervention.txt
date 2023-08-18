@@ -1,0 +1,19 @@
+*12/30/2005* - updated the game with my new website address... www.totaljerkface.com ... I also increased the frame rate to make up for the lag of playing it in a browser... so now the priest will walk at his intended speed, but the game may be a bit harder.
+
+BEFORE PLAYING: If your computer is old, play this on low quality and cheat. Otherwise, you won't make it past the first guy. If your computer is decent, I'd still recommend medium quality as it looks very similar to high.
+
+HERE ARE SOME PLAYING TIPS:
+-if you can't gun down the little kids with the pistol (takes 3 shots) cheat under the options menu... and pick all guns.
+-the uzi is probably the most defensive weapon since you can aim it in one spot, hold down shoot, and let the guys run into it... but if you're accurate, definitely use the shotgun.
+-walk slow into the level. enemies appear based on how far you walk... if you walk too far too quickly you'll get swarmed
+-for the boss... you can only shoot him when while his shield is down (with the shotgun). if you see him point at you, you better shoot him in the head immediately. shooting him in the body won't kill him. sorry for being misleading.
+(changed 11.27.03)
+
+.... once you get used to it, the game really isn't so hard
+
+I made this game as a portfolio piece so I could more successfully attempt getting a job. I started in january, but that was on and off. I didn't work on it full time until late summer. I thought it would be the first scroller/shooter of it's kind, but madness interactive and nightmare beat me to it, and did it really well. I'd love to show you guys a full 5 level game... but that would be way over 5 megs and would take me another year.
+If you like this game, and you also happen to be a relevent employer in or around NYC... GIVE ME A JOB. I am poor and lame.
+
+other than that, go watch "beautiful day" again with a loved one.
+
+11.22.03 - fixed walking glitch

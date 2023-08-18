@@ -1,0 +1,3 @@
+The object is to reveal a hidden picture by painting the squares around each clue so that the number of painted squares, including the square with the clue, matches the value of the clue.
+
+There is only one unique solution for each puzzle.

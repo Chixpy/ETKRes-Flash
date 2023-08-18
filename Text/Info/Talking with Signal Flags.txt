@@ -1,0 +1,2 @@
+Extras contain the flag alphabet.
+The flags below are called International Marine Signal Flags and are used by ships at sea for communication. They can be used to spell out short messages, or individually or in combination to create special meanings. Each flag represents a letter of the alphabet. Decode the flags shown below.

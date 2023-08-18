@@ -1,0 +1,4 @@
+Play the addictive online platform game Hopper.
+The goal of the game is to navigate Hopper to the top of the mountain.
+While Hopper is traveling up the mountain he must look out not to fall of the mountain and he may not touch enemies and other dangerous objects.
+In each level Hopper has to find the Golden Star, before this star is visible Hopper must collect all the Red Balls in each level. When he collects the Golden Star Hopper can travel to the next level.

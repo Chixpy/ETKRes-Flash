@@ -1,0 +1,34 @@
+Over a year later, I updated the game with some changes! Most notable is that the game should run a bit faster now, particularly in the later stages (4, 5, and Extra) The stages also no longer have to be unlocked, though you should still play them in order!
+
+Ether has a few new maneuvers as well, pressing Spacebar will turn her attack on until you press it again, this should make things a lot easier if you're trying to play both characters by yourself. You can also now hold down X to slow her movement speed.
+
+-----
+
+Alien forces are invading! Join four heroes as they blast across the solar system in the most intense flash shoot em up ever!
+
+Game Features:
+
+7 stages of non-stop action
+Two-player simultaneous play
+Full voice acting
+Tons of bosses
+
+Player 1 (FX) controls: Mouse to move, Left click to shoot
+
+Player 2 (Ether) controls: Arrows or WASD to move, CTRL, Z, Spacebar, or Enter to shoot. X to move slower
+
+Press L to toggle quality
+
+This game is very processor intensive, medium quality recommended, low for older computers.
+
+If you really need to pause, right click the game and uncheck play
+~
+
+Full voice cast:
+
+FX: D-Mac
+Ether: Candi Santora
+Astra: Sasuya
+Trinoka and XS: Althea Aseoche
+Seven: Rina-chan
+Nemor: CarlHyperweevil

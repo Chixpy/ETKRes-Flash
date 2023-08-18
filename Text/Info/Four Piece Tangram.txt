@@ -1,0 +1,4 @@
+Move the tiles to assemble the picture.
+Put your cursor on the dot and hold down the left mouse button to drag the tile.
+To rotate the tile, put your cursor on the tile (not on the dot) and spin the tile while holding down the left mouse button.
+To flip the tile, hold down the left button on your mouse and drag the cursor through the dot on the tile.

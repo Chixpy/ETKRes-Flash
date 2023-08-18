@@ -1,0 +1,1 @@
+Saved all puzzles up to 01/12/2018. Puzzle generation can be changed by manipulating the Launch Command and changing the date (dt parameter at the end).

@@ -1,0 +1,2 @@
+Welcome to The TILTED CART, a small minigame where you tilt a game cartridge to find weird surprises. Music by TylerK and Probz.
+CONTROLS: Use the game controller on the screen to go left, right, or do an action with the one action button. If you find yourself stuck or if you don't know what to do give the cart one tilt using the arrow icons above the cart. One nudge may send you somewhere new, two nudges may break the game pretty badly. Sometimes the game will reset itself. That is okay, just keep experimenting with tilting the cart at different points during gameplay.

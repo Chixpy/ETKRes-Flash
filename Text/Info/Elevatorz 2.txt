@@ -1,0 +1,2 @@
+Mr. Jitters is back for some more elevator avoiding fun! Your job is again to cross all the floors within the time limit, while avoiding the elevators. But this time there are 5 buildings, with each a different objective!
+Instructions: Use the left and right arrow keys or the A and D keys to start running. You can't stop running unless you bump into an elevator, or reach the ladder. But you can turn back to avoid a collision. Use P to pause, S to toggle the sound, and escape to end the game.

@@ -1,0 +1,1 @@
+E-Mail features do not work + File opens in fullscreen

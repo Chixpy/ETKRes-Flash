@@ -1,0 +1,1 @@
+Fill in the 9x9 grid and ensure every column, row and box contains numbers from 1 to 9. Use the Hint by first selecting a square you need help on.

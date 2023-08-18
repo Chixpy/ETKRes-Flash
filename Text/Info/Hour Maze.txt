@@ -1,0 +1,2 @@
+Use clock numbers (1 to 12).
+A number's "neighbor" (above, below, left or right, except if separated by a maze wall) must be one of the two numbers nearest on a clock face.

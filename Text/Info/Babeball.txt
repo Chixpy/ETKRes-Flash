@@ -1,0 +1,7 @@
+Can you make it to the end of the track?
+Two modes of challenging old-school action!
+
+In Time Attack mode, you run until the time runs out.
+In Cat Mode, you have 9 lives to finish the track.
+
+The whole game is made using the flash drawing API, and is only 14 KB (150 KB with music).

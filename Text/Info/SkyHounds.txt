@@ -1,0 +1,1 @@
+This is a 2D, horizontal scrolling shootem up in the spirit of classic games such as R-type and Gradius. Play as a small, round mech, Dizzy, and his human co-pilot, Charley, in a search to find and rescue their friends after an alien invasion.

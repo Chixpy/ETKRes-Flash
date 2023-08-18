@@ -1,0 +1,1 @@
+There is a later version, v1.26, but it has required cloud saving with no workaround.

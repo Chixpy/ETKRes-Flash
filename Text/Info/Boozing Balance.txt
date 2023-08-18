@@ -1,0 +1,1 @@
+The pub is open with different types of alcoholic drinks. You'll have to make the Boozer drink the stuff within the time duration (2mins) and also prevent him from falling down.

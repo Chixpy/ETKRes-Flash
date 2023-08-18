@@ -1,0 +1,1 @@
+If you finish a level, you will need to relaunch the game to access the levels menu again. If the internal close button is clicked when in a level, the game will break and will need to be relaunched to regain functionality.

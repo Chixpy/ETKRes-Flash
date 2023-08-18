@@ -1,0 +1,1 @@
+Make the Halloween characters to jump into the pumpkin boat which is in constant movement .In case of misplacement ,the characters will lose their lives in the dangerous boiling liquid.

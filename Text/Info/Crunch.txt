@@ -1,0 +1,1 @@
+Crunch is a math based arcade game in which you try to get the total (or product) of the crates to equal the number located on the bottom right of the screen.

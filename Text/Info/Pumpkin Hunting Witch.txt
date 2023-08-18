@@ -1,0 +1,1 @@
+Help the witch to collect the pumpkins. The bats are the real enemies of the witch, and the witch has to be careful to avoid the bats.  If the witch makes contact with the bats, and if it happens thrice,  the game gets over.

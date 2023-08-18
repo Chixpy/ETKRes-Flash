@@ -1,0 +1,1 @@
+Some audio SWFs are missing from the Internet, but the game works perfectly fine without them.

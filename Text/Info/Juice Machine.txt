@@ -1,0 +1,1 @@
+Click on the needed color when the glass coincides with particular color to fill juice into the glass. Similarly, click on the item when the juice glass coincides with particular item.

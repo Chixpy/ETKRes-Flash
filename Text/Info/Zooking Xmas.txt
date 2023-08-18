@@ -1,0 +1,18 @@
+(Description from https://www.newgrounds.com/portal/view/557313)
+Its so much easier for Santa to deliver presents... WITH HIS BAZOOKA!
+Your main goal is to put the gifts into the chimneys and stay alive!
+This is a Physic-based puzzle with platform elements, easy to play, but harder than it looks
+
+Instructions
+- Move with the arrow Keys and aim with the Mouse
+- Click and hold the mouse to charge the bazooka
+- Release to shoot the gift.
+
+Let me know what do you think and how can i improve the game.
+Please keep feedback constructive and courteous! Thank you!
+:)
+
+---------
+UPDATE:
+I woould love to read your suggestions to improve my game.
+Right now, i'm fixing the screen size in some levels so you can see the whole area where is required

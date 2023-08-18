@@ -1,0 +1,6 @@
+The "More Games" and "Latest Podcast" buttons at the end lead to external links, which will inevitably go defunct in the future. Also, the game may or may not softlock due to potential missing MP3s for some questions.
+- Fetch Fan Faceoff! -
+
+Challenge a friend (or foe) to find out who's the real FETCH! fan.
+
+Do YOU have what it takes to be Ruff's #1 fan?

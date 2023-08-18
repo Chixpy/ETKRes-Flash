@@ -1,0 +1,1 @@
+Spin the roller to move your piece forward and defeat Mr. Computer by reaching the target before him. Have fun!

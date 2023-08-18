@@ -1,0 +1,1 @@
+Opens Browser window when trying to click on websites. User Data has not been included

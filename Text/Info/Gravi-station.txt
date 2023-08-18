@@ -1,0 +1,1 @@
+Your goal is to help the robot reach the exit. Use the left and right arrow keys to move, and spacebar to fire your laser. Shoot boxes with arrows to flip gravity in that direction. If the exit door is closed, collect a green key to open it.

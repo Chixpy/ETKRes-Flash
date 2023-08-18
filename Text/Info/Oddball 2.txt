@@ -1,0 +1,1 @@
+Oddball is a continuous flash memory game where the player has to click the newborn ball (i.e the ball that wasn't there in the previous round) before time runs out.

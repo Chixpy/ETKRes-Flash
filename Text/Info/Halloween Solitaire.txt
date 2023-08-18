@@ -1,0 +1,1 @@
+A seven-column card game you play by yourself. Collect all the cards by alternating red and black colors from ace through king. Happy Halloween!

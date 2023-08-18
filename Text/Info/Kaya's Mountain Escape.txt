@@ -1,0 +1,1 @@
+"Play again" button opens http://play.americangirl.com/. To actually play again, just close and reopen the game.

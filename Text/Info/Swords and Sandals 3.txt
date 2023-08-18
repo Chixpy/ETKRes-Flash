@@ -1,0 +1,1 @@
+Hacked version to add cheats. Press 1: toggle health, armor and mana. Press 2: add cash

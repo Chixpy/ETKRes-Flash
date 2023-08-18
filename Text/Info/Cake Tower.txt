@@ -1,0 +1,1 @@
+Build tower by catching the cake from machines.Use arrow keys to move the character.If you fail catch the cake, you will miss one life.To finish each cake tower, catch the icing from separate machine.Achieve each level target to play next level.

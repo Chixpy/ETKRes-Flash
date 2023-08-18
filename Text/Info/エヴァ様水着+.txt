@@ -1,0 +1,1 @@
+Pressing "C" brings up the interface, and repeatedly pressing or holding "D" reveals the other options.

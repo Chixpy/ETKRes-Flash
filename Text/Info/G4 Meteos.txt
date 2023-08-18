@@ -1,0 +1,10 @@
+Instructions are not included with game;
+Use the mouse to drag blocks up and down.
+Align 3 or more to launch them.
+Get blocks to the top of the screen to remove them.
+Game ends when a column remains full for too long.
+
+bgm.mp3 is missing; all links to it result in
+403 Forbidden errors, only Wayback archive is a
+404. Was found here;
+http://game.g4team.com/g4meteos/bgm.mp3

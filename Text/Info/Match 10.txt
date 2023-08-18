@@ -1,0 +1,3 @@
+Your new match is a perfect 10!
+Build chains of colorful digits, adding your way across the board. Each chain may have no more than 10 numbers, and must equal the number 10! You can start and end anywhere you like, but remember: Your score for each move is the number you create.
+Win or lose, you can count on a good time!

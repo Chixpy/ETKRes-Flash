@@ -1,0 +1,2 @@
+This game does not save your score, so if you break some kind of world record and close your window, you won't be able to show your friends/enemies.
+As simple as it gets, BlueBlock is a game where you move a blue block left and right with your mouse and try not to run into any other blocks for as long as possible.

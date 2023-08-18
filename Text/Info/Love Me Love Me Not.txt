@@ -1,0 +1,2 @@
+Hacked to turn on the debug mode; this skips King's API. The instruction text has been made less helpful as a result.
+You are but one of many princesses who want to marry the wealthy prince. You need help from the magical flower. If you pick the petals right, the prince will definitely fall for you!

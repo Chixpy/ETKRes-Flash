@@ -1,0 +1,1 @@
+Very limited interactivity. This demo uses the same graphics from the Lassie Director demo, but does not port over its full interactivity. This demo just illustrates that Lassie Director interactivity could be reproduced using LassieAS. For a fully interactive version of this game, play the Lassie Director demo. For a better Flash engine, use Lassie Shepherd.

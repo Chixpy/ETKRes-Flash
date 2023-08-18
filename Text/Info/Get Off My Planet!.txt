@@ -1,0 +1,2 @@
+Game stays on 98% loaded for a few seconds, but will eventually finish loading. This is normal.
+"Get Off My Planet" is basically a mixture of the tower defense and city building genres. Your mission is to grow your city and terraform a new planet whilst battling waves and waves of enemy starships.

@@ -1,0 +1,1 @@
+"Server Response" text persistent during gameplay, not all that game-breaking.

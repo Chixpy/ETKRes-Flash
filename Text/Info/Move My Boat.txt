@@ -1,0 +1,1 @@
+Move the boat to way out by changing the position of the other boats. By moving the boat along the movable direction, you can change the boat�s position. To score more, complete each level, in a minimum number of moves.

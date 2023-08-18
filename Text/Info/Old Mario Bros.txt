@@ -1,0 +1,1 @@
+WASD on map, Space to enter levels, A/D/Space within levels, J to throw fireballs, and K to use the hammer.

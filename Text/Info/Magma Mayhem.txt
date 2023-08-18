@@ -1,0 +1,1 @@
+Dodge the falling magma using the left and right keys. Try to survive for as long as possible (although you will never succeed, hehe). The longer you stay alive, the higher you score. You have been grated 3 lives. For every rock that hits you, 1 life will be lost. Once you run out of all 3 lives, the game will end and you can submit your score to the Online Leaders Board.

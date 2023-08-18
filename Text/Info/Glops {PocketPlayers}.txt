@@ -1,0 +1,1 @@
+Rotate the board to help group two or more glops.

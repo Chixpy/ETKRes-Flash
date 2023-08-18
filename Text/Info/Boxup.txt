@@ -1,0 +1,3 @@
+Push the small red box inside the big blue box.
+Move the boxes by pushing from the inside.
+A small box inside a large box can be pushed together.

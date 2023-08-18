@@ -1,0 +1,1 @@
+Soccer Footy is a mouse based skill game. Do not let the ball go out of the circle. If you miss the ball you will lose a life. Score more goals within the time duration to get more scores. Game gets tougher the more level it goes.

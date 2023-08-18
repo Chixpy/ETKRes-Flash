@@ -1,0 +1,1 @@
+Port of a 『星のカービィ 鏡の大迷宮』 (eng. "Kirby & The Amazing Mirror") sub-game titled 『刹那のつまみぐい』 (eng. "Speed Eaters") as a promotional demo available on game's official website.

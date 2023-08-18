@@ -1,0 +1,1 @@
+A fun little Flash piece that is more web toy than game, really, and yet the score tally gives this mesmerizing diversion an addictive quality. Simply click anywhere in the grid to activate a cell and watch the chain reaction develop.

@@ -1,0 +1,4 @@
+Combine is back with 4 new game modes! Again, your goal is to combine three or more balls of the same color to create a new ball of the next color. Unlock all colors to score more points!
+The new Quick mode will drop you right in the middle of the game. The Daily Challenge will give you a fixed new challenge every day, to test your skills and strategy against players worldwide! The Freeze mode adds frozen balls, and the Custom mode let's you customize the game, which is a great way to practice new strategies! 
+
+Arrow keys or WASD to move left/right, rotate and drop the balls.

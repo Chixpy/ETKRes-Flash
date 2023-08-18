@@ -1,0 +1,1 @@
+Alien is helpless without the spaceship! Move the alien on the clouds to reach the spaceship without falling down. Avoid hitting the rockets as otherwise you will lose a life. In each level, reach the spaceship within the given time duration to proceed to higher levels.

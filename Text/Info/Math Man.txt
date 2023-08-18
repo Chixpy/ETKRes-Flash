@@ -1,0 +1,2 @@
+Use the arrow keys to move the Math Man to eat all the ghosts.
+You can only eat the ghost with the number that solves the equation.

@@ -1,0 +1,1 @@
+Form colored squares. Use special blocks to remove large groups.

@@ -1,0 +1,17 @@
+Game Description:
+
+An addicting puzzle platformer in pixel style. Complete all 30 challenging levels by jumping, flipping gravity and avoiding obstacles. Change gravity by pressing the space or S button. That way you can walk on the ceiling to avoid the spikes. Set a new fastest time in each level. It will become more difficult each level, can you complete them all with the least amount of tries?
+
+Game Instructions:
+
+[LEFT] & [RIGHT] or [A] & [D] to move
+
+[UP] or [W] to jump
+
+[DOWN] or [S] to flip gravity
+
+[H] for help (first 10 levels only)
+
+[M] to mute the volume
+
+[+] & [-] to turn down/up the volume

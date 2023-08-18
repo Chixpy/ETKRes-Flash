@@ -1,0 +1,12 @@
+Controls
+←,→  Move
+Z  Jump
+X  Run/Attack
+P  Pause
+A  Use Saved Item
+Super Bowser World!!
+Let's rescue Bowser jr!
+
+Language: USA
+
+Made by : me and JX

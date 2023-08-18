@@ -1,0 +1,3 @@
+Ripped from the trial installer. Hacked to fix a volume level bug related to said rip.
+
+For those who enjoy 17 movies, I do not blame you, but you might try a simple fizzle swf instead.

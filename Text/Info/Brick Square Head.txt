@@ -1,0 +1,1 @@
+Sweet platformer. You can choose the time of the platforms’ appearance yourself, using game timeline. Turn your enemies into your friends. And you choose in what moment of time will the obstacles appear.

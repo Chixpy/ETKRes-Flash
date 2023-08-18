@@ -1,0 +1,11 @@
+Special SUMMER issue of HALC SLOT game with SEXY GIRLS.
+
+You can drag slot console anywhere with mouse.
+Game controls: Mouse and keyboard
+Enter - hide/show console.
+SPACE - start reels.
+Cursor UP - Raise bet
+Cursor LEFT/RIGH - flip pages.
+1-9 - starts slide show with 1-9 seconds delay.
+0 or Cursor LEFT/RIGH - to stop slideshow.
+ESC - exit to MAIN MENU

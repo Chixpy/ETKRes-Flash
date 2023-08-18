@@ -1,0 +1,1 @@
+Analyze your power of observation by finding out the numbers which are in various forms. For each accurate click, score will get increased and for wrong click, score will get reduced.

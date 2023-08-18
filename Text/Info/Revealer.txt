@@ -1,0 +1,1 @@
+The game takes a few seconds to start, just wait until it's finished loading otherwise the text will say 'undefined'. Upon completion, the game hangs. I believe this is due to the way Funbrain would then link you to other pages.

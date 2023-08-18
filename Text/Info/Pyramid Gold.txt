@@ -1,0 +1,10 @@
+High Score list does not work.
+In the Pyramid Gold game show, your goal is to score as many points as you can by guessing the subjects hidden behind the pyramid.
+There are a total of six categories; three blocks worth $500 each, two blocks worth $1,000 each, and one block worth $5,000.
+
+To begin the game, you must select one of the boxes. Hidden behind each box is a category which you must try to guess.
+You are given three clues for each category. For example, the category "Gloves" would give you baseball, golden and medical as clues.
+The clues correspond with the timer bonus, appearing every 100 points. Try to figure out the category as quick as possible to earn more bonus points.
+When the time bonus expires, you lose that turn and must select another box (if available).
+
+You only have on guess for each category so make it count. See how much money you can win in five rounds of Pyramid Gold.

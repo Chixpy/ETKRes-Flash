@@ -1,0 +1,19 @@
+Movement: WASD or Arrow Keys
+Do Stuff: Space
+One of the purest platforming Flash games to be released in recent memory, Temp Ninja is a fun and extremely polished game designed to lure players in with some easy beginner levels and keep them coming back for more with challenging levels, unlockable playable characters, and achievements.
+
+Features:
+
+- Amazingly fun ninja platforming controls. One handed, so you can hold your coffee in the other.
+
+- A likeable and charming character and environment. You are an office ninja!
+
+- 20 levels of platforming action, plus a final boss fight
+
+- 4 uniquely enjoyable cutscenes
+
+- 6 playable characters (5 are unlockable)
+
+- 8 achievements
+
+- Rockin 8-bit chiptunes soundtrack

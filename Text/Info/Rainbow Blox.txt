@@ -1,0 +1,1 @@
+Use the left and right arrow keys to move the pieces, Up arrow key to rotate and down arrow key to drop pieces faster. You get more points for completing rows of blocks.The game is over when the blocks pile up and reach the top of the screen.

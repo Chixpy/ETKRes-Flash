@@ -1,0 +1,3 @@
+Collect cubes and avoid the explosive mines to work your way through colourful levels and set a highscore!
+
+This game is incredibly graphic intensive. Please set the quality to low via the pause menu for older machines. :)

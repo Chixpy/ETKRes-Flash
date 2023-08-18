@@ -1,0 +1,1 @@
+The Aliens has to go Space ship by crossing the obstacles without falling down. Help him reach home safely, within the given time. Do not let the alien fall to avoid playing the same level again. Complete the level and move on to the next levels.

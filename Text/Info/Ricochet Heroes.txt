@@ -1,0 +1,1 @@
+From Ludum Dare 31 (where it won #16 overall and #5 in the fun category) and made in 72 hours. Ricochet Heroes is an unlikely combination of two unexpected genres: Pinball and RPG. Fling your heroes, bounce evil monsters, and recruit new heroes for some multiball madness. And of course, save some princesses!

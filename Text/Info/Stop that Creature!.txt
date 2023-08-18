@@ -1,0 +1,1 @@
+Stop clones when you name the rule that runs the machine.

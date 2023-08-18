@@ -1,0 +1,1 @@
+A prototype for an RPG that Cavanagh never finished. The idea was that the game started you at the final boss battle with no context as to the story or anything and had rendom plotlines wrapping up around the player.

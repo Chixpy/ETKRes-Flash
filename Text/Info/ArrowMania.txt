@@ -1,0 +1,1 @@
+Use your arrow keys to prevent the up-moving arrows from reaching the top of the small field.

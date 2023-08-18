@@ -1,0 +1,10 @@
+Make a game? How hard can it be? Start with a stick figure, and a line to walk on. Then follow the directions. Doublejumps, razor saws, bottomless pits, movable boxes...if you need it in a game, you will find it here.
+
+INSTRUCTIONS
+WASD, R to reset. See game for more instructions.
+GAME a1131d06-bf9f-c863-43e9-bdd3f009c8c2
+Title: How to Make a Sequel
+Tags: Platformer; Puzzle
+Publisher: Addicting Games
+Series: How to Make a Game
+Original Description: How do you pull a cow from a hat? Moogic! How to Make a Sequel is an udder-ly ridiculous puzzle game that pays homage to some of best indie games in the field. And that ain't no bull. Sorry, now we're really milking it.

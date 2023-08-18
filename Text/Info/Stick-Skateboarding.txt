@@ -1,0 +1,1 @@
+You are a skateboarder, illustrated as a stickman. Try to avoid objects to clear all levels and next try to get a high score to have it placed in the highscore. — This is the updated version with better graphics and music, please comment if you know some improvements I could still make.

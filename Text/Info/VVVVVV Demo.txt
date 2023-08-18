@@ -1,0 +1,19 @@
+About the Additional Applications:
+
+About: RE: The two extra versions - This is a very early version of VVVVVV that I had worked on for maybe a couple of weeks. A lot changed between this version and the version I eventually released - it was called VVVVVVVV at that point, for one. However, I think a lot of the spirit of the game was present as early as this. Hopefully you'll find it interesting to see how the game evolved.
+
+There are several mechanics in this version that aren't in the final version of the game:
+
+ - Minor collectables, in the spirit of classic C64 platformers like Monty and the Run and Jet Set Willy (which influenced VVVVVV a lot). These were mostly intended to give you a reason to explore the world's nooks and crannys, but as the game grew up it became clear that it was going to be mostly linear, so they became unnessicary.
+ 
+ - Disolving platforms - as distinct from disappearing platforms, these single 8x8 tiles disappear as you FALL on them, but not as you walk across them (unlike the other type of moving platform in the game). I had though this distinction would lead to some cool room posibilities (for example, maybe a section that you were forced to land on), but as it turns out I was able to express those design ideas better in other ways, so the mechanic was scrapped.
+ 
+You might notice the faint 1.1 number in the corner - in this build, I was testing out different values for horizontal acceleration. You can change this yourself with numbers 1 through 9 if you wanna see how different values feel! (I eventually went for a value higher than the one used in this prototype, but opted not to abandon horizontal acceleration altogether).
+ 
+ALSO INCLUDED!
+ 
+So, when looking though my old backups for this project, I found I'd saved something from literally the first day of development - a few hours into the project. It's a mess of placeholder graphics and it's just three test rooms, so view at your own peril :D
+Flip is Z
+
+Cheers,
+Terry

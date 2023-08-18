@@ -1,0 +1,1 @@
+Window does not open in correct resolution

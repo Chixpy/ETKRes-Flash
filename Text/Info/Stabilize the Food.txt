@@ -1,0 +1,1 @@
+Balance the food on the rod to reach the table. If you waste food while balancing, score will be reduced.

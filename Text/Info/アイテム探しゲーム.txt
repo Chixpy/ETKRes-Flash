@@ -1,0 +1,4 @@
+<How to play>
+Control with the mouse.
+Search for the items displayed on the bottom of the screen and click on them.
+Clear the level by finding all items within 60 seconds.

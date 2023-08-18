@@ -1,0 +1,10 @@
+Roll and Jump is a skill game where the goal is to climb as high as possible by jumping from a rolling circle to another.
+
+Climb and do the highest score as possible.
+You can do a wall jump, a double jump or activate slow motion!
+
+Easy to learn, but hard to master!
+
+4 successive circles (4 combo) = +1 point multiplicator
+If you touch a wall or a yellow circle you lose 1 point multiplicator.
+However the slow motion costs 1 combo.

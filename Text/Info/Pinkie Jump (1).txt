@@ -1,0 +1,51 @@
+***This is the re-upload of futzi01's game "Pinkie Jump". All credit goes to him, this upload is for archival purposes only.***
+
+The original has been deleted, but it can still be found and played via the WaybackMachine (click the timeline on the top to change the date of the captures if you get an error message). A download, for example via the DownloadHelper addon in Firefox, or a similar program that allows to download flash files, as well as bookmarking those links, is recommended.
+There are no plans to take this archive down ever, I will keep it online as long as Deviantart exists. But, as futzi01's case shows, even in the Internet, nothing is for eternity and unforeseen things can always happen, so it is important that people who care preserve gems like this. Of course you can also download "Pinkie Jump" directly from the archive here.
+A copy of the original description, together with links, if any, can be found below. A screenshot showing the original stats is here.
+
+
+
+
+
+** Now for Android! **
+Nitrouspony:iconnitrouspony: made an Android and iOS version of this game! Download the Android version here: [link] and the iOS version here: [link] (Note by futzi01-Pony-Archive: The link to the Android version is not futzi01's original link, as his stash can not be recovered, but I found the Android version somewhere else! The journal entry by Nitrouspony is only in the WaybackMachine anymore, as it got deleted by him, but his stash link to the jailbroken version of "Pinkie Jump" is still functionable! Just remove the WaybackMachine URL in the address bar and hit "Enter".)
+
+Version 1.5 changes:
+* Fixed bug when Pinkie walked on one place after entering the secret cheat code Didn't work :(
+* Fixed bug when Pinkie fell through the clouds after entering the secret cheat code while on balloons
+
+Version 1.4 changes:
+* Balloon's healthbar visibility improved
+* Clouds in high regions won't spawn too far apart from each other making it sometimes impossible to be reached
+* Green clouds now bounce you higher
+* Small graphical improvements
+
+Version 1.3 changes:
+* Fixed bug: Jumping on a cloud and simultaneously collecting balloons won't make Pinkie unmoveable now.
+* Fixed bug: Collecting balloons while flying with balloons now won't make the new balloons useless.
+* (Hopefully) fixed bug: No more random falling through clouds Nope, didn't work
+* Fixed bug: Items now won't spawn too far on the left/right side.
+* Corrected small spelling error.
+
+Version 1.2 changes:
+* Added a balloon health bar
+* Grey clouds live time slightly increased
+* Item spawn frequency increased
+* Adjusted cloud's hitbox
+* Minor graphical improvements
+
+Version 1.1 changes:
+* Added A and D keys for movement
+* Fixed credits
+
+This is not a copy of a popular game for mobile platforms. Nope. Never heard about it :iconajliarplz:
+
+
+You can find all the sources for music, vectors etc. in the game's main menu.
+
+Please report any bugs or put change requests in the comments.
+
+Feel free to use this game on your personal website if you want to.
+
+And don't forget about the secret cheat code :iconpinkieisexcitedplz:

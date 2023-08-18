@@ -1,0 +1,1 @@
+Create explosions and get scored on there size. Beat the quota given to advance to the next level.

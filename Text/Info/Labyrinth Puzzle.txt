@@ -1,0 +1,1 @@
+Use arrow keys to move to the finish (checkered square).

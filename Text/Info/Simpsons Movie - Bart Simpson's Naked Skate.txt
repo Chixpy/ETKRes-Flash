@@ -1,0 +1,1 @@
+The game softlocks when attempting to save your high score.

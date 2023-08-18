@@ -1,0 +1,3 @@
+Bounce around on the laser-poline to grab all of the Protons, while avoiding the deadly Ions. They'll give you -1 life! (Get it?)
+
+Ionized is a game in which your sole purpose is to collect the blue protons using a state of the art laser-poline as means of reach to get them, but watch out for the Ions on your way...

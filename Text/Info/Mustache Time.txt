@@ -1,0 +1,1 @@
+Save mustache balls from falling outside the screen by drawing platforms. But it's not that simple. You're allowed to draw only inside specific zones, but your actions are copied outside. Keep calm and play Mustache Time!

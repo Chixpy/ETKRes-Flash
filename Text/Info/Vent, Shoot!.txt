@@ -1,0 +1,1 @@
+| Yay! :) I finally had time this weekend to do another megaman stuff. This time it's an animation loop. This was inspired by Thatld's animation "Discharge". Thanks to cyanblue for the mute/unmute button. I think I'll be doing more animations like this in the future.

@@ -1,0 +1,1 @@
+removed call to scores.swf, replaced mp3 menu music with a nice free music (original is lost), undefined texts can be recreated in txt file (now empty)

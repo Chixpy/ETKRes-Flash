@@ -1,0 +1,1 @@
+Move the killer Arrow inside the maze without touching the Enemy.  Collect the Boxes as many as to gain more points. If you hit the Enemy's, a life will get reduce.

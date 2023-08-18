@@ -1,0 +1,1 @@
+Will try to open browser windows from time to time, in all three versions.

@@ -1,0 +1,1 @@
+Drive your car on the track and avoid crashing the other cars. If you crash a car then the life of your car will keep reducing. Drive your car as fast as possible and avoid hitting the other cars. A life indicator will indicate the life of your car and the game will come to an end if its decreases fully. The speedo meter will indicate the speed of your car.

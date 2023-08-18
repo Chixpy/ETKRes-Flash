@@ -1,0 +1,1 @@
+Form a given shape using the given pieces without overlaps. Each piece should be placed in appropriate position as otherwise level will not get completed. To score more, form a shape in a short duration.

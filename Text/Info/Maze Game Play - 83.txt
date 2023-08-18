@@ -1,0 +1,1 @@
+Move the pointer inside the maze without touching the obstacles.  Collect the object to again more points. Good Luck!

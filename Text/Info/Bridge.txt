@@ -1,0 +1,4 @@
+An experiment in interactive storytelling. Made on day one of TIGJam UK 2, in Cambridge.
+
+Instructions
+Press left or right in game to queue up the next song segment.

@@ -1,0 +1,1 @@
+Will open a browser window to a dead website when it starts.

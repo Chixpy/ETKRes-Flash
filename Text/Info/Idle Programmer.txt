@@ -1,0 +1,11 @@
+Start your programming career as you work your way from batch to C++, from unemployed to a software developer and further in this fun idle game!
+
+-Instructions
+Press any key to fill up the bar, spend cash rewards from completing a bar to increase profit, learn new languages, hire new employees and get new occupations!
+
+Hold down the following buttons when buying an employee to buy in bulk
+Ctrl – 25
+Shift – 100
+Ctrl + Shift – 1000
+
+While in any of the tabs holding the alt key will show you your cash and employees.

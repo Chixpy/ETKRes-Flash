@@ -1,0 +1,8 @@
+The game has 5 levels/stages.
+For some reason, the game text and menus are stated as "undefined".
+Start screen top selection --> Game instructions
+Start screen bottom selection --> Start game
+Instructions: Use the mouse to move Robot Boy, click to attack, and spacebar to fly off the ground and dodge enemy attacks.
+Destroyed enemies drop green balls (points) and batteries.
+Collect batteries to fill the meter on the left, powering up Robot Boy and allowing him to shoot lasers and later homing rockets.
+You have 3 lives for each stage, watch the health bar on the right; although it will slowly regenerate, depleting it completely will cost you 1 life.

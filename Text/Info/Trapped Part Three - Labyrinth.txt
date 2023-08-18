@@ -1,0 +1,1 @@
+The original game has bugs and can't be played at all after the intro. They've been fixed in this version.

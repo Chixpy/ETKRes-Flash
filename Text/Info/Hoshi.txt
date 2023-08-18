@@ -1,0 +1,5 @@
+Play the addictive Hoshi game!
+How to play:
+Try to collect as many of the same blocks each time (minimal two).
+Each block is worth bonus points.
+Example 2 blocks: 2 x 2 = 4 points, 5 blocks: 5 x 5 = 25 points, 10 blocks: 10 x 10 = 100 points!

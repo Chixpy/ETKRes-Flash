@@ -1,0 +1,1 @@
+Assist Bingo to collect the treasures without colliding with any of the obstacles. Collect the key to unlock the door in each level. Maintain the health level and surmount the obstacles cleverly to collect all the treasure objects.

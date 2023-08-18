@@ -1,0 +1,1 @@
+Guide the Swimmer to reach home, without touching any enemies. Collect the Swim tube as many as to gain more points. If you hit any enemies a life will reduced.

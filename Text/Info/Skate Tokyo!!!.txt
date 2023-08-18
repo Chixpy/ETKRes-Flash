@@ -1,0 +1,1 @@
+Hacked to stop multiple web browser windows from launching while playing.

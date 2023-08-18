@@ -1,0 +1,2 @@
+Saving your own level and loading other levels does not work and will softlock the game.
+Play through 30 levels as you morph into various objects to reach your target, then create your own levels with the built in level editor!

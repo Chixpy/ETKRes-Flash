@@ -1,0 +1,2 @@
+High-score isn't working.
+Et fedt spil meget inspireret af det gamle 'Space Taxi' til Commodore 64. Sjovt gameplay og masser af high score lister du kan forsøge at bestige.

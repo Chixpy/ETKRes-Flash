@@ -1,0 +1,1 @@
+Earn points for shooting your opponents. Do not let them shoot you. If it happens, you lose a life. Finish the given target and move to next levels.

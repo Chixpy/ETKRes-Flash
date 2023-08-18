@@ -1,0 +1,1 @@
+Assemble all the pieces of the pipeline in such a way that it connects the water tank with the plant.Once you have assembled correctly, the water from the tank will reach the plant saving its life.Complete the task within the time limit to go through all the 5 levels.After arranging the pipes, click GO button.

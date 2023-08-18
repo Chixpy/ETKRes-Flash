@@ -1,0 +1,1 @@
+Click the pipe and press W or A to change its rotation! Connect all pipes together! Use the menu on the bottom to rotate/zoom the pipes.

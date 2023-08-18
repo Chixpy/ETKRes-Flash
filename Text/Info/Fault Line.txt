@@ -1,0 +1,1 @@
+This runs in an older version of the Flash Player projector, because anything past version 28 creates a bug where the game will freeze when the mouse moves.

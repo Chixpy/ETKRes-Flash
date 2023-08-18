@@ -1,0 +1,17 @@
+Control a flying crocodile and avoid trees and bombs while eating all the tasty fruit! How far can you get?
+
+Click the "How to play" button in the main menu to view power up descriptions and collision boxes of various hazards. You get 1 point every second spend flying and 2 points for eating fruits.
+
+CONTROLS:
+Press Enter to start the game in main menu, or retry in score screen.
+Press Esc to pause the game
+Use Arrow Keys or WASD to control Rockocroco
+Press M to mute/unmute game
+
+POWERUPS:
+-Star gives you 10 second invincibility, during it you can also eat bombs and fireworks for extra points!
+-Clock slows the speed of all hazards for 10 seconds.
+-2X Block gives you double points for 10 seconds!
+-Thunder destroys every explosive on the screen
+-Shield gives you one time guard against dying. Stacks with other shields if you manage to get multiple.
+-Chili is a negative powerup you should avoid, it sets your mouth on fire for 10 seconds and during that time you gain no points from eating fruits.

@@ -1,0 +1,1 @@
+Manipulate gravity to solve platforming puzzles. The less gravity shifts you use the more stars you will earn per level.

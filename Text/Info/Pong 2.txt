@@ -1,0 +1,2 @@
+Use the mouse to move the paddle.
+Keep the ball in play for as long as possible.

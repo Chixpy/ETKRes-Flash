@@ -1,0 +1,1 @@
+1. Burst the balloon based on the color mentioned in the top of the screen. (Or) Burst the balloon based on the background color. 2. Use mouse to burst the balloons. 3. Avoid Black Colored balloon, otherwise it will end up your game.  (Or) If you burst black colored balloon, your game will be ended.

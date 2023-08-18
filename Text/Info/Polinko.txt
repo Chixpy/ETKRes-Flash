@@ -1,0 +1,3 @@
+A pinball-like puzzle game where the goal is to clear all red pegs by hitting them with a ball.
+
+Use mouse to aim. Left click to shoot

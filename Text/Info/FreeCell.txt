@@ -1,0 +1,1 @@
+Najlepší kartový pasians všetkých čias. Napriek tomu, že ho obsahujú aj systémy Windows, urobil som svoju verziu. Obsahuje 32000 úloh číslovaných v zhode s predchodcami, možnosť vracania ťahov a iné užitočné pomôcky.

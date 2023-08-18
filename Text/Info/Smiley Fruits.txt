@@ -1,0 +1,1 @@
+Your goal is to fill the juice jar by blowing up 3 or more of the same fruits which keeps  coming down.The more fruits you blow up at one shot , the more points you gain. The Fruits will get down at regular time intervals. Before it can reach the deadline, fill the juice jar to get on to the succeeding levels.

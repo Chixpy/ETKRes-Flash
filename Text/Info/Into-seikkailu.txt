@@ -1,0 +1,2 @@
+Arrow keys to move, Ctrl to shoot, space bar to interact.
+ Mouse required.

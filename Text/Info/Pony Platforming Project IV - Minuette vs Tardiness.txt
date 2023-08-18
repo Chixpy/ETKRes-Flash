@@ -1,0 +1,5 @@
+Game controls:
+Move: Arrow Keys or WASD / Jump: Z, C, J or L / Magic: X or K
+
+Editor controls:
+Mouse or buttons to choose and place items, arrow keys to move around the stage.

@@ -1,0 +1,1 @@
+Identify the differences in two different views of the same objects & click it to confirm. You get 50 points for every correct click and you lose 10 points for every wrong click. You have to complete the level within the time duration.

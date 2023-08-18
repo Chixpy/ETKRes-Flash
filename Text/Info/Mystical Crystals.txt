@@ -1,0 +1,1 @@
+Drag and draw a box around the balls to make it hit the square boxes to earn score. White and yellow balls should hit the same colored squares and red ball can be used to hit both. Play all the levels and win the game.

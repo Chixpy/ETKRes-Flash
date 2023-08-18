@@ -1,0 +1,1 @@
+Hi! This is new type of word search. Find out the animals name.Click on the starting letter of the word and drag the cursor over the name and release it on name last letter Correct answer will be locked in the list.

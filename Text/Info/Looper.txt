@@ -1,0 +1,4 @@
+Robot has a job. Run a lap around this arena. Problem, though. It is dangerous. And every time Robot finishes a lap, there is more danger! Acid baths. Deadly spikes. Raging saw blades. What kind of awful person designed this course? What fearless robot can actually finish this game?
+
+INSTRUCTIONS
+L/R arrows to move; X to jump

@@ -1,0 +1,1 @@
+Hacked to disable automatically pausing when the window loses focus. It caused an annoying sound glitch.

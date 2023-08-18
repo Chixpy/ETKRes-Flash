@@ -1,0 +1,2 @@
+Feed the pig by picking up the food on the rail. 
+The pig will size up or slim down depending on the food you fed.

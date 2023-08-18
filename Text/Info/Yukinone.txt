@@ -1,0 +1,1 @@
+After "Click to Start", swap to keyboard controls (Arrow keys and Z).

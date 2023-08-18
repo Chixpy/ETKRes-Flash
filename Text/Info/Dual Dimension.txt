@@ -1,0 +1,1 @@
+Test your ability to pilot a ship in dual dimensions over split views! This shooter simultaneously displays the game in both the vertical and horizontal scrolling views. Can you maintain control while splitting focus or are you able to mentally merge them while shooting enemy ships and dodging their bullets?

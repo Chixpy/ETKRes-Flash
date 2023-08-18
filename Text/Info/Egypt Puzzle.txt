@@ -1,0 +1,1 @@
+Click on the groups of blocks of the same color to make them disappear. The more blocks that get cleared, the more points you get. Click groups comprising a minimum of 2 blocks of the same color, as otherwise you will lose a life. Try to Clear all blocks before time runs out.

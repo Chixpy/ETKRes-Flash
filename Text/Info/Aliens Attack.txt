@@ -1,0 +1,1 @@
+Click on the aliens to make them shoot out their enemies. If the aliens shoot other aliens, that aliens will shoot out and then turn around. If a aliens gets shot in face it will just turn around. Try to shoot the enemies as fast as possible to complete each level.

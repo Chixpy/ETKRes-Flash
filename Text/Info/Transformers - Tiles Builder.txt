@@ -1,0 +1,1 @@
+Goal of this Game is to build the image of Transformers, on the bar given, with the reference provided at the back. Do not let any of the image piece to slip down, for you cannot complete the game. There is no time bar to complete this game, but the time bonus will be added if you complete quickly.

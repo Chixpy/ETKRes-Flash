@@ -1,0 +1,2 @@
+To start the game, put your image at this path (www.games2rule.com/images/fileRef/flash_uploads/), and select the same one when browsing.
+Have you ever played Jigsaw puzzle with our own image!! Try yourself now. Import your own image and assemble the pieces of image correctly to solve the virtual jigsaw puzzle. Select difficulty range by choosing number of rows & columns and start solving the puzzle. Based on difficulty range and time duration you take to solve the puzzle, score will be calculated. Use hint button to view the full image.

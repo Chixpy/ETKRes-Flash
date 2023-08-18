@@ -1,0 +1,1 @@
+Keep the Flash Player window at its default size, as the game will not recognize collisions with enemies or items if the window is resized, rendering gameplay trivial.

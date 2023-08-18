@@ -1,0 +1,7 @@
+Controls:
+- Move - A/D or Left/Right Arrow Keys
+- Jump - W or Up Arrow Key
+- Pick Up/Pull - S or Down Arrow Key
+- Aim/Look - Mouse
+- Throw Onion/Item - Left Mouse Button
+- Switch Onions - Middle Mouse Button

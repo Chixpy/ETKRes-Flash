@@ -1,0 +1,1 @@
+You goal is to rotate each pieces so that click hexogen share a common color but make sure each hexagon is on golden tile. Finish each level and win the game. Click on a hexagon to rotate it. Match the adjacent hexogen with same color to solve each puzzle. You can slide hexagons into adjacent spaces. Gold tiles need to be covered to compete each level.

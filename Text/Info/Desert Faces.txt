@@ -1,0 +1,1 @@
+Your goal is to delete the number of colored faces that is listed on the right. To delete faces, get them in groups of three or more. Click on faces that are next to each other to switch them and form matching groups.

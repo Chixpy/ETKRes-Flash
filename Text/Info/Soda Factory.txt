@@ -1,0 +1,1 @@
+Control the entire soda factory by operating each every machine to prepare soda. Identify the requirement and operate machine to prepare soda. Each and every soda preparation has time limitation. Try to utilize the time and prepare soda.  Attain each level target to play next level.

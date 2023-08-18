@@ -1,0 +1,1 @@
+A puzzle platformer in which you control both characters at the same time. The goal of each level is to bring them to the door of their own colour.

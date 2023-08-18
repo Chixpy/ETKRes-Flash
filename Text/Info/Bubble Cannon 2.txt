@@ -1,0 +1,1 @@
+Collide bubble of the same color to pop them. The number on each bubble indicates how many more collisions it will take to pop. Every time you pop a bubble another is added to the queue. Don't run out of bubbles or you lose! A very Fun game once you get the hang of it.

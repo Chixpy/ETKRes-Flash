@@ -1,0 +1,1 @@
+Search and find the listed word from the jumbled alphabets. Listed words are in horizontal, vertical or diagonal direction in the grid. Sooner you complete every level more score you will get.

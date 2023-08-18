@@ -1,0 +1,25 @@
+This is our sample curation in Flashpoint Core.
+
+Multiple lines in notes and descriptions are cool.
+Alien Hominid HD is now available on Xbox 360 Live Arcade! Go try it and buy it!
+
+Your UFO has crash landed, and the FBI is out to get you! Time to take them out!
+
+Programming by Tom Fulp of Newgrounds.com!
+Art by Dan Paladin!
+
+Controls:
+Use the arrows to run around and aim your gun. The 'a' key shoots and the 's' key jumps. When jumping over an enemy, press DOWN and 's' to do a freak attack!
+
+****HINTS****
+* You can ride enemy heads past roadblocks. they can run right through while they are freaking out!
+
+* Eat enemy skulls in front of other enemies while on their shoulders -- their friend's reaction will give you a free cheapshot!
+
+* If all else fails, you can try crawling your way to the end like the scum you are! haha
+
+8/20/02 UPDATE:
+Fixed grenade / Freak Attack Glitch
+Fixed CAPS LOCK issues
+Removed first grenade guy (now just 1)
+Added first level intro cinema!

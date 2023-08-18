@@ -1,0 +1,11 @@
+Underground invasion is an action defense game where you can play defending Warcoder City sewers to prevent the invasion of strange creatures.
+
+Upgrade your weapons and defenses to fight off the legion of evil creatures that attempt to destroy the protective bars that separate the city, from the sewers.
+
+- 25 levels.
+- 5 screens.
+- 10 different creatures.
+- Final Boss.
+- 4 Weapons.
+- 9 secondary weapons.
+- 7 upgrades.

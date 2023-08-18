@@ -1,0 +1,1 @@
+Game seems to hang after finishing a level even in shockwave.com. A hacky way to proceed is resizing the flash window which resets the game while saving the progress.

@@ -1,0 +1,1 @@
+MagnetiZR is a game where you distort magnetic physics and control the fields action. It's up to you to create magnetic distortions with the various magnets at your disposal, and ultimately connect the ink with the "Win" magnet(s).

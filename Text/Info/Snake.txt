@@ -1,0 +1,1 @@
+A blank browser window will pop up when you click "New Game".

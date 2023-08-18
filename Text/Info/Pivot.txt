@@ -1,0 +1,1 @@
+An exploration puzzle platformer. Find and collect the chest of gold from all 49 rooms to win the game. You must rotate the world to match the orientation of a chest before being able to collect it.

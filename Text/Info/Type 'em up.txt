@@ -1,0 +1,7 @@
+Type 'em up: A typing game and shoot em up combination!
+
+Play through four stages of enemies in stage mode, practice your typing skills in practice mode, or go for the gold and play hi score mode, then submit your score online!
+
+Controls: Type to kill enemies, tap spacebar to move your ship
+
+Please note: The high score table has been removed

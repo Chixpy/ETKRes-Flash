@@ -1,0 +1,1 @@
+A simple Mahjong game. Match the tiles with similar images and remove them from the board. Have fun

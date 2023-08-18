@@ -1,0 +1,1 @@
+In the hacked version, your final score is shown on the Game Over screen, and all seizure-inducing effects are removed.

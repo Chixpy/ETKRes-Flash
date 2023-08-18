@@ -1,0 +1,2 @@
+A Flash game about 12 apostles, featuring 2 games, one is 12 apostles Quiz, other is a memory game matching 12 apostles panels.
+Users can learn about Jesus disciples with fun!

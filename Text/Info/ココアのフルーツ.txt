@@ -1,0 +1,3 @@
+Game Instructions:
+Guess the fruits hidden inside the box in a certain amount of attempts, Gold medal indicates the amount of fruits which is both in the boxes and in the correct order, a silver medal indicates the amount of fruits which is in the boxes but in the wrong order.
+箱の中に入っているフルーツは何かな？ フルーツほどには甘くない、手強い推理ゲーム！

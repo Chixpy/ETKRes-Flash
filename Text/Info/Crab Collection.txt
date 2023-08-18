@@ -1,0 +1,1 @@
+Use the crab to grab the food item which is at a greater depth. The Deeper you go, the higher is the priced food item that it grabs. Utilize the given chances to score more.

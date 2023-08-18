@@ -1,0 +1,11 @@
+- How to play -
+From here on, use the keyboard to operate.
+Please enter the key input directly (English letters).
+
+Move: Arrow key
+Inspect: Space key
+(Items are used automatically)
+
+Inventory: X key (View only)
+
+<Press Space Key to start>

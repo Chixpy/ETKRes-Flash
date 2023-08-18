@@ -1,0 +1,1 @@
+Regulate the climatic conditions of the towns by placing the needed cloud on the towns appropriately. To place the cloud on a town, take the cloud from the grid and place it on the appropriate town. Placing the Plain cloud on the town will freeze the other climatic conditions of the town for five seconds.If any of the climatic condition bars gets emptied, you will lose the game.

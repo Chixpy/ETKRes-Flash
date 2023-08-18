@@ -1,0 +1,1 @@
+Pressing Z on the internet ranking will attempt to load a replay which will freeze the game.

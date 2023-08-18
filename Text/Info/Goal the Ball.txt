@@ -1,0 +1,1 @@
+Guide the Golf ball to the Flag Pole with the help of the arrow keys.  Do not let the ball to fall off the edges or to get caught by the traps in the path pitch.

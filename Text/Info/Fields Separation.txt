@@ -1,0 +1,2 @@
+Point and click your mouse to put up fences that separate the land into rectangular fields. Each rectangular field must contain exactly one house and the area of the field must match the number on the house.
+TIP: I've noticed that the game is very sensitive and, if you don't click right where the fence needs to be, it might put up extra fences that you'll need to take back down.

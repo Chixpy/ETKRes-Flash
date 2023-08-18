@@ -1,0 +1,1 @@
+The game is playable up to level 9; there's meant to be a 10th level but the file required to play it is currently missing. The ending and end music are also lost.

@@ -1,0 +1,1 @@
+You control a ball, bounce to collect gems and change gravity to bounce in all 4 directions. It may sound easy but things get hard for sure when gravity is going left and you're bouncing to the right trying to navigate a level.

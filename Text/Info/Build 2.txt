@@ -1,0 +1,1 @@
+Goal of BUILD 2 game is to assemble all the scattered pieces, inside the outline, which is given in the scene. Assemble all the pieces accurately inside the outline quickly as possible to gain points. You can use your mouse to move the pieces. Go through all the 20 levels and have fun..!

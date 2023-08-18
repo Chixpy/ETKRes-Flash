@@ -1,0 +1,1 @@
+Adjust the blue bars in such a way that it doesn't collide with the musical notes which keep coming out. In case of collision, you will lose life. Score more to proceed to the next level.

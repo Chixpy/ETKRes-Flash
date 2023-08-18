@@ -1,0 +1,4 @@
+Stick figures in daring action! Defeat piles of odd monsters and save the nice lady friend!
+
+INSTRUCTIONS
+arrows to move; spacebar to shoot; a = reload; s = dagger; d = bomb

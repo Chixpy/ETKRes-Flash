@@ -1,0 +1,1 @@
+An unusual puzzle game based on Conway's famous "game of life". Be amazed by the fascinating grid patterns that evolve from 4 simple cell rules. Puzzle your way through 42 levels, use the Sandbox to load level solutions or share your own cool patterns.

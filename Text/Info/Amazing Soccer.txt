@@ -1,0 +1,1 @@
+Move the foot ball inside the maze without touching the Enemy. Collect the players as many as to gain more points. If you hit the enemy, a life will get reduce.

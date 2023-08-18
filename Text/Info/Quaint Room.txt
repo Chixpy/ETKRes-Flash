@@ -1,0 +1,2 @@
+Only a mouse is required to play. Just click objects on the screen to search them, or click orange triangles to change your direction.
+Click 'about item' button, and you can examine the items you've got more closely. You can choose one item from the list to take effect over objects on main screen or other items.

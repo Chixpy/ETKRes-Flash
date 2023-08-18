@@ -1,0 +1,7 @@
+Game Instructions:
+Collect all the scrolls with your car before time runs out.
+Hold the mouse key to switch directions, also watch out for the searchlights.
+
+The four buttons on the title screen are: Easy Mode, Hard Mode, Challenge Mode(has an online leaderboard) and link to the leaderboards on their site.
+かわいい忍者のぐるぐるアクション！ とても運転しづらい「ぐるぐる丸」に乗って、巻物を集める無茶任務でござる！
+「チャレンジ」でランキング開催中！

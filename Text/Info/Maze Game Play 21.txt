@@ -1,0 +1,1 @@
+Guide the little fish to reach it's mother. Move the little fish in the maze to find out the path. GoodLuck!

@@ -1,0 +1,1 @@
+Put the eggs into the basket. press left mouse button to jump the egg. Reach the bunny within the given eggs else you lose the game. Happy Easter!

@@ -1,0 +1,1 @@
+Opens browser window when Play is pressed.

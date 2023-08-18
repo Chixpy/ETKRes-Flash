@@ -1,0 +1,1 @@
+Hacked to use the debug data. Some text is humorously modified (most text has unnecessary umlauts and the instructions become less helpful)

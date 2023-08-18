@@ -1,0 +1,2 @@
+en.xml is missing, but the game works fine without it.
+Connect the jungle dots for a fun coloring surprise.

@@ -1,0 +1,1 @@
+Wow Color Blast is a wonderful arcade game of matching the cube around the blocks. The objective of the game is to blast all the cubes in the block. Using mouse you can choose any color cube and you can move that cube through the next empty blocks in any direction. If your cube touches the same color of cubes it will blast. Let us check fast you can react. Good Luck!

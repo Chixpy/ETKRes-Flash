@@ -1,0 +1,1 @@
+Stack the primates until they reach the bananas. (You have to use all primates on each level in your solution.)

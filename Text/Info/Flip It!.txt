@@ -1,0 +1,1 @@
+The goal is to flip all the black pieces to the white side. Click on a piece to flip it, but when you flip a piece, the adjacent pieces will also be flipped.

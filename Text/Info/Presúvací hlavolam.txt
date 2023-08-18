@@ -1,0 +1,1 @@
+Pentamino je geometrický útvar zložený zo štvorčekov. Keď ich je veľa v ohradenej ploche vznikajú problémy pri ich presúvaní. Program generuje veľkú množstvo variácií na túto tému. Spoločná je úloha presunúť červený kríž do dolnej časti plänu. Program je pomerne originálne spracovaný aj keď základné problémy sú prevzaté od etablovaných hlavolamistov.

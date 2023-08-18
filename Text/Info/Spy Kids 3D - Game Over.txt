@@ -1,0 +1,1 @@
+Play as guest or register a new player. Original server php scripts are included to recreate server. Opens blank browser windows on certain actions.

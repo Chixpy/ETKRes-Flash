@@ -1,0 +1,5 @@
+Game Instructions:
+Click on the bugs to help Fribbit eat the numbers that solve the equations...  and watch out for the mean crocodile!
+
+TIP:
+If you really want to beat the "pro" level, I suggest that you play in a team of two -- one to just eat bugs and watch out for that mean croc and one to do the math and tell the other one what number to eat!

@@ -1,0 +1,1 @@
+Drive your quad to reach the target distance. Avoid colliding with other quads. Keep an eye on your quad's health.

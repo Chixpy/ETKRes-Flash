@@ -1,0 +1,3 @@
+Controls: Z or C to Jump, X to Attack. Arrow Keys to move.
+Double-tap left or right plus X to throw the brush.
+HOLD Jump and Attack together until Colgate flashes to Clock Up.

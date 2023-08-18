@@ -1,0 +1,1 @@
+Move the Rat to reach Home. Inside the maze without touching the Enemys. Collect the Sweet as many as to gain more points. If you hit the Enemys, a life will get reduce.Good Luck!

@@ -1,0 +1,1 @@
+Upon starting the game, you will be greeted with a screen depicting a white square over a black background. This doesn't mean the game is broken, this screen is just where a video ad would typically be loaded in.

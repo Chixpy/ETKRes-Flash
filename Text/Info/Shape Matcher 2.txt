@@ -1,0 +1,2 @@
+Description: Swap the shapes to match 3 and clear all black squares to complete the level! There are 5 types of bombs that you can unlock by matching 5 or more shapes. You will need them to help you through difficult parts of the game. With 25 levels, this game has plenty of challenges for you!
+Instructions: Use the mouse to swap the shapes.

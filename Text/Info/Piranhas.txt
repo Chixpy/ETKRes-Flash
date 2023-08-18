@@ -1,0 +1,5 @@
+There are three cheat codes you can enter on the password screen:
+
+"maisto" - unlock all levels
+"laura" - start with 7 lives
+"breathe" - should stop air drain, but doesn't seem to work?

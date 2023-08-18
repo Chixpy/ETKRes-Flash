@@ -1,0 +1,7 @@
+Will open in fullscreen; Press Escape to exit fullscreen.
+
+Missing Assets:
+  http://nothingandnowhere.thebirthdaymassacre.ru/images/preloader.swf
+  http://nothingandnowhere.thebirthdaymassacre.ru/images/photos.swf
+  http://nothingandnowhere.thebirthdaymassacre.ru/images/videos.swf
+  http://nothingandnowhere.thebirthdaymassacre.ru/images/members.swf

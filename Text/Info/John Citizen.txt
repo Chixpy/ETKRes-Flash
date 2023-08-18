@@ -1,0 +1,8 @@
+A physics based platform shooter inspired by Valve's half-life series.
+
+Instructions
+WASD : Move
+Mouse : Shoot And Interact
+Keys : 1-6 changes weapons
+(or the scroll of the mouse.)
+G: Throw Grenade

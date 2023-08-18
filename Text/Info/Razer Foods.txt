@@ -1,0 +1,1 @@
+Fix the ingredients appropriately on each of the rows of the moving machine, to make tasty burgers. Use the mouse to take and fix the ingredients on the moving tray. Try to fix the ingredients before time runs out. If you have taken the wrong ingredient, throw it into the trash bin.

@@ -1,0 +1,1 @@
+Use arrows to move, S to jump/start, and A to run/shoot fireballs

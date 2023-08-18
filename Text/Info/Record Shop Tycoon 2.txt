@@ -1,0 +1,4 @@
+Have some cheats:
+
+isucksomuchineedcheats: Adds $5000 to current money total
+karmapolice: Sets karma to zero

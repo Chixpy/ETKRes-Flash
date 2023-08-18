@@ -1,0 +1,1 @@
+Click the Level Orbs to start a level. Tutorial is level 1-3. You can click to go faster if it’s too slow.  Arrow Keys or WASD to move your orb around.  P or Space to Pause and Adjust Options.  Click to access the menus on the side of the Level Select Screen. You can Press P or click the X to exit them.

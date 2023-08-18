@@ -1,0 +1,3 @@
+City Guardian is an action-skill game that will test your reaction speed and skill as you try to change color of your character to match the color of your enemies.
+Change your colors and hover over them to kill them. Be careful, every enemy that gets past you will make your health bar drop. When your health reaches 0 the level is over.
+Use upgrades and power-ups to make your monster faster and stronger in order to take out enemies faster.

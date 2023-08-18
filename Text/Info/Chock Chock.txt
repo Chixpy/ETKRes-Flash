@@ -1,0 +1,1 @@
+The classic computer game in which you have to form whole lines of bricks by moving groups of bricks left or right, or by rotating them. You can control the groups of bricks by means of the keyboard arrows; the upper arrow will rotate the group of bricks.

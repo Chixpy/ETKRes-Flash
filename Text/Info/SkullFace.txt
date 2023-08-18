@@ -1,0 +1,1 @@
+This game currently pops up an Armor Games API message every time you start or restart a level, and in a few other places, making it almost unplayable.

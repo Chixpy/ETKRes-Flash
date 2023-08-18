@@ -1,0 +1,1 @@
+Select the spheres by clicking and dragging your mouse. Make an atom to appear by turning all of the sphere area into pink.Longer the link, higher will be your score. Make the atom to reach the end, in the sphere�s path. Longer links can be formed with the help of special spheres.

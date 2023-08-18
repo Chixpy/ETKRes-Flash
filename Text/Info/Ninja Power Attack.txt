@@ -1,0 +1,1 @@
+Help ninja to throw shuriken at the groups of 2 or more same colored blocks and earn points. Strike out all the blocks before hitting ninja or else you'll lose the game. Don't throw shuriken at the single block else you'll be reduced by 25 points. Finish the given target to move to the next levels. Complete all levels to win the game.

@@ -1,0 +1,1 @@
+Balance the boozer and help him to chug the beer. Chug the beer when it coincides with boozer. To Chug the beer, press space bar. Use arrow keys to balance the boozer. If boozer falls down, your game will be concluded.

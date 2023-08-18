@@ -1,0 +1,1 @@
+You have entered into Shooter Job Training field -2. Your task in this field is to shoot man target board in a pillar room. Man target board appears and disappears in between the pillars. In the mean time, shoot the middle spot of the man target board to get 500 points and get 100 points by shooting on rest of the portion.

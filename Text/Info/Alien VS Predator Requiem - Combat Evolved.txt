@@ -1,0 +1,1 @@
+Hacked reporting calls out to fix game crashing after a minute of gameplay

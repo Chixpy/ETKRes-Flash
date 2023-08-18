@@ -1,0 +1,1 @@
+Help the little camel to reach its mother camel.Move the pointer in the maze to find out the path. Good Luck!

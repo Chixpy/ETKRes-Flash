@@ -1,0 +1,8 @@
+Help A Someone Or Something find their place in the world by jumping, platforming, and shooting things with a Gun Of Big Science that makes blocks switch locations with you. Not all blocks, because science is tricky like that, but definitely a whole bunch of blocks.
+
+Originally intended as an entry for miniLD, I couldn't find the time to finish it before the deadline, but I liked the displacing blocks mechanic so I cleaned it up a bit (there are still some bugs and nasty things to be found but I kinda enjoy it when you die and the gun ends up in weird places before the level reloads).
+
+It's super short, no worries.
+
+Arrow keys to move and jump
+X to shoot

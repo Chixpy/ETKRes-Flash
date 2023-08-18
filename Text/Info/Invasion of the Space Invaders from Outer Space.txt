@@ -1,0 +1,1 @@
+Use arrow keys to move and mouse to pick stuff up.

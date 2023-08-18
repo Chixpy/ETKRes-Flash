@@ -1,0 +1,1 @@
+Find 3 or more fruits which are similar and click them. Finish the target within the given time duration else you lose the game. Complete all levels to win the game.

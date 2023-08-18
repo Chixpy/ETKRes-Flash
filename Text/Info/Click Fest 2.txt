@@ -1,0 +1,1 @@
+A crazy game where you try to click all of the buttons on the screen as fast as you can. Complete with nice music and a high score table.

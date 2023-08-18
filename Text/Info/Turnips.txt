@@ -1,0 +1,1 @@
+Match TURNIPS based on the number of leaves or the color of the turnip. If you match both color (or wild) and leaves, then your score multiplier increases.

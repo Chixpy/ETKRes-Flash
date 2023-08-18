@@ -1,0 +1,1 @@
+Hacked to use the debug mode; this skips King's API and uses XML data from the SWF.

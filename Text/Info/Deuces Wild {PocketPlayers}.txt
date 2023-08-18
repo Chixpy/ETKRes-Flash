@@ -1,0 +1,1 @@
+Play 5 card draw. See how many points you can get with 25 hands.

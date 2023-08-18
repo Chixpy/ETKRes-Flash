@@ -1,0 +1,2 @@
+遊戲的碰觸判定似乎顯示來得大一些
+The hitboxes seems to be larger than it looks.

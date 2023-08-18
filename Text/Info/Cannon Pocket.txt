@@ -1,0 +1,1 @@
+Pocket Cannon is the physics based mouse skill game. Simply move mouse to adjust the angle and power of your cannon, and then click to fire the ball. Shoot the balls into each bucket to complete the level.

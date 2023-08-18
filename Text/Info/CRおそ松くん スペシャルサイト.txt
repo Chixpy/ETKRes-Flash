@@ -1,0 +1,1 @@
+Contains a horizontal shoot-em-up, a scratch-off game and an item-under-cup game. It's supposed to link to the title after the name entry, but the bottom right text on the black bar will work. The secret stage of the shoot-em-up can be accessed by clicking the guy on the right side 10 times on that game's main menu.

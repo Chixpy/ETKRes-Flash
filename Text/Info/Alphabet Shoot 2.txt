@@ -1,0 +1,1 @@
+Second version of our popular physics-based puzzle game. Use the A, S, D, and F keys on your keyboard shoot the alphabet letters to the corresponding letters. Aim wisely using your moues. You only have a few shots for each level. Click hint if you get stuck and you can always reset each level.

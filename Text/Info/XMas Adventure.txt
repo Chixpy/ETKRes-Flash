@@ -1,0 +1,1 @@
+Move the gift package inside the Maze without touching the Enemy's. Collect the bells as many as, to gain more points. If you hit the Enemy's, a life will get reduce.

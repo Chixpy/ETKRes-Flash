@@ -1,0 +1,1 @@
+.Shoot the individuals when they come into view. .Use mouse to shoot the individuals. .Shoot the birds to increase the bullet counts. .Avoid the black colored bird; otherwise, your score will get reduced.

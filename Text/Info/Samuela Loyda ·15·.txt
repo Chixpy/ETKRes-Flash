@@ -1,0 +1,1 @@
+Moje spracovanie klasickej úlohy geniálneho amerického hlavolamistu Samuela Loyda. V krabicke 4x4 je 15 očíslovaných kocočiek v poprehadzovanom poradí. Presúvaním ich treba usporiadať. Moje spracovanie okrem príjemnej grafiky umožňuje nastavovať veľkosti plánu a ihneď vidieť, či je náhodne generovaná úloha riešiteľná.

@@ -1,0 +1,1 @@
+This is a top-down 7 on 7 football game. Pick from 10 unique plays and click to throw the ball in the exact spot you want it. The offensive and defensive AI is very intuitive and they will throw the ball to the open receiver. You can also punt and kick field goals!

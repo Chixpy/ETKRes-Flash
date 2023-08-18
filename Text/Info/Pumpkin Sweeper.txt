@@ -1,0 +1,2 @@
+Based on the classic game mine sweeper this is the Halloween version Pumpkin Sweeper!
+So, no mines but rotten pumpkins instead!

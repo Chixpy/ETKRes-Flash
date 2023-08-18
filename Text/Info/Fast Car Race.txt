@@ -1,0 +1,1 @@
+Reach the given target distance without colliding with any cars. You can see the distance meter below.

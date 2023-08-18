@@ -1,0 +1,1 @@
+Help the smiley to collect the hearts to earn score. The score gets high by collecting the balloons. Do not let the smiley fall down, as you may lose a life. Complete the game within the given time duration and win the game.

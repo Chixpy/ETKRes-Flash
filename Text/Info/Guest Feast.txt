@@ -1,0 +1,1 @@
+1.Invite and serve food item to guests.2.Click on the character to make them work.3.Click on the plate to know the guest's desired food.4.Select the guest desired food item from the popup menu.5.If you serve food wrongly,one life will be reduced.

@@ -1,0 +1,1 @@
+Make solid rows of pieces all the way across the game board.

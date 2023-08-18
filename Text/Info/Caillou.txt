@@ -1,0 +1,1 @@
+This game contains many games in one. Everything works except the flour bag game in the kitchen. Clicking on that softlocks the game even though it sucessfully loads all the assets it requires. I'm not sure why. Besides this, everything else is in working order and fully complete. -G_w

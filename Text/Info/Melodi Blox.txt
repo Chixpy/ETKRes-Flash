@@ -1,0 +1,1 @@
+Select a note and then place it next to it's corresponding title.

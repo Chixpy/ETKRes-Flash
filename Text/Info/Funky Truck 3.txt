@@ -1,0 +1,1 @@
+In-game restart buttons don't work. Close and relaunch the game instead.

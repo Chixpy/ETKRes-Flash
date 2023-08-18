@@ -1,0 +1,3 @@
+Fun skill-puzzle game with nice retro-stylized graphics. Complete all 18 levels as quickly as you can and getting on top of the leaderboard!
+
+Use your mouse to move. Don't touch grey walls. Collect all green orbs on the level and move to the green flag.

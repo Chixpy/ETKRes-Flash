@@ -1,0 +1,1 @@
+|Move your moodi around the maze using the arrow keys. Try and collect all the dots and avoid the ghosts

@@ -1,0 +1,2 @@
+Game opens in fullscreen.
+A memory game - but you have to match 3 symbols not just a pair.

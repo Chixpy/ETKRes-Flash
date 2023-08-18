@@ -1,0 +1,1 @@
+Earn points for shooting your opponents. Do not let them shoot you. if it happens, you will lose a life. You will get bonus points for shooting helicopters and tanks. Finish the given target and move to next levels.

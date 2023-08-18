@@ -1,0 +1,1 @@
+Game of Life - molekulárny automat Johna Conwaya - je fenomenálna záležitosť, o ktorej bolo veľa popísaného a preskúmaného. Môj program nesiaha ani po koleno tým najlepším, napriek tomu môže priviesť k úžasu racionále pripraveného inteligenta.

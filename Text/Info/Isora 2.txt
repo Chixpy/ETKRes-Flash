@@ -1,0 +1,1 @@
+A challenging isometric puzzle game based on the gameboy classic "Pyramids of Ra". Step on each tile once and come back to the starting tile. As the game progresses, you'll encounter different tiles such as double tiles, warps and pushable blocks. Don't forget to submit your highscore. Enjoy!

@@ -1,0 +1,2 @@
+Fill in the blanks with logic and reasoning � no math required!
+Fill in the blanks so that every number from 1-9 appears in each of the nine columns, in each of the nine horizontal rows and in each of the nine 3x3 boxes that make up the grid. Numbers can only be used once in each row, column or box.

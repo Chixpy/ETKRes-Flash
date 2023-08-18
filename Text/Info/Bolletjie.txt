@@ -1,0 +1,1 @@
+Clear the screen of all colored balls in a limited number of moves. Only balls of the same color can be chosen together.

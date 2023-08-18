@@ -1,0 +1,1 @@
+Sometimes the game has issues switching between the .swfs during gameplay. Not sure why that is, it has no issue loading them. Clicking on the tabs near the top of the game to reload different sections of the game has no issues, so gameplay is not affected.

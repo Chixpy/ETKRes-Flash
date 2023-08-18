@@ -1,0 +1,1 @@
+Game attempts to redirect you to a domain that used to host the game but doesn't anymore.

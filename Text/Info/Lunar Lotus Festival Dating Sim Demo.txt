@@ -1,0 +1,86 @@
+After months of tinkering with this game I finally got a demo out. There's not much to really do yet. Most of the NPC characters and dialog is complete but the datable characters are taking a while to do.
+
+Let me know if anything is really buggy. I want to know what changes I can make to the demo before the real thing is released. Feedback regarding game play is welcome! Is the game too hard or easy? It's intended audience is anyone 12 and up so i didn't want it to be to challenging.
+
+I want to be done sometime next year but nothing is set in stone. I work on the game when I have free time and will let you guys know when it's done
+
+What You can/can't do:
+
+Mouse-
+Give gifts and talk (dialog tree 100%).
+Date 1- Done
+Extended Date1 - Done
+Date 2- Done
+Extended Date2 - Done
+Fiend Hunts- Done
+Room- Done
+Mini Date-Done
+Hanging Out-Done
+Festival- All endings complete
+
+Okami-
+Unlock his character and view his intro
+Give gifts and talk(dialog tree 100%)
+Date 1- Complete
+Extended Date1 - Done
+Date 2- 60% done.
+Extended Date2 - 30% done.
+Fiend Hunts- Not Started
+Room- Not Started
+Mini Date- Not Started
+Hanging Out- Not Started
+Festival- Not started
+
+Lucky-
+Unlock his character and view his intro, give gifts and talk (dialog tree 100%).
+Date 1- Done
+Extended Date1 - Done
+Date 2- Not started yet
+Extended Date2 - Not started yet
+Fiend Hunts-Done
+Room- 90% done. Missing some text when talking to him but is playable.
+Mini Date- Not Started
+Hanging Out- Playable but missing graphics
+Festival- 3/4 endings complete
+
+Ryu-
+Unlock his character and view his intro give gifts, and talk. (dialog tree 25%).
+Date 1- 80% done. Still working on date kiss dialog
+Extended Date1 - Not started yet
+Date 2- Not started yet
+Extended Date2 - Not started yet
+Fiend Hunts- 90% done. Missing graphics but is playable.
+Room- Not Started
+Mini Date- Not Started
+Hanging Out- Not Started
+Festival- Not started
+
+PROMO POSTER
+
+
+
+MINI FAQ
+
+Q: My HP is zero! What do i do now?
+
+A: To restore your HP you have to use an item such as an elixir or eat some food. But the fastest and cheapest method to get HP back is to visit Rheas room and choose the Go To Sleep option. But be warned, when you sleep HP increases by 100 but one day in game will go by.
+
+Q: Does the save and load game buttons work?
+
+A: As long as you have cookies enabled on your internet browser then both buttons should work just fine. Previous data should load even if you exit out of the game and shut your web browser down. Saves are cross browser compatible. Tested and working in Firefox, Chrome and Internet Explorer.
+
+Q: I tried to load my saved game and now my number of items is listed as being 999 and I see NaN everywhere!
+
+A:You got the NaN or, not a number, error. Basically the game refreshed itself and you lost the save file you had because the game overwrote it. This usually happens if you navigate to the next page of comments or exit out of the webpage.
+When you tried to load the last save you made the game couldn't locate it and therefore you got the NaN error.
+There's really nothing you can do about it once it happens. My advice is to download the game and play it in a new window so that there's no risk of any saves being overwritten.
+
+Q: I can't find Rheas' house. Where is it?
+
+A: If you're having trouble finding any location go to the World Map and then click the View Marked Map in the lower left hand corner. Now locations you're able to visit are marked with pink x's on the map which makes finding certain locations easier.
+
+Q: How do I unlock characters/find key items/trigger events?
+
+A: Please don't be rude and keep asking me about specific game details! I won't give you a straight answer unless the item, person or event hasn't been added to the demo yet. Since they game is over half way done I won't be giving out any spoiler info. If you really want to know where something is read through the previous comments below. Most of these questions have been answered already. You can also buy hints from Saben in Gaya Fortuna if you get stuck.
+
+Read my Change Log journal to keep up to date with updates made in the game [link]

@@ -1,0 +1,1 @@
+Has level database, but most thumbnails were never processed.

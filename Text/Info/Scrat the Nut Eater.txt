@@ -1,0 +1,1 @@
+The hungry Scrat wants to eat the acorns, but he is unable to go around the iceberg to fetch it. Use boomerang to push the acorns towards Scrat and earn score. Don't let the acorns touch the icebergs as you'll lose a life.

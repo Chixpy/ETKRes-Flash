@@ -1,0 +1,5 @@
+Use the arrow keys to speed the car up, slow the car down and steer the car right and left. Use the spacebar to make the car jump over obstacles.
+On each track, you'll need to crash into some cars while avoiding others.
+The game using the math term "multiples." When it tells you to crash into cars that are multiples of 2, that means all the numbers that have 2 as one of the factors! 2, 4, 6, 8, and so on.
+Multiples of 10 are 10, 20, 30, 40,... Multiples of 7 are 7, 14, 21, 28, ... Get it?
+So, to do well at this game, you may have to do some studying!! Start with those times tables!

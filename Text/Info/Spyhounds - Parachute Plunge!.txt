@@ -1,0 +1,1 @@
+The "Play Again" and "Close" buttons at the end of the game do not work.

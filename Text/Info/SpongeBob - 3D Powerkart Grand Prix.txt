@@ -1,0 +1,1 @@
+Track Editor, Submitted Tracks and View High Scores do not work

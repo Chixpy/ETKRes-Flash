@@ -1,0 +1,1 @@
+It's a mind game in which players will have to form squares in the grid using the different colors. In this empty frame, the player should arrange the double color pieces to form squares. If the required number of squares are formed with the same colors, the level gets completed. 1st level - 2 squares. 2nd level - 4 squares. 3rd level - 5 squres.

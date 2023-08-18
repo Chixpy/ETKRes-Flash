@@ -1,0 +1,1 @@
+"Start planting" text at the start is in Swedish. Intro text is replaced with "intro text".

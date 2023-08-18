@@ -1,0 +1,1 @@
+You have introduced new hot dogs in your shop. Now, your task is to prepare and serve the new hot dogs to the customers according to their wish by which your collection box gets filled. Keep in mind! If the customer waiting time exceeds, the customer will move away from shop.

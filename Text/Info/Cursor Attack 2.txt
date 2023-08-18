@@ -1,0 +1,1 @@
+play as the cursor to shoot down spheres. New features include: Password, custom colours, bombs, cloud, and healing orbs. Enjoy.

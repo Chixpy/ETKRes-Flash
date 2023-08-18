@@ -1,0 +1,11 @@
+Passwords:
+    NITROME - Turns grabbable tiles into Cuboy and turns the background pink.
+    MUSCLES - Hard Mode, one hit and you are out!
+    CHICKEN - Easy mode, you get five hearts.
+    FLIPPED - Turns the screen upside down and also affects the background!
+    DOGMEAT - Enemies speed is doubled!
+    GRANDPA - Enemies speed is halved!
+    HOTDOGS - Turn gems into hotdogs!
+    PRESENT - Bone-us! Bones appear randomly on the level
+    REVERSE - Your controls will become reversed!
+    POOMODE - ...Play the game and you will find out :)

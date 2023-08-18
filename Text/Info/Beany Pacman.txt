@@ -1,0 +1,1 @@
+Game is missing pacman_scores.php

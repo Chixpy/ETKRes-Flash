@@ -1,0 +1,1 @@
+Clicking restart at the end of the game opens a browser window.

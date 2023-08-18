@@ -1,0 +1,1 @@
+Draw lines that follow the path you create to hit all of the circles in one attempt.

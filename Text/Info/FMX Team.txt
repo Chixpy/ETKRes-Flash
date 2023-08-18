@@ -1,0 +1,1 @@
+In FMX Team you have a team of 3 unique bikers. Each biker can perform different stunts and can even learn new stunts as they gain experience. To complete each level you have to reach the finish line within 2 minutes and you'll have to earn the minimum required qualification points set for each level.

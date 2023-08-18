@@ -1,0 +1,10 @@
+Kmembert is a Puzzle/Infiltration/Action game.
+
+NB: Game developed in 48h during the Ludum Dare #28.
+
+Vote for my game here: http://www.ludumdare.com/compo/ludum-dare-28/?action=preview&uid=16806
+
+Your are a french cheese and you fight against the nazi mouse army.
+
+You have only one shoot to kill them all.
+Think then shoot.

@@ -1,0 +1,1 @@
+In this game,the teddy moves in the reverse direction.You will have to move the mouse in the reverse direction to  reach the destination.Remember!While moving the teddy,you should not touch the surroundings objects. Try to complete each level in the given time duration to play the next level.

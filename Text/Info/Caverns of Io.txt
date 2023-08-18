@@ -1,0 +1,7 @@
+A wonderfully retro space shooter maze game. In ascii we trust! :)
+
+Original comments from the developer's Newgrounds: 
+
+You have been sent to explore Io, tasked with exploring each cavern in search of potential resources to mine. Armed with a simple cannon, your goal is to explore all thirty caverns, and clear them of any hostile ships.
+
+Each level presents unique terrain and challenges. To survive, you'll need to learn to use each cavern's features to your advantage.

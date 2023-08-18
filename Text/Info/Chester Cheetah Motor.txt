@@ -1,0 +1,1 @@
+The original URL of the game uses a specific HTTP port (nitrome.com.4399.com:8080), which is impossible to recreate with the Redirector, but the game still works, as it is not sitelocked.

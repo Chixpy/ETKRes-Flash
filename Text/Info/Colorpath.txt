@@ -1,0 +1,3 @@
+Take the color clock and reach the door by avoiding blocks that have the samecolor as your skin.
+
+Arrow keys to move and space to jump.

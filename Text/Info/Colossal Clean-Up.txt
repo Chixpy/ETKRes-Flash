@@ -1,0 +1,11 @@
+This game gets stuck on the Game Over screen after submitting a score, which appears to be something the player is forced to do. The only way to play again is to close and relaunch it.
+ORIGINALLY MADE FOR LUDUM DARE 26!!
+
+You are an avid hoarder. The cops are on your tail, determined to condemn your house unless you can clear out your junk in time! Visit each floor of your messy home, picking up specified items on each level and throwing them out the window, minimalizing your clutter to continue your climb. Fail to complete a floor in time and it's game over for you! Compete with your friends on the leaderboards for the highest score and don't forget to rate the game! Enjoy!
+
+Controls:
+
+Z: pick up item
+X: throw item out window
+Left/right: move
+Up: jump

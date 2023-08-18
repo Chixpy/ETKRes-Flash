@@ -1,0 +1,1 @@
+When pasting Codes into level editor, leaving spaces between lines will stuff it up, so make sure to remove them if copying.

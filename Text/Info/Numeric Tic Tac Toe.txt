@@ -1,0 +1,1 @@
+This is a two/single player game.. The one who completes the Tic Tac Toe vertically, horizontally or diagonally with the sum of 15 first will be considered as the winner.. To place a number on the grid, drag the number from your panel, and drop it on to the grid.

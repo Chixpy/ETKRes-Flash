@@ -1,0 +1,1 @@
+The game opens a new browser window when a fight begins.

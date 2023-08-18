@@ -1,0 +1,1 @@
+In this game you are running a soup shop.  You have to cater to the needs of the customers who come asking for different types of soups. Take the ingredients that the customer asks for, place them in a cup, and add hot water to it. Add some pepper, mint, and corn and serve it to the customers. You should complete making the soup and serving them before the customer leaves.

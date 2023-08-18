@@ -1,0 +1,5 @@
+bloXplatter is a simple breakout game with the ability to curve the ball. Since the curving mechanic is at the heart of the game, doing curved shots not only looks good but also gives you more points and lots of sweet medals.
+Control the paddle with the Mouse.
+Shoot the ball by clicking the Left Mouse Button.
+Pause the game by pressing "P" or "Escape" Key.
+In the "Stage Select" screen you can only play the selected stage and submit a score to that specific stage. You cannot continue to higher stages.

@@ -1,0 +1,1 @@
+V tejto akčnej hre hráč s pomocou myši vedie loďku po rieke, pričom hrozia kolízie s brehmi. Rozhodujúci je čas. Úloha sa vyznačuje pomerne amatérskou grafikou aj spracovaním, napriek tomu môže byť zábavná.

@@ -1,0 +1,1 @@
+Positional is a physics-based assembling game; your goal is to build a shape which is marked with the borderline with all the given blocks with different shapes by dragging them around.

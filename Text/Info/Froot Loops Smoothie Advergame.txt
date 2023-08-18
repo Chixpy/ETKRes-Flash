@@ -1,0 +1,2 @@
+rewards are lost
+The game will try to open a window on pressing start and play again

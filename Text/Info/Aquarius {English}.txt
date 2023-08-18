@@ -1,0 +1,1 @@
+Hacked to turn on the debug mode; this skips King's API. The instruction text has been made less helpful as a result.

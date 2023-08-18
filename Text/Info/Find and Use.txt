@@ -1,0 +1,1 @@
+Find the objects that are been hidden in three different locations.Some of the objects are inventory items. Once you find those objects, use them to find the remaining objects.

@@ -1,0 +1,1 @@
+Grab & release the yellow colored bees into the hive and kill the red colored enemy bees to avoid them getting into the hive. Use mouse to grab & release the yellow colored bees into the hive and click on the red colored enemy bees to kill them. If three numbers of bees enter the hive, you will lose the game. Get maximum points within the given time duration.

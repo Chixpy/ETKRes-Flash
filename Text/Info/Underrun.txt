@@ -1,0 +1,1 @@
+A fast paced arcade space-shooter. Activate and reach the goal without dying to complete each level. Strategically use powerups to your advantage.

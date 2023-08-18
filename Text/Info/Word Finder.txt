@@ -1,0 +1,1 @@
+Alphabets of the given word are in bowling pin but they are in scrambled manner. Press the alphabets of the given word orderly.   If you press the correct bowling pin, it will come forward and for wrong press bowling pin will fall off. Attain target in each level to play further levels. To mute the sound, press mute button.

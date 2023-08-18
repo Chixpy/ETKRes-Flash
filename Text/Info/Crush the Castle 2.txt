@@ -1,0 +1,3 @@
+Level database included.
+
+Due to the overwhelming size of the thumbnails used in said level database (27GB, no joke) we offer them for seperate download at https://archive.org/details/CTC2Thumbnails.

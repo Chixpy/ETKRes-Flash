@@ -1,0 +1,2 @@
+Includes an advertisement on the title screen. The game opens a new browser window when selecting a game difficulty.
+Find SpongeBob's most-beloved mollusk in this truly WHACK-y game!

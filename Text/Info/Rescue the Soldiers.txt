@@ -1,0 +1,1 @@
+Create correct path to transfer the soldiers from one camp to another for their safety purpose. Drag the path pieces onto the grid to form correct path for them to reach. Try to create the path within the given pieces. Complete the path before the time gets over.

@@ -1,0 +1,1 @@
+This game has no way to pause, and later on the ball may have a chance of flying through outside the table if it goes too fast, rendering the game unplayable until it is closed and opened again.

@@ -1,0 +1,2 @@
+Click to aim ball, release to throw.
+Get enough points in a round to move on to the next.

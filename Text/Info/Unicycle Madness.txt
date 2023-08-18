@@ -1,0 +1,3 @@
+Achieve Unicycle greatness by cycling your way past obstacles and reaching the farthest distance possible.
+
+This game is intended to be a short game but will make the player want to play it over and over to beat the scores.

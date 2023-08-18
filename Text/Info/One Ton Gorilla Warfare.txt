@@ -1,0 +1,1 @@
+The sequel to One Ton Bang Bang. One Ton has escaped, but he knows there are other "experiments" who are imprisoned. He's going back to bust them out. In this version, you will get to a point where you can go right or left. Each path has a different new weapon. Use the number keys(1,2,3,4) to switch weapons. R or Space to reload. WASD to move, and mouse to shoot.

@@ -1,0 +1,1 @@
+Atomica, the game where you arrange all different colored atoms for points only at Dumb.com. Arrange the atoms into a row of at least 4. For every time you do not create a row more atoms appear. Fill up the screen with atoms and you lose!

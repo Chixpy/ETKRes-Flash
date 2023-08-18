@@ -1,0 +1,1 @@
+Na štvorcovom pláne sú dve srdcia, pričom jedno hľadá druhé. V ceste sú im prekážky v podobe múrov. Algoritmus vyhľadávania v bludisku nie je možno najrýchlejší, ale vždy splní úlohu. Nájsť cestu od jedného srdca k druhému. Príjemný program na experimentovanie so stavaním rôznych múrov bludiska.

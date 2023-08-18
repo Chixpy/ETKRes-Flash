@@ -1,0 +1,1 @@
+Block all the possible ways of honey bee to get out from the hive. Click on a hexagon to generate the iron nails by which the way can be blocked. Complete each level to proceed to next level.

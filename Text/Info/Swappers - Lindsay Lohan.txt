@@ -1,0 +1,1 @@
+Swap the pieces to form the given picture as quick as possible. Try to form the picture by swapping less number of times. Use hint button to know the correct number arrangement of pieces. The lifespan of hint button is 10seconds. Use the hint button cleverly.

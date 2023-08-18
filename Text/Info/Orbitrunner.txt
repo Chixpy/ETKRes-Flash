@@ -1,0 +1,1 @@
+Control the Sun with your mouse. Use it to manipulate the planets' paths. The Sun's pull gets stronger as planets get closer. If the gravity is at a right angle to the direction of travel, an orbit can form. Make sure planets don't leave the screen or collide!

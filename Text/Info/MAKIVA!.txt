@@ -1,0 +1,13 @@
+<How to play>
+Control with the mouse.
+Harvest by clicking crops.
+
+The status is displayed on the bottom.
+From the left to right: Scoop, harvest basket, remaining time, number of coins.
+
+Since you can not harvest more than the basket's capacity, you can get coins by clicking on the entrance of the ranch when it is full.
+
+Earn 10,000 coins before the remaining time becomes 0.
+The difficulty rises according to the number of coins, and the ranch becomes more lively. There are a few coins that you can get with items delivered in the small frame on the top right.
+
+When the scoop's X disappears, you can dig a crack by clicking it. Enjoy whatever comes out.

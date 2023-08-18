@@ -1,0 +1,1 @@
+This is a small memory game with photos of animals as cards. Try to find all the pairs as fast as possible. Just click on a card to flip it.

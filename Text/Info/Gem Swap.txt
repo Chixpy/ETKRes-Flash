@@ -1,0 +1,2 @@
+1 to 5 player game. Roll the dice.
+Select the dice you wish to hold or add two or more to the MEGADIE.

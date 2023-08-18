@@ -1,0 +1,1 @@
+Midas Mahjong is a classic puzzle using the Chinese Mahjong tiles that are laid out in a pyramid form. Combine two tiles of the same type to clear them away and work your way through the pyramid. Only the master has the concentration needed to clear all the tiles in time.

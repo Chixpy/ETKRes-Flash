@@ -1,0 +1,1 @@
+Assemble the shuffled image pieces in its correct position. Select the number of row and column to split the image into pieces. Use mouse to drag and assemble the image piece. If you find it difficult to solve, Click SHOW HINT.

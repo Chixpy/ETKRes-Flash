@@ -1,0 +1,1 @@
+Help the Chick to grab an egg and place it with same color to make them hatch. Use the golden egg for hatching of a complete row of eggs , irrespective of the different colors. Use the silver egg for hatching of a complete column of eggs , irrespective of the different colors.

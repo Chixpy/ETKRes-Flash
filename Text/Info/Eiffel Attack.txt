@@ -1,0 +1,1 @@
+Protect the Eiffel tower by shooting the enemies, who are attacking it. Loader indicates the damage level of the Eiffel tower.

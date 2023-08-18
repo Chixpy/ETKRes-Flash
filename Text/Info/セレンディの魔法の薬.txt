@@ -1,0 +1,4 @@
+[Controls] 
+Control with the mouse.
+Click the arrow in the message window to proceed.
+You can save at the point where choices are displayed.

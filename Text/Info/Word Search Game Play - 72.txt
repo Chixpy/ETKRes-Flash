@@ -1,0 +1,1 @@
+Find the numbers quickly in the scrambled numbers. Just click your pointer on the beginning of a number and drag it through the number. Keep going until all the numbers in the list are disappeared. Have fun!

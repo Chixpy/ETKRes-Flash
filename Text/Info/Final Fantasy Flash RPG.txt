@@ -1,0 +1,19 @@
+...I didn't get any "related content" links...=\
+
+Oh well. Here ya go, a decent (atleast I think so) Final Fantasy 6 style RPG in Flash format. There are a lot of features missing from a typical RPG so just bear with me because I'm still learning!
+
+This has come a long way from the old FF Game Engine I made a long time ago so I hope you guys appreciate it!
+
+-If you happen to change screens and encounter an enemy at the same time, you won't hear battle music.
+
+-Sometimes the door graphic will stay closed even though you walk through it.
+
+-The floating star you get from *you know who* doesn't do anything.
+
+Use the arrow keys to move and the x key to select. I'm a lazy bum so there isn't a back key!
+
+Have fun!
+
+~Amps
+
+To viewers: Yes, level 3 is the max. Sorry, it's short!

@@ -1,0 +1,5 @@
+Hello! ChipTone is a free tool for generating sound effects, primarily for games but they could be used for anything you like!
+
+I'm currently working to flesh out the sampler, the vocoder and the sequencer. You can still use it at this early stage, and your feedback/bug reports would be very welcomed!
+
+I hope you find this tool useful, and if you make anything cool using it, I'd love to see!

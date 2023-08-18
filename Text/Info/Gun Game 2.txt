@@ -1,0 +1,1 @@
+ATTENTION: don't turn off Screen FX in the Options when doing jobs that require smashing glass bottles, otherwise the bottles will glitch and be unbreakable

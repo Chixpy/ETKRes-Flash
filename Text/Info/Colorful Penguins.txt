@@ -1,0 +1,3 @@
+Includes an option for colorblind players.
+Your goal is to help the colorful penguins get back to their true black and white colors. To do this, get the penguin to touch an ice block of the matching color.
+Use your mouse to swipe across to cut rope and ice.

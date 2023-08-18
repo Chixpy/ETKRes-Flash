@@ -1,0 +1,1 @@
+Guide the Micky Mouse to reach its friend Bugs Bunny. Use arrow keys to move the pointer in the maze. Good Luck!

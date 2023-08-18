@@ -1,0 +1,1 @@
+Find out the Olympic Games hosted cities by using the years. Click on the starting letter of the word and drag the cursor over the word and release it on word's last letter. Correct answer will be locked in the list.

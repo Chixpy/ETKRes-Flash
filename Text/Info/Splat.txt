@@ -1,0 +1,1 @@
+Left and Right arrows to move, space bar to interact, S to splat.

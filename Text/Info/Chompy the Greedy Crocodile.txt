@@ -1,0 +1,25 @@
+_ _
+  |_|__________________________________________ |_|
+  |_________________= CONTROLS =________________|
+  
+  [LEFT] / [RIGHT] - Walk
+  [SPACE] - Jump
+  [DOWN] - Jump-down from platform + Enter Level
+  [UP] / [DOWN] - Climbing on ladder
+  [R] - Restart level
+  
+  [ENTER] - Go to level select
+  [P] / [ESC] - Pause game
+  
+  _____________________________________________
+  |___________________= ABOUT =_________________|
+  
+  Chompy thinks about coins.. coins, coins, coins.
+  Chompy dreams of coins.
+  "Come on now Chompy! There is more to life than just coins." - The people say.
+  It's no use. Chompy is a greedy crocodile, and a stubborn crocodile.
+  
+  _____________________________________________
+  |___________________= NOTES =_________________|
+  
+  Thanks to Newgrounds, the play-testers, and you for playing!

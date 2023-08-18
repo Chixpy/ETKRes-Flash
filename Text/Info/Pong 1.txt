@@ -1,0 +1,2 @@
+Left and Right arrows to move paddle.
+Keep the balls in play for as long as possible

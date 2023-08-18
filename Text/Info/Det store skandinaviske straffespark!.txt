@@ -1,0 +1,2 @@
+The original settings XML for the Swedish version, containing all the localised strings, is unfortunately lost. A reconstructed file is included in its place.
+Scor mål mod svenskerne og nordmændene!

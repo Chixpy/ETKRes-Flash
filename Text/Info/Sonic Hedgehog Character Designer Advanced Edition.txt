@@ -1,0 +1,1 @@
+On the start screen and on the credits screen there's some flashing text.  The text on the start screen is small, but just be aware.

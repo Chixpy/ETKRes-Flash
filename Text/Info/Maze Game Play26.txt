@@ -1,0 +1,1 @@
+Help the cute puppy to reach its residence. Move the pointer in maze to find out the path.

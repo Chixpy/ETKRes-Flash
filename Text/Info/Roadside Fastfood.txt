@@ -1,0 +1,1 @@
+Identify the food preferred by customers and serve it to them. Click on the food item, which is on the moving rack, and serve it to the customer.  To serve wrongly is to take a reduction in your score. Serve the food within the given time duration.  Achieve each level target to proceed to the next level.

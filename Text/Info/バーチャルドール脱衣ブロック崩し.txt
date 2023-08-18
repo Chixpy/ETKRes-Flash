@@ -1,0 +1,1 @@
+Doesn't start out in the right window size, you'll need to maximize the window.

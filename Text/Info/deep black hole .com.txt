@@ -1,0 +1,1 @@
+Opens in fullscreen; press Escape to return to windowed mode.

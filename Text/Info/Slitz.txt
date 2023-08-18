@@ -1,0 +1,1 @@
+A multiplayer space fighting game. 15 levels of fun. Coding & Idea by regulargabs(syko227), graphics by NuiStyles. For best enjoyment, play with the 2 player mode (or AI co-op).

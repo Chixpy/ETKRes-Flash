@@ -1,0 +1,1 @@
+Point n click escape game where you collect items and solve puzzles to escape.

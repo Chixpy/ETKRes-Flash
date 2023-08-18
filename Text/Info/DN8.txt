@@ -1,0 +1,1 @@
+Putting it simply, this is a bullet hell shooter.

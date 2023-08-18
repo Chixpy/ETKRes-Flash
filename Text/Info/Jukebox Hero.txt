@@ -1,0 +1,1 @@
+The game launches a free web arcade 404 page in a non-Basilisk browser when completed

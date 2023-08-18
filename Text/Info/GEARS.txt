@@ -1,0 +1,1 @@
+Fix machines by hooking gears together. Each machine you fix earns you money. Revisit levels to get the best score possible and try to get the best overall score you can!

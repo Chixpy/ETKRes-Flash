@@ -1,0 +1,1 @@
+Guide the Fox to kit the Eagle. Use arrow keys to   move the pointer in the maze. Good Luck!

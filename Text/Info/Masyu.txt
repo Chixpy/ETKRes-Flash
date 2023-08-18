@@ -1,0 +1,1 @@
+Masyu je známy japonský hlavolam. Na pláne sú rozložené biele a čierne perly, ktoré treba navliecť na náhrdelník. Masyu je ľahší ako Sudoku, ale asi náročnejší na trpezlivosť ako Šikaku. Môj program obsahuje prevzaté úlohy.

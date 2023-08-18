@@ -1,0 +1,18 @@
+And in this corner, with a sexy blue body (never thought I'd put those two words together...) and too many other colors to count... LANCE'S NEXT CONTENDER!!!
+
+So we're finally here, with the sequel to a game I never expected for it to get as big as it got... And in all honesty, I'm glad you all gave it so much support and acceptance. Thank you so much from the bottom of my bizarre heart!!
+
+Once again, I attempted to make a 18+ game that everyone could enjoy in one way or another, either if you are a fan of the show, a fan of hentai, a fan of Visual Novels or just a guy or gal looking to have a good time (and hopefuly a chuckle or two). Just relax, drop whatever problem's been haunting you for the last couple hours or days, get your light-hearted sense of humor and/or libido locked and loaded, and embark on the day after "MSA: Fluttertime!"
+
+Thanks to everyone who supported the first MSA, special thanks to the testers who had to wreck this lil' project until it took shape, and thank YOU for taking the time to check it out!
+
+KNOWN ISSUES:
+-----------------------
+
+As far as I know, the only thing I could point out as a bug is a little issue the text display seems to have when you press the "Next>" button way too frequently. This bug makes previous lines appear at the same time as the ones being displayed next, but unless gangbanging said button like a schizophrenic chimpanzee is your idea of having a good time (because you REALLY have to give it all to make this happen), chances are it won't happen... Besides, even if it does, I've added an extra line of code that gets rid of the excess line just a second after it appears, so it shouldn't be anything serious.
+
+Keep in mind that I'm nothing but an amateur at coding and programming (I'm just an illustrator trying to fill all the roles), so if you happen to find a serious bug, glitch or typo, please send me a PM with as much detailed info as possible so I can check it out and see what part of the code is misbehaving.
+
+FATE OUT!
+
+P.S.: My Patreon: www.patreon.com/fatelogic

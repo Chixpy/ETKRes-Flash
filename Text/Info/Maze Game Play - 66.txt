@@ -1,0 +1,1 @@
+Guide the Rabbit to reach its friend Kangaroo. Use arrow keys to move the pointer in the maze. Good Luck!

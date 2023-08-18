@@ -1,0 +1,2 @@
+Hacked to use the debug mode; this skips King's API. The instructions have been made less helpful as a result.
+The stars are too involved in their careers to keep track of their market value. That's where you come in. You become their manager, and buy and sell stars so that you can afford that luxury item you desperately need.

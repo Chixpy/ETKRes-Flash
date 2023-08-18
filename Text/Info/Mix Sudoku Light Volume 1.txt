@@ -1,0 +1,3 @@
+Enhance your Sudoku skills with 6 different variants, including Classic, Diagonal, Irregular, OddEven, Chain and Multi. Each puzzle is solved like a regular Sudoku with an additional twist according to the variant rules.
+
+There is only one unique solution for each puzzle.

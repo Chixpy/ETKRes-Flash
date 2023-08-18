@@ -1,0 +1,1 @@
+Https API not implemented, game works ok without it. Action adventure with a lot of shooting, platform jumping and a strong retro atmosphere, inspired by old console games.

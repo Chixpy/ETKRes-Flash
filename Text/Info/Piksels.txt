@@ -1,0 +1,12 @@
+Piksels, a Bart Bonte game.
+
+
+Controls: cursor keys (+ r-key to reset a level). There are 16 levels. Enjoy!
+
+
+'Piksels' was created for the lowrezjam (http://jams.gamejolt.io/lowrezjam2014), a game jam with the restriction to create a game with a maximum screen resolution of 32x32 (or upscaled)
+
+Leave a comment (http://www.bontegames.com/2014/05/a-new-bontegame-piksels.html)
+
+Do you want to play more games like 'Piksels'?
+Please visit www.bontegames.com

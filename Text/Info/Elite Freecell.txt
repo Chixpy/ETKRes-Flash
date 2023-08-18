@@ -1,0 +1,2 @@
+Adventure mode does not work in this version, but it's not supposed to.
+The objective of the game is to put cards from 8 columns to 4 cells a the right.

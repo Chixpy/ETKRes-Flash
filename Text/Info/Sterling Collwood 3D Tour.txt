@@ -1,0 +1,1 @@
+Redirector will display 404 errors; this is normal and the tour will work without the missing file

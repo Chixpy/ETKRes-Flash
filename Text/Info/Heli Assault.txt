@@ -1,0 +1,1 @@
+Chopper game, chase a target within a time limit. Upgrade your craft with your bounty

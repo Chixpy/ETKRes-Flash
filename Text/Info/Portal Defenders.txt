@@ -1,0 +1,1 @@
+Hacked to remove a HTTPS check that outright crashes the game.

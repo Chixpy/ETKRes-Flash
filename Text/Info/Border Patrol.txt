@@ -1,0 +1,1 @@
+The game is bugged a bit - the play again button doesn't work. In that case click right mouse button and use "play" option. It will return you to the title screen.

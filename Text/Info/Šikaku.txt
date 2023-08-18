@@ -1,0 +1,1 @@
+Šikaku je známy japonský číselný hlavolam. Plán je rozdelený na parcely, pričom na každej parcele je číslo s jej obsahom. Úlohou je nájsť obrysy všetkých parciel. Šikaku má širokú škálu obtiažnosti, ale je ľahšie ako Sudoku. Môj program obsahuje prevzaté úlohy.

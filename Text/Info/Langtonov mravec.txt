@@ -1,0 +1,1 @@
+Simulátor známeho celulárneho automatu. Mravec sa pohybuje na základe veľmi jednoduchých pravidiel, napriek tomu je jeho pohyb zložitý a nepredvídateľný.

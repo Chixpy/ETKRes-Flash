@@ -1,0 +1,1 @@
+Osemsmerovky sú známe takmer každému. Po vyškrtaní množiny slov v krížovke, pričom možno použiť ktorýkoľvek z ôsmich možných smerov zostáva skupina písmen, ktoré po prečítaní zľava doprava a zhora nadol dáva krížovku. Môj program obsahuje niekoľko mnou urobených osemsmeroviek. Ovládanie je kvalitné a obsahuje aj pomôcky pre menej skúsených riešiteľov.

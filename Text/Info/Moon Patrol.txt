@@ -1,0 +1,1 @@
+Control a moon buggy on moon's surface. Avoid obstacles such as craters and mines.

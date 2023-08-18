@@ -1,0 +1,1 @@
+move the honey bee to collect the flowers from the garden. At each level,collect flowers of same color,and move to next set of flowers,as otherwise you will lose the game.

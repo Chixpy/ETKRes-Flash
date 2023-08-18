@@ -1,0 +1,4 @@
+At the end of the game the computer may be stuck, that probably means he can not create any more words.
+Play your tiles to score big!
+To start, select six letters at random, then play your letter tiles on the board to create a new word. Each play must cross one of the words already on the board.
+Each letter is worth points, with rarer letters like X or Z having the highest value. Pick your computer opponent's difficulty and jump in!

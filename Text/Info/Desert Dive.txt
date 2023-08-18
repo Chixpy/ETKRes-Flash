@@ -1,0 +1,1 @@
+Upon completion, the game hangs. I believe this is due to the way Funbrain would then link you to other pages.

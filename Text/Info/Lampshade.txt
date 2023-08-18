@@ -1,0 +1,1 @@
+This is a weird experimental game. There are parts that requires you to be very alert and also allows you to use your attention at one thing at a time. Memorizing is part of the game. When it gets complex, there is no shame and writing things down. controls: Move [Arrow keys] / [WASD]

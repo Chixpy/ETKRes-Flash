@@ -1,0 +1,3 @@
+The object is to create islands by partitioning between clues with walls so that the number of squares in each island is equal to the value of the clue, all walls form a continuous path and there are no wall areas of 2×2 or larger. Each island must contain one clue and be isolated from other islands horizontally and vertically.
+
+There is only one unique solution for each puzzle.

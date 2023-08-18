@@ -1,0 +1,1 @@
+This game works weird. In order for it to recognize your key input, click away and then click back.

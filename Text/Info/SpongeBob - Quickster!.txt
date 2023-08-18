@@ -1,0 +1,1 @@
+"Enter Code" button does not appear when launched with Flash but the code ("QUICKSTER") doesn't work anyway

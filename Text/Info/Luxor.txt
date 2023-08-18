@@ -1,0 +1,1 @@
+Timer hacked out. Game uses the debug data, so the instructions are replaced with a placeholder.

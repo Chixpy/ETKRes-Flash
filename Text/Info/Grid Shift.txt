@@ -1,0 +1,1 @@
+This is a simple mini game I made, based off of the boneyard mini game from Big Brain Academy on the Nintendo DS. Read the cards and pay attention to the warps to see where the ball will end up.

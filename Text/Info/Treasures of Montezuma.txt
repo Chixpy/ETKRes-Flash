@@ -1,0 +1,1 @@
+config.xml is lost but games works anyway.

@@ -1,0 +1,1 @@
+Welcome to Pyramid Tower Defense ! Your goal is to defend all the powerful giant bugs from entering into the Pyramid. Destroy all the bugs by placing the required weapons in and around the path.

@@ -1,0 +1,1 @@
+Minigolf game. Hit the living creatures to get bonus points.

@@ -1,0 +1,1 @@
+Make the monkey to skate and grab fruits.collect as many fruits as possible.

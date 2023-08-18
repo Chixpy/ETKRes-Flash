@@ -1,0 +1,3 @@
+Cheats are enabled:
+Shift-Click to turn gem into flame gem.
+Ctrl-Click to turn gem into hypercube.

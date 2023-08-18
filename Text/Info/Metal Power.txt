@@ -1,0 +1,1 @@
+Metal Power is a fun physics game, your goal is to get the glowing block to the power source. Click on the copper objects to shrink and enlarge them.

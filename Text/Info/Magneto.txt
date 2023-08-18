@@ -1,0 +1,1 @@
+Addictive game in which you have to move the magnetic ball to the exit of each level using your arrow keys. Different magnets will attract or push you off, try not to bounce against them, walls or other obstacles.

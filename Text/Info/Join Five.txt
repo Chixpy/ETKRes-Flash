@@ -1,0 +1,1 @@
+Úlohou v tomto jednoduchom hlavolame je pokračovať v kreslení úsečiek, čo najdlhšie. Svetový rekord je okolo 180 úsečiek, bežný riešiteľ končí po 50-60 úsečkách. Príjemné ovládanie, možnosť pohybu v histórii.

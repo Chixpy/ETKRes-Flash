@@ -1,0 +1,1 @@
+Your goal is to assemble all the pipe pieces correctly, as in a way to penguins safely to reach its destination. Reach as many penguins to get more score.

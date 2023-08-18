@@ -1,0 +1,1 @@
+Arrange the blocks to form a structure as per the given plan. To change the block�s position, click on the block and then position where you want to shift the block. To get maximum score, complete the game in short duration. To bring the game to pause, click on the pause button. To mute the sound, click the mute button.

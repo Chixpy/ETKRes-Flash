@@ -1,0 +1,2 @@
+Hacked to remove an https api request. Use local save to play.
+Drive and upgrade your tank and lead your country to victory!

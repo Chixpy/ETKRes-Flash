@@ -1,0 +1,1 @@
+To start, click "Make your Own". Themes and user-made stories are lost. Saving your story does not work, but could be recreated in the future using JSON scripting.

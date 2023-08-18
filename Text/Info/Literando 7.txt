@@ -1,0 +1,1 @@
+Program postupne ponúka riešiteľovi sedempísmenové slová z databázy. Slovo má vždy písmená a treba ho vrátiť do pôvodného stavu. Každým vyriešeným slovom sa odkrýva obrázok na pozadí. Úloha je dosť ťažká ťažká, ale program umožňuje nastaviť rôzne pomocné režimy, ktoré jú robia príjemnou na riešenie.

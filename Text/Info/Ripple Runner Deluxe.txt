@@ -1,0 +1,14 @@
+Some text in the original description is hyperlinked; links are included in parentheses for reference.
+Soundtrack download (http://ddrkirbyisq.bandcamp.com/album/ripple-runner-deluxe-original-soundtrack)
+
+Ripple Runner was originally made in 48 hours for round 29 of Ludum Dare. The theme was "Beneath the Surface", so I made a Bit.trip Runner-style rhythm game with game boy-esque graphics and chiptune music. This is probably my most famous and popular flash game to date. You could consider it my "thesis" work, since it combines a lot of my core aesthetics: Chiptune music, difficult gameplay, and pixel art.
+
+Awards (out of 1492 compo entries):
+#2 in Overall
+#2 in Theme
+#2 in Audio
+#3 in Fun
+
+Ludum Dare submission page (http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=7285)
+
+Original compo version submitted to Ludum Dare (https://ddrkirby.com/games/ripple-runner/compo-version/ripple-runner-compo.html)

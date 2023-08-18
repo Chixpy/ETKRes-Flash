@@ -1,0 +1,1 @@
+Help the snake to gulp the eggs which keep appearing on the ground without hitting the walls over there. Gulping the fruits help in earning bonus score.

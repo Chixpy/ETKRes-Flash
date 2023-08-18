@@ -1,0 +1,8 @@
+Up Arrow to rotate
+Left and Right Arrows to move block
+Down Arrow to drop block faster
+P to Pause
+
+You receive a bonus for all empty lines
+at the end of a round. Later rounds have
+blocks already on the field.

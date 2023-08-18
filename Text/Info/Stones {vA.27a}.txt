@@ -1,0 +1,12 @@
+Changelog for A.27a:
+-Fixed act preference dialogues causing crashes.
+-Fixed character's head not animating correctly when getting stomped.
+-Fixed ability to switch interactions while the current interaction was ending.
+
+Changelog for A.27:
+-Added arousal variable, affecting erections and sex progression.
+-Added variable facial expressions during sex acts, giving a hint as to how appropriate your current tempo is.
+-Added masturbation interactions, primarily as a means of raising arousal before engaging in other interactions.
+-Added perma-boner setting to content options.
+-Made rat tails bend other way during doggy-style sex to avoid clipping into neck.
+-Fixed liquid spurts being directed wrong.

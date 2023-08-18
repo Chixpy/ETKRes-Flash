@@ -1,0 +1,1 @@
+Link up all of the gears to get them all moving. Click one gear and then another gear with your mouse to link them with a chain. You can only link gears of the same color, and can't overlap chains with gears of that color.

@@ -1,0 +1,1 @@
+Play against the house in this nice looking version of Blackjack. Keep playing until you win it all.

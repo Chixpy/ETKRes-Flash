@@ -1,0 +1,1 @@
+Prevent the bots reaching the exit door, don't let 'em escape from their ship. Stack the blocks to blockade their path and kill 'em all with the turret and available gunner blocks.

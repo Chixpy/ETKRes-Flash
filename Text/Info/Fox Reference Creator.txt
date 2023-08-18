@@ -1,0 +1,1 @@
+There are buttons for Wolf and Dog creators, but those creators were never implemented, so the buttons don't work.

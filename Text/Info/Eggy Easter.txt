@@ -1,0 +1,1 @@
+The game has Day/Night feature based on your local PC Time (Change is only visual and won't affect gameplay) It seems to run at a too fast framerate (roughly 4x too fast)

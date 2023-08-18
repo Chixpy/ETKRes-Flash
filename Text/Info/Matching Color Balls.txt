@@ -1,0 +1,1 @@
+Matching Color Balls is a magnificent color matching game with great challenges.Swap adjacent blocks to line up 3 or more same colored balls next to each other horizontally or vertically to make a match.To win a level clear all the highlighted blocks and try clear maximum number of color balls within the time to get highscore.

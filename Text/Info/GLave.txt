@@ -1,0 +1,2 @@
+WASD or Arrows for movement.
+Z or Keypad 1 for your gun. (Check numlock)

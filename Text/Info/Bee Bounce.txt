@@ -1,0 +1,1 @@
+Make this bee satisfied, by tasting the honey from the flower. Just move the bee within the given space and reach the flower. Stay away from the enemy bee, as you lose the game on contact with it. Your score increases and you move on to the next levels as you grab the flowers.

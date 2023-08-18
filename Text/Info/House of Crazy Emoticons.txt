@@ -1,0 +1,14 @@
+Play the newest game from 4funnies.com; House of Crazy Emoticons!
+
+The goal of the game is to find Little Emo. Little Emo is hiding somewhere in the house. There are all kinds of emoticons in the house, some of them will give you information, or they will ask you for something.
+
+There are also many things hidden in the house that will help you on your quest.
+
+The game is played with the mouse.
+
+Navigation: Click on the doors to enter the rooms. Use the round button with the arrow to turn the room. Your location and the direction you are facing are displayed at the top-right with the green arrow. The items you have found are displayed at the bottom-right. Click on an item to activate the item, and then click on an object/ inhabitant to see of it reacts to it.
+
+Investigate: Click on an emoticon to let it talk. Also click on the other elements in the house to investigate them.
+
+
+Have fun!

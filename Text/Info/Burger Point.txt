@@ -1,0 +1,1 @@
+Memorize the list of ingredients and prepare a burger within a given time duration. Use mouse to select and drag the necessary ingredients. Right preparation is confirmed by a tick mark. Wrong preparation is notified by a �X� mark.

@@ -1,0 +1,6 @@
+Fill up the darkest squares with the colored cubes. Color is Infectious, some squares will only be satisfied by certain colors. Activate buttons with boxes or crates to activate gates.
+Push about crates with your boxes. Gravity Zones will push you about.
+
+Use the mouse to create 100's of small colored boxes which you can then move about with the WASD or Arrow Keys.
+
+DOWNLOAD THIS GAME: http://www.padog.net/wp-content/uploads/2013/10/Aeolus-Shift.zip

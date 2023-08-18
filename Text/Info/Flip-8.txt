@@ -1,0 +1,2 @@
+Chip-8 Intepreter/Emulator Written in Actionscript 2 with various included libre Chip-8 and SChip-8 Games and Demos.
+Unlike most Chip-8 Interpreters it uses the arrow keys and space bar instead of the number pad or the leftmost 16 keys.

@@ -1,0 +1,1 @@
+Shoot all the robbers before they kill you. You earn points for every correct shot. You can see your health meter at the bottom. Finish the given target to move next levels. Complete the higher levels to win the game.

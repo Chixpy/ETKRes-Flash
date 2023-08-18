@@ -1,0 +1,1 @@
+Click on a block that you want to swap, then click on a second block in the same column to swap them. Match 3 or more blocks of the same color in a column to clear the blocks! You're going to have to swap pretty darned fast if you want to survive!

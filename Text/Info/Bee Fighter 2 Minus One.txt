@@ -1,0 +1,8 @@
+I wanted to see if I could make a 2D fighting game engine using HaxeFlixel. The answer was a resounding �kinda�. Try to do a Wrench-doken!
+
+CONTROLS
+Player 1: WASD to move, SPACE to attack
+Player 2: UP, LEFT, RIGHT, or DOWN to move, ENTER to attack
+Press ESC to return to title
+
+Demo made using HaxeFlixel.

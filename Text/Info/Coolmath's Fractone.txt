@@ -1,0 +1,2 @@
+Your goal is to get sums of 1. Get it? FractONE. (We're so clever.)
+Click on pairs of squares that add up to 1 and do it as fast as you can!

@@ -1,0 +1,1 @@
+Physics-based platformer of skill and logic. Smart and funny yogi tries to return happiness and harmony in spirit world. This game includes the adventure mode with 25 logic levels and a survival mode with perpetual waves. You can skip hard level, after 3 attempts. The passed levels will be saved automatically .

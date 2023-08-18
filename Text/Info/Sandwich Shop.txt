@@ -1,0 +1,1 @@
+1.Click on the bread to toast it. 2.Click on the vegetable to add it in sandwich. 3.Click on the sauce to add it in sandwich. 4.Click on the egg to add it in egg sandwich. 5.Click on the chicken to add it in chicken sandwich. 6.Serve the prepared sandwich to customer.  7.Collect money to raise your score.

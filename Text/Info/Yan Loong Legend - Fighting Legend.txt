@@ -1,0 +1,1 @@
+The VS version of Yan Loong Legend series,you can select your favorite character to fight CPU, or other player.Updated the walking action of characters, new running action instead of old dash action.

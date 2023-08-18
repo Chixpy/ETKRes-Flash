@@ -1,0 +1,1 @@
+Program na tréning koncentrácie, vzdialene pripomínajúci Pexeso. Klikaním na dvojice rovnakých čísel alebo slov v časovom limite treba postupne odstrániť všetky tlačítka. Obsahuje množstvo levelov, od ľahkých až po extrémne náročné.

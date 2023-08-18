@@ -1,0 +1,4 @@
+The game opens up at the wrong resolution.
+To size the game properly, go into full screen (Ctrl+F) as soon as the flash player pops up and press Esc when you want to quit
+All other resizing methods tested resulted in the game going to a completly black screen
+Hacked so that the swf file could recognize the game's assests properly

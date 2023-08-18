@@ -1,0 +1,1 @@
+Quickly remove boxes before they fall off the platform.

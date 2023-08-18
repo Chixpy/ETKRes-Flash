@@ -1,0 +1,1 @@
+A and D are for movement, double-tap A for a dash attack. J, K and L are attack keys.

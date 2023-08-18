@@ -1,0 +1,1 @@
+Text may not display properly if system language is not Traditional Chinese. If a browser window opens, close the browser window when you want to exit the game.

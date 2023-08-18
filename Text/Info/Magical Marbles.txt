@@ -1,0 +1,1 @@
+This is a variation of the classic . Chinese Checkers game.. The objective of the game is to clear . as many pieces as possible.. A move consists of  jumping over any . other one peg into a hole beyond.. Good luck!

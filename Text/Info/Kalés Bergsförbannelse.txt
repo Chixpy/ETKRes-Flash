@@ -1,0 +1,24 @@
+Starts in fullscreen. You can toggle fullscreen via Inställningar -> Helskärm.
+Kalé har burat in kungen och lagt en förbannelse över berget. För att bryta förbannelsen och rädda kungen måste du hitta de tre magiska nycklarna och besegra Kalé.
+
+Det här spelet gjordes som ett skolprojekt i gymnasiet. Det är utan tvekan det flashspel som jag har lagt ner mest tid på.
+
+ ----
+
+Kalé has put the king in a cage and laid a curse over the mountain. To break the curse and save the king you have to find the three magic keys and defeat  Kalé.
+
+I did this game as a school project and it's no doubt the flash game that I have spent most time making. I was working on a version with English language but unfortunately I never got it finished.
+
+Keys:
+Walk left:	                Left arrow key
+Walk right:	        Right arrow key
+Jump:	                Space
+Use weapon:	        Ctrl
+Use shield:	        Shift
+Talk:	                        P
+Show inventory: 	I
+Show attributes:	J
+Drink potion:	       Backspace
+Aim bow down:        Down arrow key
+Aim bow up:	       Up arrow key
+Pick up items:	       Alt

@@ -1,0 +1,1 @@
+Play cat Tetris as you try to combine three of more of the same colored cats vertically and horizontally. Drag and drop cats with your mouse in an attempt to match them up. Don't fur-get to free the trapped cats in the cages, as these are unmovable!

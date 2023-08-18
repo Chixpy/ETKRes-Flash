@@ -1,0 +1,4 @@
+There is a dress up minigame that appears as soon as the game boots up. To bypass this, click the play button in the upper left corner.
+There is a glitch where, during the bonus round, Mario will sometimes stand under the third ? block to the left while the running animation loops indefinitely, essentially softlocking the game.
+The glitch will happen in some playthroughs of the bonus round but not all of them. Instances of this glitch happen at complete random.
+The glitch only happened in Flashpoint Core 3. It did not happen in Core 3.1

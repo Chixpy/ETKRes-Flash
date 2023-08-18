@@ -1,0 +1,1 @@
+Help the little caveman to find his way by doing a combination of platform running and physic slicing. You can slice the platform to create alternate pathways.

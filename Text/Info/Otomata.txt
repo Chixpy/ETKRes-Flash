@@ -1,0 +1,2 @@
+Piece URLS do not function anymore.
+Generate repeating, gradually-evolving music through the use of cells on a grid. Change the direction of the cells to see what new music you can make. Record your songs to share with others!

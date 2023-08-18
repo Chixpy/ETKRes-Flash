@@ -1,0 +1,1 @@
+Program ponúka riešiteľovi slová v rozhádzanom stave. Úlohou riešiteľa je usporiadať písmená. K dispozícii je vyše dvetisíc sedem až desať písmenových slov. Jedná sa o remake môjho staršieho programu.

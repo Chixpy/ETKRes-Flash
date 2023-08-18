@@ -1,0 +1,1 @@
+In this game, you must play as a robot that was left for dead on a decommissioning line and rebel against the boss! You must fight your way through many rooms that are all containing platforming challenges. There are also enemy robots that are set to get you and turn you into scrap metal. controls: Move [WASD] Weapon Cycle [E / Q] Reload [R]

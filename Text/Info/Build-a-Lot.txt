@@ -1,0 +1,1 @@
+Resize window on load since it opens smaller than it should.

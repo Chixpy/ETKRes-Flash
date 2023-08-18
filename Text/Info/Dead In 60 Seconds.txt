@@ -1,0 +1,1 @@
+You are ex-policeman that gets infected by a zombie. Your goal is to run to your safehouse in less than 60 seconds in order to take the vaccine. Each attempt you earn points, that you can spend on upgrades. Run as fast as you can and kill dozens of zombies.

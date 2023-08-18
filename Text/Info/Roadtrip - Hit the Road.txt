@@ -1,0 +1,7 @@
+Accelerate : Up Arrow Key
+Turn Left : Left Arrow Key
+Turn Right : Right Arrow Key
+Brake : Down Arrow Key
+Steer Harder : Hold Down Shift
+Activate Special : Space Bar
+Drive your highly modified family van which is now capable of maneuvering through dense traffic, sail over water and also fly through the air!!! So get ready for an adventurous vacation... Keep and eye on your power meter. If the meter goes empty, your game is over. Collect the gas cans to refill the power meter and also collect the power ups to refill your special meter.

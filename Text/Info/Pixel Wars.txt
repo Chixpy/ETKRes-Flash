@@ -1,0 +1,7 @@
+Story
+The Pixel World was corrupted by a computer virus and youre the last good pixel, you need to use any means necessary to stop the other pixels before theyre able to enter into other realities!
+
+There are three modes
+Normal Get to level 50.
+Infinite Last as long as you can.
+Avoid Youre without a gun, you need to avoid them for as long as you can.

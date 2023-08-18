@@ -1,0 +1,1 @@
+Save game can only be exported, but not loaded back in. / Save game is not working, will load an empty town, character level 99, and cause the game to freeze.

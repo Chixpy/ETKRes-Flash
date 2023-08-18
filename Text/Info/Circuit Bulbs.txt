@@ -1,0 +1,1 @@
+Memorize the order of the glowing bulbs in the circuit and click on the bulbs in same order without making a single mistake. If you misapply a click, you will lose the game.

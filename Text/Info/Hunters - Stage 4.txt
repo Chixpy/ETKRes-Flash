@@ -1,0 +1,28 @@
+Hunters: Relic of Stars - Stage 4. Carina and Avior team up, and head off in search of the third orb.
+
+Play stage 1 here: http://www.newgrounds.com/portal/view/566055
+Play stage 2 here: http://www.newgrounds.com/portal/view/566291
+Play stage 3 here: http://www.newgrounds.com/portal/view/566564
+Play stage 5 here: http://www.newgrounds.com/portal/view/566895
+Play stage 6 here: http://www.newgrounds.com/portal/view/567109
+
+CONTROLS:
+Arrow Keys - Move / Aim
+Z - Shoot
+X - Jump
+C - Change Weapons
+Spacebar - Pause / Open Map
+
+You can also use WASD to move and JKL to shoot/jump/change weapons, however on some browsers/keyboards you may run into issues with too many keys being pressed at once, nothing I can do about that.
+
+========================
+PLAY WITH A CONTROLLER:
+========================
+If you have a PC Gamepad, I highly recommend using the Joy2Key Software. You can download it: here: http://bit.ly/NCx4h
+
+Saving - Progress through the stage is saved automatically at every major checkpoint. If you have to leave and come back, your progress will still be there!
+
+Bugs - If you do find a bug, please report it to me via PM. Be as descriptive as you can, I can't fix things if I don't know what went wrong!
+
+Sticky Keys Bug - If the keys feel like they're sticking, character keeps running after you let go, please read the third post in this thread: http://www.newgrounds.com/bbs/topic/1123318
+This is a bug with some browsers/systems and there's really nothing I can do to fix it.

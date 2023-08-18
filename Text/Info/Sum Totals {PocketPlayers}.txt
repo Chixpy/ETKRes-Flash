@@ -1,0 +1,1 @@
+Make sure the total # equals the sum of the numbers on it's corners.

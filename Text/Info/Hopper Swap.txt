@@ -1,0 +1,3 @@
+The goal is to create rows of three or more of the same figures.
+The row may be horizontal or vertical.
+You get points for each figure you cleared.

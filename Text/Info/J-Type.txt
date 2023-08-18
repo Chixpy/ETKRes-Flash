@@ -1,0 +1,12 @@
+Hello Newgrounds, here's something a bit different for you. J-Type is a typing game, but in japanese. Its primarily intended for people learning japanese, but if you also don't have to know anything to play. Heres a brief rundown of the two gameplay modes
+
+Shooting Mode - Characters appear in a constant stream, type the corresponding romaji to defeat them. If you don't know any japanese, this is the mode for you, just make sure to leave the romaji on
+
+Flash Card Mode - Intended for learning and memorizing the different character sets. Characters appear one at a time, with no time limit. However, the romaji defaults to off so as not to give away the answer right away. If you get stuck though, you can always press space to show the answer
+
+Enjoy, and If you happen to actually know anyone studying japanese, please show them this, they might get a kick out of it
+
+Controls:
+Spacebar - Toggle romaji on and off
+Backspace - Toggle High/Low quality
+Enter - Hide info like score and accuracy

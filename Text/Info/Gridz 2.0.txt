@@ -1,0 +1,1 @@
+Players need to organize the GLYPHS so that each GLYPH has power AND all of the connections are used, but they MUST do all this while juggling TWO conflicting sets of POWER that CANNOT CONNECT.

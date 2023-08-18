@@ -1,0 +1,1 @@
+In this game, your goal is to destroy a set of destructible blocks. Use balls to break all of them to proceed to next levels. If the ball crosses the game area, a pad is lost.

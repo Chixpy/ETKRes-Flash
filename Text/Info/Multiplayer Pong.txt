@@ -1,0 +1,1 @@
+A simple multi-player pong game where the player on the left uses SHIFT and CTRL to move up and down, and the player on the right uses the UP and DOWN arrows. There is no set winning score so you’ll have to decide on that yourself.

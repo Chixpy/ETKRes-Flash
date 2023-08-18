@@ -1,0 +1,1 @@
+Little chicken likes to feed on worms. Help out the chicken to eat the worms without getting in contact with the bombs. If you touch the bomb, a life will get reduced. A bomb gets generated for every two worms that the chicken consumes. To survive longer, grab the worms and avoid the bombs.

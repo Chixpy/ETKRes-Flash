@@ -1,0 +1,1 @@
+Shoot all enemies and stay alive for as long as possible.

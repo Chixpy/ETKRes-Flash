@@ -1,0 +1,1 @@
+Hacked to use the debug game data. Notably, they implemented a randomizer, unlike most games. This is a remake from 2010; the original is lost.

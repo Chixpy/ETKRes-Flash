@@ -1,0 +1,1 @@
+1. Think a two digit number (X) 2. Add both digits in X which will be (Y) 3. Find X-Y = Z 4. Now look at the symbol for the number (Z) at the table.

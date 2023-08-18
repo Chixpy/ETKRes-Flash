@@ -1,0 +1,1 @@
+Sudoku objective The objective of the game is to fill all the empty squares with the correct numbers.You need to follow three constraints. Every row of 9 number must include all digits 1 through 9 in any order. Every column of 9 number must include all digits 1 through 9 in any order. Every 3 by 3 subsection of the 9 by 9 square must include all digits 1 through 9.

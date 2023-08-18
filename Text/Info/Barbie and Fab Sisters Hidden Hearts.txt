@@ -1,0 +1,1 @@
+Game automatically opens in full screen, just hit escape to return to windowed.

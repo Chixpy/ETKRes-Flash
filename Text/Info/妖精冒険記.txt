@@ -1,0 +1,14 @@
+<How to play>
+Use the keyboard to control.
+
+Move: Arrow keys
+Jump: X
+Dash: A
+Pause: Space key
+(There is no attack)
+
+While avoiding enemies and obstacles, aim for the goal indicated by the "!" icon. 
+There are three stages. (XBOX 360 indie game version has all six)
+
+Save is done automatically when the high score is updated.
+For explanations of items, please see the in-game manual.

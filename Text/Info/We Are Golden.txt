@@ -1,0 +1,7 @@
+Journey through a surreal world and face off against several challenging bosses!
+
+Play using the keyboard, mouse, or even two players at once!
+
+Controls:
+Mouse: Mouse to move, left click to shoot
+Keyboard: Arrow keys or WASD to move. Ctrl, Z, or Enter to shoot. Spacebar for autofire.

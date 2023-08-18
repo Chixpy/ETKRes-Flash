@@ -1,0 +1,1 @@
+This is the Flash version of our first iPhone/iPad game Linebacker Alley. The objective is to rush for as many yards as you can. Along the way your running back can pick up boosts, spins, and the Beastmode fireball. Upgrade your RB to beat the LBs to the endzone! S to spin, A to jump, Arrows to move left, right, and go faster.

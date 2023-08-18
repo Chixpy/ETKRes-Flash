@@ -1,0 +1,1 @@
+Hacked to use the "debug game data" and turn the timer on.

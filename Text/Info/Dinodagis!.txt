@@ -1,0 +1,1 @@
+Highscores are not available, and the game will always tell you you don't have enough points to submit a score.

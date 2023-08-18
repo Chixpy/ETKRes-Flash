@@ -1,0 +1,1 @@
+Flashpoint Redirector returns 3 (404 Not Found) errors but game starts after about 20 seconds of loading

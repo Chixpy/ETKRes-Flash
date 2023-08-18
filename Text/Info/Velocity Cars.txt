@@ -1,0 +1,1 @@
+Drive your Car to reach the target distance. The distance increases with each level. Avoid colliding with other cars. Keep an eye on your Cars health. The game gets over If you lose the health. Complete all levels to win the game.

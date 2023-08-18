@@ -1,0 +1,7 @@
+The game opens in a slightly bigger resolution than intended.
+Jump N Bump is an insanely addictive retro platformer.
+Avoid hazards and collect stars in order to bounce your way to victory.
+
+Use arrow left and right to move and use bumpers to jump higher!
+
+Have fun!

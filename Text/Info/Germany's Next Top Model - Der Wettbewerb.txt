@@ -1,0 +1,1 @@
+Branded version of Model Studio. Hacked to use the debug mode; this skips King's API and uses XML data from the SWF. Because of this, the text has been modified with placeholders and references to pop culture.

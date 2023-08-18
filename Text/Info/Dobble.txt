@@ -1,0 +1,1 @@
+Guide Dobble to the right letter as you try to make a word. Guide him to the wrong letter and it's game over!

@@ -1,0 +1,20 @@
+The following is a rough translation of the Spanish in game:
+
+Game Instructions:
+
+1) Use the "pink cloud" icon for Billy to climb the wall
+2) Use the "green balloon" icon for Billy to land safely
+3) Use the "pylon" icon for Billy to stop the other Billies (turns him into an obstacle)
+4) Use the "bomb" icon to transform Billy into a time bomb (about 5-second timer)
+5) Use the "chili" icon for Billy to drill through the ground
+6) Use the "bridge" icon for Billy to build a bridge to cross gaps (5 pieces of snot are used to make the bridge)
+
+Click the icon, then click Billy for him to perform the action.
+
+Level Complete Summary:
+
+Billies rescued
+Billies lost
+Entering level
+
+Getting better?

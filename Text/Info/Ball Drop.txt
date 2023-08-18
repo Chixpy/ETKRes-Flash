@@ -1,0 +1,1 @@
+Ball Drop is a mixture of Plinko and Pinball. Drop black pearls and hit specified balls to clear the game’s 30 levels.

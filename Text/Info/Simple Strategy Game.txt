@@ -1,0 +1,9 @@
+— Each map is divided into territories. You win if you control them all.
+
+	— Loses during battle are 1 for 1 (one attacking unit is lost for each defending unit.)
+
+	— At the end of each player’s turn they earn 1 unit for each territory they own.
+
+	— New units are placed on territories that border enemy territories first.
+
+	— There is a max of 10 units per territory.

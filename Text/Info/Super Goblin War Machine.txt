@@ -1,0 +1,5 @@
+This game is kind of broken.
+
+* No sound due to missing assets. Will make the redirector/logs tab go crazy.
+* You'll need to close and re-open the game in order to do anything on the level select screen sometimes. (Your progress will be saved.)
+* It might just crash anyway.

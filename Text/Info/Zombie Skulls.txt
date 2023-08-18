@@ -1,0 +1,1 @@
+Your task is to find unsimilar skull from the group of zombie skulls before the loader power decreases.Earn scores and move to successive level.You lose a life, when you click on the wrong skull.You have three chances to win the game. Complete all the levels and have a thrilling game.

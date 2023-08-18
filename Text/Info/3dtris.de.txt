@@ -1,0 +1,1 @@
+Pressing ESC to quit on the original version does not work.

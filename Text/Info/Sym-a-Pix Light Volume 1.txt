@@ -1,0 +1,1 @@
+The object is to reveal a hidden picture by drawing a block around each dot so that its shape is ‎rotationally symmetrical to the dot, its color matches the color of the dot, there are no other dots ‎inside it and no squares are left out at the end of the solution. There is only one unique solution for each puzzle.

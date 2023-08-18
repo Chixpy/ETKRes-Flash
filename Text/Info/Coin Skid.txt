@@ -1,0 +1,1 @@
+The objective of the game is to move the coin within the game area and collect the keys that appear in your way. You will be able to reach the destination area only after collecting all the keys. Collecting the diamonds will fetch you bonus points.

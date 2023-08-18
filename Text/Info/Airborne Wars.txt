@@ -1,0 +1,2 @@
+Game will throw a communication error on level complete, it can be skipped to continue playing.
+War means a tough time during which you have to survive. In order to do that conquer the enemy's bases by sending troops on assignment to take them over! Use the mouse to direct your warriors to their target!

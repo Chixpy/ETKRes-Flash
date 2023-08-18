@@ -1,0 +1,1 @@
+"Pick New Caps" button doesn't work.
